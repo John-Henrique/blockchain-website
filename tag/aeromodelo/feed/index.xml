@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Aeromodelo | JOHN-HENRIQUE</title>
+	<atom:link href="https://johnhenrique.on.fleek.co/tag/aeromodelo/feed" rel="self" type="application/rss+xml" />
+	<link>https://johnhenrique.on.fleek.co/</link>
+	<description>Desenvolvendo web e móvel sem complicação</description>
+	<lastBuildDate>Sun, 22 Aug 2021 05:07:40 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+
+<image>
+	<url>https://johnhenrique.on.fleek.co/wp-content/uploads/2020/10/cropped-logo-johnhenrique-icone-32x32.png</url>
+	<title>Aeromodelo | JOHN-HENRIQUE</title>
+	<link>https://johnhenrique.on.fleek.co/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Como construir um aeromodelo de controle remoto</title>
+		<link>https://johnhenrique.on.fleek.co/aeromodelismo/como-construir-um-aeromodelo-de-controle-remoto.html</link>
+					<comments>https://johnhenrique.on.fleek.co/aeromodelismo/como-construir-um-aeromodelo-de-controle-remoto.html#respond</comments>
+		
+		<dc:creator><![CDATA[John]]></dc:creator>
+		<pubDate>Thu, 31 Jan 2019 12:00:00 +0000</pubDate>
+				<category><![CDATA[Aeromodelismo]]></category>
+		<category><![CDATA[Aeromodelo]]></category>
+		<category><![CDATA[Bateria]]></category>
+		<category><![CDATA[Drone]]></category>
+		<category><![CDATA[Hélice]]></category>
+		<guid isPermaLink="false">https://johnhenrique.on.fleek.co/?p=982</guid>
+
+					<description><![CDATA[<p>Sem duvida aeromodelismo é um hobby que encanta a todos provavelmente porque quando crianças o sonho é ser o superman ou voar =D , mas apesar de ser um hobby, não trata-se de algo que você consiga praticar da noite para o dia, são necessárias várias horas e tentativas até conseguir realmente controlar um aeromodelo&#8230; <a class="more-link" href="https://johnhenrique.on.fleek.co/aeromodelismo/como-construir-um-aeromodelo-de-controle-remoto.html">Continuar lendo <span class="screen-reader-text">Como construir um aeromodelo de controle remoto</span></a></p>
+<p>The post <a href="https://johnhenrique.on.fleek.co/aeromodelismo/como-construir-um-aeromodelo-de-controle-remoto.html">Como construir um aeromodelo de controle remoto</a> first appeared on <a href="https://johnhenrique.on.fleek.co/">JOHN-HENRIQUE</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Sem duvida aeromodelismo é um hobby que encanta a todos provavelmente porque quando crianças o sonho é ser o superman ou voar =D , mas apesar de ser um hobby, não trata-se de algo que você consiga praticar da noite para o dia, são necessárias várias horas e tentativas até conseguir realmente controlar um aeromodelo voando, quando digo controlar me refiro a decolar, voar e pousar na hora que você desejar, no inicio praticamente o aeromodelo voa do ‘jeito que dá’ e acaba caindo, no inicio é normal, mas você precisará de tempo, treino e persistência e logo estará controlando um voo de verdade.<span id="more-982"></span></p>
+<h2>Aproveitar controle e motor de carrinho</h2>
+<p>Provavelmente você tenha um carrinho de controle remoto com algum defeito encostado por ai, é normal você querer reaproveitar parte dele para fazer um avião, você provavelmente consiga, existem projetos na internet explicando como fazer, mas dá trabalho demais conseguir todo o necessário e não vai ficar bom pra voar e o aeromodelo precisará ser bem leve… ninguém mais faz isso. O controle do voo é muito ruim e a distância entre o controle e o aviãozinho será a mesma que você tinha com o carrinho, logo, não dá pra voar de verdade.</p>
+<p>Em resumo, utilizar o motor ou controle de carrinho não é uma alternativa interessante.</p>
+<h2>Iniciante, por onde começar</h2>
+<p>O ideal é você comprar a eletrônica para aeromodelo e futuramente você pode reutiliza-la (ou parte dela) para outros projetos como outro aeromodelo ou barco. Se você conhece alguém que já pratica o aeromodelismo, seria bom trocar algumas ideias com esta pessoa, você pode também visitar algum clube de aeromodelismo se na tua cidade existe um, mas se não for possível, não tem problema, recorra a internet, existem diversos sites e vídeos no YouTube explicando como construir, controlar entre outras informações.</p>
+<p>O importante é que antes de começar você leia bastante sobre o assunto, entenda as diferenças entre os diversos tipos de aeromodelos, hélices e eletrônicas, só depois você deverá escolher qual aeromodelo deverá construir e qual eletrônica comprar. Inicie com um aeromodelo de asa alta, popularmente conhecido como aeromodelo treinador, praticamente todos iniciam com o modelo chamado CESSNA, tem planta dele pra todo lado na internet (temos um link no final deste post).</p>
+<p>Quanto a eletrônica para fazer o aeromodelo voar, você precisará de:</p>
+<ul>
+<li>1 Motor Emax CF2822 1100kv, com montante e salva hélice</li>
+<li>4 Servos 9g (2 para ailerons, 1 profundor e 1 para leme)</li>
+<li>1 ESC 30A</li>
+<li>1 Bateria Lipo 3S 20 a 45C de 1800 mAh a 2200 mAh</li>
+<li>1 Rádio (TX)</li>
+<li>1 Receptor (RX)</li>
+<li>1 Helice GWS EP8040 (mas é bom ter váriassss)</li>
+<li>1 Buzzer digital (desejável)</li>
+</ul>
+<p>Basicamente você precisa apenas disso como eletrônica para iniciar.</p>
+<ol>
+<li>O motor, serve para… ah você já sabe…</li>
+<li>O ESC serve para ‘controlar a potencia do motor’ e tem um fio para alimentar o receptor, que controla o ESC e os servos.</li>
+<li>A bateria alimenta toda a eletrônica (ah sério?!).</li>
+<li>O rádio é sua interface de controle a distância, é com ele que você dá comandos ao aeromodelo. Normalmente o alcance do rádio é de 800 metros, totalizando 1600 metros tendo o rádio como centro da área de alcance.</li>
+<li>O receptor recebe os sinais e transmite os comandos para as coisas ‘funcionarem no aero’.</li>
+<li>O buzzer serve como alerta para o caso da bateria começar a descarregar, ele emite um alarme e você sabe que precisa pousar, ele também mostra qual a carga atual da bateria e a voltagem.</li>
+<li>A hélice é bom ter várias porque de inicio você vai quebrar várias, neste caso temos uma hélice de 8 polegadas por 4 de passo, cada tipo de hélice tem uma utilização, esta configuração dá um desempenho de 600 gramas, ou seja, este motor com esta hélice conseguem puxar 600 gramas, desta forma facilmente você conseguiria voar um avião de até 1 quilo (Saiba mais sobre empuxo).</li>
+</ol>
+<p>Você pode encontrar toda esta eletrônica em formato de combo, vem tudo junto e alguns fios já soldados para você não ter trabalho, no Mercado Livre e em vários sites tu acha aos montes, mas pode comprar separados achar mais interessante, na minha opinião é desvantagem caso você precise pagar o frete de cada item.</p>
+<p>Quando for voar lembre-se sempre de ir para uma área não habitada, aberta, sem movimento de pessoas, carros ou animais. Um aeromodelo não é um carrinho e ele pode ferir pessoas e causar danos materiais, você não precisa nem se preocupar em fazer um aeromodelo bonito, ate você aprender a voar você irá quebrá-lo em várias quedas, então tente voar em locais onde exista mato alto ou canavial;</p>
+<p>Aqui tem uma sequencia de filmes mostrando como construir um aeromodelo CESSNA do inicio ao fim.</p>
+<p><iframe loading="lazy" title="Como construir um Aeromodelo parte 1" width="750" height="563" src="https://www.youtube.com/embed/CZSK6fpw8XE?list=PLA43A3822B25041D8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p><p>The post <a href="https://johnhenrique.on.fleek.co/aeromodelismo/como-construir-um-aeromodelo-de-controle-remoto.html">Como construir um aeromodelo de controle remoto</a> first appeared on <a href="https://johnhenrique.on.fleek.co/">JOHN-HENRIQUE</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://johnhenrique.on.fleek.co/aeromodelismo/como-construir-um-aeromodelo-de-controle-remoto.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Câmera Mobius Action Cam</title>
+		<link>https://johnhenrique.on.fleek.co/aeromodelismo/camera-mobius-action-cam.html</link>
+					<comments>https://johnhenrique.on.fleek.co/aeromodelismo/camera-mobius-action-cam.html#respond</comments>
+		
+		<dc:creator><![CDATA[John]]></dc:creator>
+		<pubDate>Wed, 30 Jan 2019 13:53:47 +0000</pubDate>
+				<category><![CDATA[Aeromodelismo]]></category>
+		<category><![CDATA[Aeromodelo]]></category>
+		<category><![CDATA[Câmera]]></category>
+		<category><![CDATA[Drone]]></category>
+		<category><![CDATA[FPV]]></category>
+		<category><![CDATA[Mobius]]></category>
+		<guid isPermaLink="false">https://johnhenrique.on.fleek.co/?p=980</guid>
+
+					<description><![CDATA[<p>Entre as várias opções disponíveis no mercado a Action Cam Mobius se destaca pelo tamanho, peso e principalmente pelo custo benefício, estamos falando de uma das câmeras mais baratas do mercado! A câmera Mobius é indicada para “uso em ação” para gravar seu passeio de moto, de bike, o voo do seu aeromodelo, FPV ou&#8230; <a class="more-link" href="https://johnhenrique.on.fleek.co/aeromodelismo/camera-mobius-action-cam.html">Continuar lendo <span class="screen-reader-text">Câmera Mobius Action Cam</span></a></p>
+<p>The post <a href="https://johnhenrique.on.fleek.co/aeromodelismo/camera-mobius-action-cam.html">Câmera Mobius Action Cam</a> first appeared on <a href="https://johnhenrique.on.fleek.co/">JOHN-HENRIQUE</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Entre as várias opções disponíveis no mercado a Action Cam Mobius se destaca pelo tamanho, peso e principalmente pelo custo benefício, estamos falando de uma das câmeras mais baratas do mercado! A câmera Mobius é indicada para “uso em ação” para gravar seu passeio de moto, de bike, o voo do seu aeromodelo, FPV ou o que sua criatividade necessitar, o fato de ser uma câmera pequena e leve permite que ela seja fixada em qualquer superfície utilizando um simples adesivo velcro, assim, você pode adapta-la ao guidão da tua bicicleta, moto, capacete ou o painel do carro.</p>
+<p><span id="more-980"></span>A Mobius filma em HD 1080p-30fps or 720p-60fps ou 720p-30fps, é totalmente configurável permitindo girar o vídeo em até 180°, permitindo então o uso em posições fora do padrão (de cabeça para baixo ou lateralmente por exemplo). Você pode inclusive fotografar com imagens nos tamanhos 2304×1536, 1920×1080 ou 1280×720, é possível filmar e configurá-la para fotografar automaticamente a cada .25, .5, 1, 2, 5, 10, 30 e 60 segundos. Veja <a title="Camera Mobius – Como configurar" href="https://johnhenrique.on.fleek.co/aeromodelismo/camera-mobius-como-configurar.html">como configurar data e hora na Mobius</a>.</p>
+<h3>Características técnicas</h3>
+<figure id="attachment_1028" aria-describedby="caption-attachment-1028" style="width: 357px" class="wp-caption alignright"><img loading="lazy" class="size-publisher-md wp-image-1028" src="https://johnhenrique.on.fleek.co/wp-content/uploads/2019/01/mobius-action-cam-357x210.jpg" alt="Mobius Action Câmera" width="357" height="210" /><figcaption id="caption-attachment-1028" class="wp-caption-text">Mobius Action Câmera</figcaption></figure>
+<p>Peso: 39 gramas<br />
+Formato de vídeo: 1080p HD @ 30fps, 720p HD at 60 or 30fps<br />
+Bateria: 520mah<br />
+Microfone: Sim<br />
+Armazenamento: Cartão de memória Micro SD de até 32GB<br />
+Saída de áudio e vídeo: Saída de áudio e vídeo disponíveis<br />
+Proporção de tela: 4:3 ou 16:9<br />
+Software: Possui um software de interface gráfica (GUI) para permitir modificar configurações de forma fácil e intuitiva.<br />
+Incluso: 1 adaptador para tripé, 1 pedaço de velcro, 1 tampa da lente, 1 Cabo de dados/carga e 1 chave alen</p>
+<h3>Onde comprar?</h3>
+<p>Você encontra a Mobius HD com frete grátis pra todo o Brasil neste site internacional, por pouco menos de R$ 180,00. Eles entregam na tua casa em até 30 dias uteis.</p>
+<h3>Pra que serve?</h3>
+<p>A Mobius HD é uma câmera para gravar momentos de ação onde tudo acontece muito rápido e não dá pra ficar filmando como numa câmera normal, por isso, ela possui poucos botões e é tão pequena. É bastante utilizada por esportistas para gravar saltos de paraquedas, corridas, trilhas e uma infinidade de outras utilidades. Veja alguns exemplos abaixo:</p>
+<p>No capacete da motocicleta</p>
+<p><iframe loading="lazy" title="mobius action camera test full hd on motorbike, with HDR on" width="750" height="422" src="https://www.youtube.com/embed/b5OqUyPc6Ls?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Na bolha de mergulho</p>
+<p><iframe loading="lazy" title="Mobius waterproof case diving test" width="750" height="422" src="https://www.youtube.com/embed/F5WSGTvNzKg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Numa ‘tiara na cabeça’</p>
+<p><iframe loading="lazy" title="Mobius Action Camera - Amanzimtoti Surf" width="750" height="422" src="https://www.youtube.com/embed/HpehaJHWjPI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>No drone (controlado por rádio utilizando FPV)</p>
+<p><iframe loading="lazy" title="200qx   FPV / Mobius" width="750" height="422" src="https://www.youtube.com/embed/mIK-kCtdLpA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p><p>The post <a href="https://johnhenrique.on.fleek.co/aeromodelismo/camera-mobius-action-cam.html">Câmera Mobius Action Cam</a> first appeared on <a href="https://johnhenrique.on.fleek.co/">JOHN-HENRIQUE</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://johnhenrique.on.fleek.co/aeromodelismo/camera-mobius-action-cam.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Comprar drone com câmera</title>
+		<link>https://johnhenrique.on.fleek.co/aeromodelismo/comprar-drone-com-camera.html</link>
+					<comments>https://johnhenrique.on.fleek.co/aeromodelismo/comprar-drone-com-camera.html#respond</comments>
+		
+		<dc:creator><![CDATA[John]]></dc:creator>
+		<pubDate>Tue, 29 Jan 2019 12:44:06 +0000</pubDate>
+				<category><![CDATA[Aeromodelismo]]></category>
+		<category><![CDATA[Aeromodelo]]></category>
+		<category><![CDATA[Bateria]]></category>
+		<category><![CDATA[Câmera]]></category>
+		<category><![CDATA[Drone]]></category>
+		<guid isPermaLink="false">https://johnhenrique.on.fleek.co/?p=970</guid>
+
+					<description><![CDATA[<p>Comprar um drone não é uma tarefa difícil mas é uma pergunta comum a quem está tentando iniciar no hobby de multirotores. Normalmente as pessoas pensam em adquirir algum modelo DJI Phantom, trata-se de um multirotor de alto desempenho e consequentemente mais caro, em torno de R$ 4300,00, o preço se justifica pelo fato deste&#8230; <a class="more-link" href="https://johnhenrique.on.fleek.co/aeromodelismo/comprar-drone-com-camera.html">Continuar lendo <span class="screen-reader-text">Comprar drone com câmera</span></a></p>
+<p>The post <a href="https://johnhenrique.on.fleek.co/aeromodelismo/comprar-drone-com-camera.html">Comprar drone com câmera</a> first appeared on <a href="https://johnhenrique.on.fleek.co/">JOHN-HENRIQUE</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Comprar um drone não é uma tarefa difícil mas é uma pergunta comum a quem está tentando iniciar no hobby de multirotores. Normalmente as pessoas pensam em adquirir algum modelo DJI Phantom, trata-se de um multirotor de alto desempenho e consequentemente mais caro, em torno de R$ 4300,00, o preço se justifica pelo fato deste modelo possuir GPS, o fato é que ao utilizar um modelo assim, em todos os voos você estará dependendo destes recursos, mas no caso deles falharem você não terá capacidade de realizar o controle do drone e ele cairá.<span id="more-970"></span></p>
+<p>Particularmente recomendo para iniciantes os modelos mais simples, afinal, eles são baratos e fáceis de controlar. Além disso são leves (cerca de 300 gramas) e praticamente inofensivos, digamos que se por alguma razão você perder o controle do voo e o drone cair, mesmo que você atingir algo ou alguém os danos ou ferimentos serão mínimos, já no caso de um Phantom, o peso é de 1 quilo, dependendo da altura ao cair se atingir uma pessoa pode inclusive levar a morte. As hélices de multirotores ficam sempre expostas e podem causar danos físicos graves. Para deixar isso bem claro, veja o resultado de um Phantom e um piloto inexperiente, em um de seus primeiros voos.</p>
+<p>Sempre recomendo modelos simples e baratos, no inicio você não saberá controlar o voo corretamente e irá causar quedas, batidas e quebrar algumas coisas, logo, os modelos mais baratos são mais recomendados, além do que, por serem leves são mais resistentes, pois podem ser fabricados com material flexível. Futuramente você poderá adquirir um modelo maior e mais sofisticado.</p>
+<p>Uma ótima indicação é o <a href="http://goo.gl/Jzh4nn">Hubsan X4 H107L</a>, é um quadricóptero (4 motores) com sensor de estabilização de voo, isto quer dizer que se você largar o controle ele irá permanecer pairando no ar (sem subir ou descer), possui leds para orientação e voos noturnos. Além disso tem alcance de 100 metros e consegue voar por 9 minutos, suficiente para a maioria dos voos.</p>
+<figure id="attachment_971" aria-describedby="caption-attachment-971" style="width: 600px" class="wp-caption alignnone"><img loading="lazy" class="size-full wp-image-971" src="https://johnhenrique.on.fleek.co/wp-content/uploads/2019/01/Hubsan-X4-H107L.jpg" alt="Hubsan X4 H107L" width="600" height="338" srcset="https://johnhenrique.on.fleek.co/wp-content/uploads/2019/01/Hubsan-X4-H107L.jpg 600w, https://johnhenrique.on.fleek.co/wp-content/uploads/2019/01/Hubsan-X4-H107L-300x169.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-971" class="wp-caption-text">Hubsan X4 H107L</figcaption></figure>
+<p>O <a href="http://goo.gl/Jzh4nn">Hubsan X4 H107L</a> é um modelo RTF (Read To Fly), isto quer dizer, que vem pronto para voar, ele vem com controle, 2 conjuntos de hélices, um carregador de baterias com conexão USB e o quadricóptero. O Hubsan X4 com frete sai por cerca de R$ 135, em média demora uns 30 dias para chegar no Brasil. Não se engane, mesmo pequeno este quadricoptero alcança 50 km/h (velocidade máxima) e possui um dos melhores sistemas de estabilização de voo.</p>
+<figure id="attachment_972" aria-describedby="caption-attachment-972" style="width: 600px" class="wp-caption alignnone"><img loading="lazy" class="size-full wp-image-972" src="https://johnhenrique.on.fleek.co/wp-content/uploads/2019/01/Hubsan-X4-H107L-manual.jpg" alt="Hubsan X4 H107L alcance de 100 metros e 50 km/h" width="600" height="388" srcset="https://johnhenrique.on.fleek.co/wp-content/uploads/2019/01/Hubsan-X4-H107L-manual.jpg 600w, https://johnhenrique.on.fleek.co/wp-content/uploads/2019/01/Hubsan-X4-H107L-manual-300x194.jpg 300w, https://johnhenrique.on.fleek.co/wp-content/uploads/2019/01/Hubsan-X4-H107L-manual-210x136.jpg 210w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-972" class="wp-caption-text">Hubsan X4 H107L alcance de 100 metros e 50 km/h</figcaption></figure>
+<p>É importante que na hora da compra você adquira também:</p>
+<ol>
+<li>Baterias extras (lipo 240maH 3.7v) <a href="http://goo.gl/ZINXpc">http://goo.gl/ZINXpc</a></li>
+<li>Hélices extras <a href="http://goo.gl/dM6aeY">http://goo.gl/dM6aeY</a></li>
+<li>Protetor de hélices <a href="http://goo.gl/KJghwB">http://goo.gl/KJghwB</a></li>
+<li>Carregador USB (para carregar baterias em simultâneo) <a href="http://goo.gl/TSWz1n">http://goo.gl/TSWz1n</a></li>
+</ol>
+<p>OBS.: Aqui no Brasil, utilizamos o modelo ‘Mode 2 (Left hand throttle)’, isto quer dizer que o acelerador fica do lado direito do controle.</p><p>The post <a href="https://johnhenrique.on.fleek.co/aeromodelismo/comprar-drone-com-camera.html">Comprar drone com câmera</a> first appeared on <a href="https://johnhenrique.on.fleek.co/">JOHN-HENRIQUE</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://johnhenrique.on.fleek.co/aeromodelismo/comprar-drone-com-camera.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Comprar drone barato com câmera</title>
+		<link>https://johnhenrique.on.fleek.co/aeromodelismo/comprar-drone-barato-com-camera.html</link>
+					<comments>https://johnhenrique.on.fleek.co/aeromodelismo/comprar-drone-barato-com-camera.html#respond</comments>
+		
+		<dc:creator><![CDATA[John]]></dc:creator>
+		<pubDate>Mon, 28 Jan 2019 12:29:46 +0000</pubDate>
+				<category><![CDATA[Aeromodelismo]]></category>
+		<category><![CDATA[Aeromodelo]]></category>
+		<category><![CDATA[Bateria]]></category>
+		<category><![CDATA[Câmera]]></category>
+		<category><![CDATA[Drone]]></category>
+		<category><![CDATA[Rádio]]></category>
+		<guid isPermaLink="false">https://johnhenrique.on.fleek.co/?p=965</guid>
+
+					<description><![CDATA[<p>Conheça 3 modelos de drone com câmera. Quando o assunto é drone o maior interesse é ter um com câmera pra voar tendo a visão de quem estivesse pilotando de dentro do aeromodelo. Existem vários modelos de drones simples sem câmera, mas também existem modelos simples com câmera com ótima qualidade de imagem, alguns permitem até&#8230; <a class="more-link" href="https://johnhenrique.on.fleek.co/aeromodelismo/comprar-drone-barato-com-camera.html">Continuar lendo <span class="screen-reader-text">Comprar drone barato com câmera</span></a></p>
+<p>The post <a href="https://johnhenrique.on.fleek.co/aeromodelismo/comprar-drone-barato-com-camera.html">Comprar drone barato com câmera</a> first appeared on <a href="https://johnhenrique.on.fleek.co/">JOHN-HENRIQUE</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Conheça 3 modelos de <strong>drone com câmera</strong>. Quando o assunto é drone o maior interesse é ter um com câmera pra voar tendo a visão de quem estivesse pilotando de dentro do aeromodelo. Existem vários modelos de drones simples sem câmera, mas também existem modelos simples com câmera com ótima qualidade de imagem, alguns permitem até fotografar ou controlar o drone através do celular.<span id="more-965"></span></p>
+<p>Primeiramente quero deixar claro que existe uma diferença entre os drones, neste caso, iremos falar sobre os drones com quatro motores conhecidos como quadricóptero, este tipo de drone tem como característica principal ter 4 braços, dai o nome, possui decolagem vertical e é o tipo de drone mais comum. Daqui em diante passaremos a chama os drones pelo nome correto, quadricóptero. Outro ponto importante é que por ser um equipamento movido por controle remoto, quanto mais canais possuir mais controle você terá sobre o voo, logo, um modelo de 6 canais voa melhor que um modelo de 3. No post <a href="https://johnhenrique.on.fleek.co/comprar-drone-com-camera">Comprar drone com câmera</a> apresentamos algumas considerações importantes para você avaliar antes de adquirir seu primeiro drone.</p>
+<h3><span id="Drone_JJRC_H8C_4_canais_e_camera">Drone JJRC H8C 4 canais e câmera</span></h3>
+<figure id="attachment_968" aria-describedby="caption-attachment-968" style="width: 600px" class="wp-caption alignnone"><img loading="lazy" class="size-full wp-image-968" src="https://johnhenrique.on.fleek.co/wp-content/uploads/2019/01/drone-com-camera-jjrc-h8c-DFD-e1430403922607.jpg" alt="Drone JJRC H8C 4 canais e câmera" width="600" height="295" srcset="https://johnhenrique.on.fleek.co/wp-content/uploads/2019/01/drone-com-camera-jjrc-h8c-DFD-e1430403922607.jpg 600w, https://johnhenrique.on.fleek.co/wp-content/uploads/2019/01/drone-com-camera-jjrc-h8c-DFD-e1430403922607-300x148.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-968" class="wp-caption-text">Drone JJRC H8C 4 canais e câmera</figcaption></figure>
+<p>&nbsp;</p>
+<p>O primeiro de nossa lista é o JJRC H8C, este modelo possui duas opções de cores preto e branco. Este modelo possui câmera de 2 MP, é um modelo muito completo, rico em detalhes e lembra bastante o quadricóptero DJI Phantom (não indicado para iniciantes). Possui aproximadamente 40CM x 11CM de tamanho, a câmera vai instalada na parte inferior, possui 4 canais, o tempo de voo chega a 8 minutos e alcança aproximadamente 80 metros de distância!</p>
+<p>Não deixa a desejar em nada, o custo de manutenção é realmente baixo, todas as peças são baratas e feitas com material flexível e isto torna-os mais resistentes a quedas. O melhor de tudo custa em média R$ 160, veja <a href="http://goo.gl/NOUyZK" target="_blank" rel="noopener">http://goo.gl/NOUyZK</a></p>
+<h4>Onde comprar?</h4>
+<ul>
+<li>Quadricóptero <strong>JJRC H8C</strong> <a href="http://goo.gl/NOUyZK" target="_blank" rel="noopener">http://goo.gl/NOUyZK</a></li>
+<li>Hélices <a href="http://goo.gl/dbQQpY" target="_blank" rel="noopener">http://goo.gl/dbQQpY</a></li>
+<li>Protetor de hélices <a href="http://goo.gl/gAo9IR" target="_blank" rel="noopener">http://goo.gl/gAo9IR</a></li>
+<li>Trem de pouso <a href="http://goo.gl/kEsKph" target="_blank" rel="noopener">http://goo.gl/kEsKph</a></li>
+<li>Bateria <a href="http://goo.gl/mNuevU" target="_blank" rel="noopener">http://goo.gl/mNuevU</a></li>
+<li>Carregador <a href="http://goo.gl/IgZej0" target="_blank" rel="noopener">http://goo.gl/IgZej0</a></li>
+<li>Frame <a href="http://goo.gl/kuxWQG" target="_blank" rel="noopener">http://goo.gl/kuxWQG</a></li>
+<li>LEDs das luzes de navegação <a href="http://goo.gl/i7KL9g" target="_blank" rel="noopener">http://goo.gl/i7KL9g</a></li>
+<li>Câmera <a href="http://goo.gl/w52Dkm" target="_blank" rel="noopener">http://goo.gl/w52Dkm</a></li>
+</ul>
+<h3><span id="Drone_Syma_X5C_4_canais_ecamera">Drone Syma X5C 4 canais e câmera</span></h3>
+<figure id="attachment_967" aria-describedby="caption-attachment-967" style="width: 600px" class="wp-caption alignnone"><img loading="lazy" class="size-full wp-image-967" src="https://johnhenrique.on.fleek.co/wp-content/uploads/2019/01/drone-com-camera-syma-x5c-e1430424340868.jpg" alt="Drone Syma X5C 4 canais e câmera" width="600" height="300" srcset="https://johnhenrique.on.fleek.co/wp-content/uploads/2019/01/drone-com-camera-syma-x5c-e1430424340868.jpg 600w, https://johnhenrique.on.fleek.co/wp-content/uploads/2019/01/drone-com-camera-syma-x5c-e1430424340868-300x150.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-967" class="wp-caption-text">Drone Syma X5C 4 canais e câmera</figcaption></figure>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Este é o <strong>Syma X5C</strong>, disponível apenas na cor branco. Este modelo possui câmera de 2 MP, é um modelo muito completo, permite gravar e fazer fotos ao mesmo tempo, basta selecionar no controle (durante o voo). Possui aproximadamente 31CM x 8CM de tamanho, a câmera vai instalada na parte inferior, possui 4 canais, o tempo de voo chega a 7 minutos e alcança aproximadamente 50 metros.</p>
+<p>Todas as peças são baratas e feitas com material flexível e isto as torna mais resistentes a danos. O melhor de tudo custa em média R$ 170, veja <a href="http://goo.gl/SGHcM9" target="_blank" rel="noopener">http://goo.gl/SGHcM9</a></p>
+<h4>Onde comprar?</h4>
+<ul>
+<li>Quadricóptero <strong>Syma X5C</strong> <a href="http://goo.gl/SGHcM9" target="_blank" rel="noopener">http://goo.gl/SGHcM9</a></li>
+<li>Hélices <a href="http://goo.gl/apS1f6" target="_blank" rel="noopener">http://goo.gl/apS1f6</a></li>
+<li>Protetor de hélices <a href="http://goo.gl/KT8jG6" target="_blank" rel="noopener">http://goo.gl/KT8jG6</a></li>
+<li>Trem de pouso <a href="http://goo.gl/sNBZc7" target="_blank" rel="noopener">http://goo.gl/sNBZc7</a></li>
+<li>Bateria <a href="http://goo.gl/77EfOY" target="_blank" rel="noopener">http://goo.gl/77EfOY</a></li>
+<li>Carregador <a href="http://goo.gl/IgZej0" target="_blank" rel="noopener">http://goo.gl/IgZej0</a></li>
+<li>Frame <a href="http://goo.gl/jU1opz" target="_blank" rel="noopener">http://goo.gl/jU1opz</a></li>
+<li>LEDs das luzes de navegação <a href="http://goo.gl/R3KBAs" target="_blank" rel="noopener">http://goo.gl/R3KBAs</a></li>
+<li>Câmera <a href="http://goo.gl/JhzF6n" target="_blank" rel="noopener">http://goo.gl/JhzF6n</a></li>
+</ul>
+<h3><span id="Drone_Hubsan_X4_H107C_4_canais_e_camera">Drone Hubsan X4 H107C 4 canais e câmera</span></h3>
+<figure id="attachment_966" aria-describedby="caption-attachment-966" style="width: 600px" class="wp-caption alignnone"><img loading="lazy" class="size-full wp-image-966" src="https://johnhenrique.on.fleek.co/wp-content/uploads/2019/01/drone-com-camera-hubsan-x4-h107c.jpg" alt="Drone Hubsan X4 H107C 4 canais e câmera" width="600" height="300" srcset="https://johnhenrique.on.fleek.co/wp-content/uploads/2019/01/drone-com-camera-hubsan-x4-h107c.jpg 600w, https://johnhenrique.on.fleek.co/wp-content/uploads/2019/01/drone-com-camera-hubsan-x4-h107c-300x150.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-966" class="wp-caption-text">Drone Hubsan X4 H107C 4 canais e câmera</figcaption></figure>
+<p>&nbsp;</p>
+<p>Este é um modelo disponível em 3 cores (verde, preto e vermelho), possui um frame mais esportivo, muito bem trabalhado, porem deixa a desejar na qualidade das imagens, a câmera tem apenas 0.3 MP, uma imagem realmente ruim, o tempo de voo é de 7 minutos e alcance de 50 metros. Possui 13 CM x 8 CM de tamanho. Todas as peças são baratas e feitas com material flexível e resistentes a danos. O melhor de tudo custa em média R$ 212, veja <a href="http://goo.gl/IoMIkt" target="_blank" rel="noopener">http://goo.gl/IoMIkt</a></p>
+<h4>Onde comprar?</h4>
+<ul>
+<li>Quadricóptero <b>Hubsan X4 H107C</b> <a href="http://goo.gl/IoMIkt" target="_blank" rel="noopener">http://goo.gl/IoMIkt</a></li>
+<li>Hélices <a href="http://goo.gl/8S8M36" target="_blank" rel="noopener">http://goo.gl/8S8M36</a></li>
+<li>Protetor de hélices <a href="http://goo.gl/v0tEv1" target="_blank" rel="noopener">http://goo.gl/v0tEv1</a></li>
+<li>Trem de pouso <a href="http://goo.gl/WakB78" target="_blank" rel="noopener">http://goo.gl/WakB78</a></li>
+<li>Bateria <a href="http://goo.gl/5VORmQ" target="_blank" rel="noopener">http://goo.gl/5VORmQ</a></li>
+<li>Carregador <a href="http://goo.gl/fJy2RH" target="_blank" rel="noopener">http://goo.gl/fJy2RH</a></li>
+<li>Frame <a href="http://goo.gl/RcWrMU" target="_blank" rel="noopener">http://goo.gl/RcWrMU</a></li>
+<li>LEDs das luzes de navegação <a href="http://goo.gl/R3KBAs" target="_blank" rel="noopener">http://goo.gl/R3KBAs</a></li>
+<li>Câmera <a href="http://goo.gl/cPuHnK" target="_blank" rel="noopener">http://goo.gl/cPuHnK</a></li>
+</ul>
+<h3><span id="Conclusao">Conclusão</span></h3>
+<p>Entre os modelos de drone apresentados, particularmente eu escolheria o modelo Syma X5C, por parecer um pouco mai robusto e possuir a função fotografar durante o voo enquanto filma. Apesar de que os outros também tem suas funções o modelo Syma parece ser a melhor escolha. E você qual prefere?</p><p>The post <a href="https://johnhenrique.on.fleek.co/aeromodelismo/comprar-drone-barato-com-camera.html">Comprar drone barato com câmera</a> first appeared on <a href="https://johnhenrique.on.fleek.co/">JOHN-HENRIQUE</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://johnhenrique.on.fleek.co/aeromodelismo/comprar-drone-barato-com-camera.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced (Page is feed) 
+Minified using disk
+Database Caching 12/76 queries in 0.036 seconds using disk
+
+Served from: johnhenrique.com.br @ 2022-08-22 03:19:28 by W3 Total Cache
+-->

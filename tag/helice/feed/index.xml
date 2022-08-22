@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hélice | JOHN-HENRIQUE</title>
+	<atom:link href="https://johnhenrique.on.fleek.co/tag/helice/feed" rel="self" type="application/rss+xml" />
+	<link>https://johnhenrique.on.fleek.co/</link>
+	<description>Desenvolvendo web e móvel sem complicação</description>
+	<lastBuildDate>Sun, 22 Aug 2021 05:07:40 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+
+<image>
+	<url>https://johnhenrique.on.fleek.co/wp-content/uploads/2020/10/cropped-logo-johnhenrique-icone-32x32.png</url>
+	<title>Hélice | JOHN-HENRIQUE</title>
+	<link>https://johnhenrique.on.fleek.co/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Como construir um aeromodelo de controle remoto</title>
+		<link>https://johnhenrique.on.fleek.co/aeromodelismo/como-construir-um-aeromodelo-de-controle-remoto.html</link>
+					<comments>https://johnhenrique.on.fleek.co/aeromodelismo/como-construir-um-aeromodelo-de-controle-remoto.html#respond</comments>
+		
+		<dc:creator><![CDATA[John]]></dc:creator>
+		<pubDate>Thu, 31 Jan 2019 12:00:00 +0000</pubDate>
+				<category><![CDATA[Aeromodelismo]]></category>
+		<category><![CDATA[Aeromodelo]]></category>
+		<category><![CDATA[Bateria]]></category>
+		<category><![CDATA[Drone]]></category>
+		<category><![CDATA[Hélice]]></category>
+		<guid isPermaLink="false">https://johnhenrique.on.fleek.co/?p=982</guid>
+
+					<description><![CDATA[<p>Sem duvida aeromodelismo é um hobby que encanta a todos provavelmente porque quando crianças o sonho é ser o superman ou voar =D , mas apesar de ser um hobby, não trata-se de algo que você consiga praticar da noite para o dia, são necessárias várias horas e tentativas até conseguir realmente controlar um aeromodelo&#8230; <a class="more-link" href="https://johnhenrique.on.fleek.co/aeromodelismo/como-construir-um-aeromodelo-de-controle-remoto.html">Continuar lendo <span class="screen-reader-text">Como construir um aeromodelo de controle remoto</span></a></p>
+<p>The post <a href="https://johnhenrique.on.fleek.co/aeromodelismo/como-construir-um-aeromodelo-de-controle-remoto.html">Como construir um aeromodelo de controle remoto</a> first appeared on <a href="https://johnhenrique.on.fleek.co/">JOHN-HENRIQUE</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Sem duvida aeromodelismo é um hobby que encanta a todos provavelmente porque quando crianças o sonho é ser o superman ou voar =D , mas apesar de ser um hobby, não trata-se de algo que você consiga praticar da noite para o dia, são necessárias várias horas e tentativas até conseguir realmente controlar um aeromodelo voando, quando digo controlar me refiro a decolar, voar e pousar na hora que você desejar, no inicio praticamente o aeromodelo voa do ‘jeito que dá’ e acaba caindo, no inicio é normal, mas você precisará de tempo, treino e persistência e logo estará controlando um voo de verdade.<span id="more-982"></span></p>
+<h2>Aproveitar controle e motor de carrinho</h2>
+<p>Provavelmente você tenha um carrinho de controle remoto com algum defeito encostado por ai, é normal você querer reaproveitar parte dele para fazer um avião, você provavelmente consiga, existem projetos na internet explicando como fazer, mas dá trabalho demais conseguir todo o necessário e não vai ficar bom pra voar e o aeromodelo precisará ser bem leve… ninguém mais faz isso. O controle do voo é muito ruim e a distância entre o controle e o aviãozinho será a mesma que você tinha com o carrinho, logo, não dá pra voar de verdade.</p>
+<p>Em resumo, utilizar o motor ou controle de carrinho não é uma alternativa interessante.</p>
+<h2>Iniciante, por onde começar</h2>
+<p>O ideal é você comprar a eletrônica para aeromodelo e futuramente você pode reutiliza-la (ou parte dela) para outros projetos como outro aeromodelo ou barco. Se você conhece alguém que já pratica o aeromodelismo, seria bom trocar algumas ideias com esta pessoa, você pode também visitar algum clube de aeromodelismo se na tua cidade existe um, mas se não for possível, não tem problema, recorra a internet, existem diversos sites e vídeos no YouTube explicando como construir, controlar entre outras informações.</p>
+<p>O importante é que antes de começar você leia bastante sobre o assunto, entenda as diferenças entre os diversos tipos de aeromodelos, hélices e eletrônicas, só depois você deverá escolher qual aeromodelo deverá construir e qual eletrônica comprar. Inicie com um aeromodelo de asa alta, popularmente conhecido como aeromodelo treinador, praticamente todos iniciam com o modelo chamado CESSNA, tem planta dele pra todo lado na internet (temos um link no final deste post).</p>
+<p>Quanto a eletrônica para fazer o aeromodelo voar, você precisará de:</p>
+<ul>
+<li>1 Motor Emax CF2822 1100kv, com montante e salva hélice</li>
+<li>4 Servos 9g (2 para ailerons, 1 profundor e 1 para leme)</li>
+<li>1 ESC 30A</li>
+<li>1 Bateria Lipo 3S 20 a 45C de 1800 mAh a 2200 mAh</li>
+<li>1 Rádio (TX)</li>
+<li>1 Receptor (RX)</li>
+<li>1 Helice GWS EP8040 (mas é bom ter váriassss)</li>
+<li>1 Buzzer digital (desejável)</li>
+</ul>
+<p>Basicamente você precisa apenas disso como eletrônica para iniciar.</p>
+<ol>
+<li>O motor, serve para… ah você já sabe…</li>
+<li>O ESC serve para ‘controlar a potencia do motor’ e tem um fio para alimentar o receptor, que controla o ESC e os servos.</li>
+<li>A bateria alimenta toda a eletrônica (ah sério?!).</li>
+<li>O rádio é sua interface de controle a distância, é com ele que você dá comandos ao aeromodelo. Normalmente o alcance do rádio é de 800 metros, totalizando 1600 metros tendo o rádio como centro da área de alcance.</li>
+<li>O receptor recebe os sinais e transmite os comandos para as coisas ‘funcionarem no aero’.</li>
+<li>O buzzer serve como alerta para o caso da bateria começar a descarregar, ele emite um alarme e você sabe que precisa pousar, ele também mostra qual a carga atual da bateria e a voltagem.</li>
+<li>A hélice é bom ter várias porque de inicio você vai quebrar várias, neste caso temos uma hélice de 8 polegadas por 4 de passo, cada tipo de hélice tem uma utilização, esta configuração dá um desempenho de 600 gramas, ou seja, este motor com esta hélice conseguem puxar 600 gramas, desta forma facilmente você conseguiria voar um avião de até 1 quilo (Saiba mais sobre empuxo).</li>
+</ol>
+<p>Você pode encontrar toda esta eletrônica em formato de combo, vem tudo junto e alguns fios já soldados para você não ter trabalho, no Mercado Livre e em vários sites tu acha aos montes, mas pode comprar separados achar mais interessante, na minha opinião é desvantagem caso você precise pagar o frete de cada item.</p>
+<p>Quando for voar lembre-se sempre de ir para uma área não habitada, aberta, sem movimento de pessoas, carros ou animais. Um aeromodelo não é um carrinho e ele pode ferir pessoas e causar danos materiais, você não precisa nem se preocupar em fazer um aeromodelo bonito, ate você aprender a voar você irá quebrá-lo em várias quedas, então tente voar em locais onde exista mato alto ou canavial;</p>
+<p>Aqui tem uma sequencia de filmes mostrando como construir um aeromodelo CESSNA do inicio ao fim.</p>
+<p><iframe loading="lazy" title="Como construir um Aeromodelo parte 1" width="750" height="563" src="https://www.youtube.com/embed/CZSK6fpw8XE?list=PLA43A3822B25041D8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p><p>The post <a href="https://johnhenrique.on.fleek.co/aeromodelismo/como-construir-um-aeromodelo-de-controle-remoto.html">Como construir um aeromodelo de controle remoto</a> first appeared on <a href="https://johnhenrique.on.fleek.co/">JOHN-HENRIQUE</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://johnhenrique.on.fleek.co/aeromodelismo/como-construir-um-aeromodelo-de-controle-remoto.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced (Page is feed) 
+Minified using disk
+Database Caching 2/57 queries in 0.032 seconds using disk
+
+Served from: johnhenrique.com.br @ 2022-08-22 03:19:45 by W3 Total Cache
+-->
