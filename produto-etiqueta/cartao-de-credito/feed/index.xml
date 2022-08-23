@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cartão de crédito | WooCommerce no Brasil</title>
+	<atom:link href="/produto-etiqueta/cartao-de-credito/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Crie sua loja virtual com a gente</description>
+	<lastBuildDate>Thu, 22 Jul 2021 07:56:58 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2020/05/cropped-Woocommerce-32x32.png</url>
+	<title>Cartão de crédito | WooCommerce no Brasil</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>WooCommerce Subscriptions Gerencianet</title>
+		<link>/loja/woocommerce-subscriptions-gerencianet/</link>
+					<comments>/loja/woocommerce-subscriptions-gerencianet/#respond</comments>
+		
+		<dc:creator><![CDATA[John-Henrique]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2019 22:55:33 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=2250</guid>
+
+					<description><![CDATA[<p>O plugin WooCommerce Subscriptions Gerencianet permite que você utilize os serviços de assinatura da Gerencianet na sua loja virtual WordPress. A Gerencianet é um intermediador de pagamento online que oferece soluções em cobranças por boletos, carnês e cartão de crédito. Em uma única plataforma, sem mensalidades, é possível gerar cobranças, ter acesso a ferramentas de [&#8230;]</p>
+<p>The post <a href="/loja/woocommerce-subscriptions-gerencianet/">WooCommerce Subscriptions Gerencianet</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>O plugin <strong>WooCommerce Subscriptions Gerenciane</strong>t permite que você utilize os serviços de assinatura da Gerencianet na sua loja virtual WordPress. A Gerencianet é um intermediador de pagamento online que oferece soluções em <strong>cobranças por boletos, carnês e cartão de crédito</strong>. Em uma única plataforma, sem mensalidades, é possível gerar cobranças, ter acesso a ferramentas de gestão financeira e utilizar o saldo de diversas maneiras.</p>
+<h4>Segurança</h4>
+<p>A Gerencianet adota procedimentos de segurança para garantir uma boa experiência para quem paga e quem recebe:</p>
+<ul>
+<li>Análise antifraude gratuita em todas as transações;</li>
+<li>Parceria com empresas renomadas no setor de segurança, como ClearSale e Sift Science;</li>
+<li>Cumprimento de normas internacionais de segurança;</li>
+<li>Intermediação em processo de contestação do pagamento;</li>
+<li>Entre outros.</li>
+</ul>
+<h4>Suporte</h4>
+<p>Atualmente o plugin suporta os seguintes recursos:</p>
+<ol>
+<li>Checkout Transparente</li>
+<li>Cobrança: Semanal, Mensal, Bimestral, Trimestral, Semestral e Anual</li>
+<li>Período gratuito</li>
+<li>Taxa de adesão</li>
+<li>Cobrança por boleto</li>
+<li>Cobrança por cartão de crédito</li>
+<li>Cobrança por carnê</li>
+<li>Retorno automático dos dados</li>
+<li>Alteração do status de pagamento</li>
+<li>Verificação dos valores</li>
+<li>Verificação dos dados do comprador</li>
+<li>Cancelamento automático da assinatura</li>
+</ol>
+<h4>Requisitos</h4>
+<p>Você precisa ter estes itens para utilizar o plugin WooCommerce Gerencianet Subscriptions.</p>
+<ul class="list-circle">
+<li>Ter conta ativa na Gerencianet</li>
+<li>Gerar as chaves Client ID, Client Secret e Payment Token na Gerencianet</li>
+<li>Loja WooCommerce versão 3.0 ou mais recente</li>
+<li>Ter o plugin WooCommerce Subscriptions versão 2.2 ou mais recente</li>
+<li>Ter o plugin Extra Checkout Fields Brazil versão 3.6 ou mais recente</li>
+</ul>
+<p><strong>Documentação</strong></p>
+<p>Você pode consultar a documentação do plugin acessando <a title="PagSeguro, plugin para WooCommerce" href="/plugin/woocommerce-gerencianet-assinatura-recorrente/">/plugin/gerencianet-recorrente-plugin-woocommerce/</a></p><p>The post <a href="/loja/woocommerce-subscriptions-gerencianet/">WooCommerce Subscriptions Gerencianet</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>/loja/woocommerce-subscriptions-gerencianet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WooComerce SuperPay</title>
+		<link>/loja/woocomerce-superpay/</link>
+					<comments>/loja/woocomerce-superpay/#comments</comments>
+		
+		<dc:creator><![CDATA[John-Henrique]]></dc:creator>
+		<pubDate>Fri, 20 Dec 2013 20:52:02 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=1333</guid>
+
+					<description><![CDATA[<p>Este plugin substitui o antigo plugin Gateway Locaweb CIELO O plugin WooCommerce Locaweb CIELO permite que você utilize os serviços da CIELO e REDECARD na sua loja virtual WordPress. O SuperPay NÃO COBRA comissões por transações como acontece em outros gateways (gateways intermediários), com o gateway SuperPay você paga apenas a assinatura do serviço, com este plugin instalado em sua loja virtual [&#8230;]</p>
+<p>The post <a href="/loja/woocomerce-superpay/">WooComerce SuperPay</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Este plugin substitui o antigo plugin Gateway Locaweb CIELO</p>
+<p>O plugin <strong>WooCommerce Locaweb CIELO</strong> permite que você utilize os serviços da <em>CIELO</em> e <em>REDECARD</em> na sua loja virtual WordPress. O <strong>SuperPay </strong>NÃO COBRA comissões por transações como acontece em outros gateways (gateways intermediários), com o gateway SuperPay você paga apenas a assinatura do serviço, com este plugin instalado em sua loja virtual seus clientes podem pagar com cartão de crédito e cartão de débito, em média cada transação sai ao custo de R$ 0,59 independente do valor cobrado na transação.</p>
+<p>[alert]Este plugin é desenvolvido e mantido por John-Henrique, não é um módulo desenvolvido pelo gateway SuperPay, entenda.[/alert]</p>
+<p>Agora você já pode receber pagamentos utilizando a CIELO e REDECARD em sua loja WooCommerce.</p>
+<p>[alert]Sua empresa precisa ter contrato com a CIELO ou REDECARD para poder receber pagamentos com cartão de crédito através do plugin WooCommerce SuperPay[/alert]</p>
+<p><strong>Suporte</strong><br />
+As principais vantagens de utilizar o plugin SuperPay, estão diretamente ligadas ao custo e agilidade, com este plugin as transações retornam o resultado (transação aprovada ou recusada) no momento imediato da compra, não existe delay como nos gateways intermediários. Além disso, o <strong>valor recebido vai direto para sua conta bancária</strong>, nada de pagar comissões e ainda esperar 14 dias pra utilizar o dinheiro.</p>
+<p>Este plugin oferece os seguintes recursos</p>
+<ol>
+<li>Recebimento de cartão de crédito <strong>VISA</strong></li>
+<li>Recebimento de cartão de crédito <strong>MASTERCARD</strong></li>
+<li>Recebimento de cartão de crédito <strong>Diners Club</strong></li>
+<li>Recebimento de cartão de crédito <strong>American Express (AMEX)</strong></li>
+<li>Recebimento de cartão de crédito <strong>ELO</strong></li>
+<li>Recebimento de cartão de crédito <strong>Discover</strong></li>
+<li>Verificação dos dados do cartão</li>
+<li>Verificação do valor da compra</li>
+<li>Alteração do status de pagamento</li>
+<li>Pagamento acontece dentro da sua loja, sem redirecionamento para outros sites</li>
+</ol>
+<p>Como você pode ver este plugin não oferece suporte a transferência eletrônica ou boleto bancário, para receber pagamentos por transferência eletrônica ou boleto bancário você precisa do plugin <a href="/loja/woocommerce-superpay-boleto-bancario/">WooCommerce SuperPay Boleto bancário</a>.</p>
+<h3>Requerimentos</h3>
+<p>Para utilizar este plugin é necessário:</p>
+<ol>
+<li>Ter empresa devidamente formalizada</li>
+<li>Ser afiliado com a operadora/banco que irá utilizar</li>
+<li>Ter um domínio próprio</li>
+<li>Ter conta corrente</li>
+<li>Possuir token para Buy Page Loja (para utilizar CIELO ou Komerci)</li>
+<li>Ter uma conta no SuperPay</li>
+<li>Ter certificado SSL (selo site seguro) instalado no site</li>
+</ol>
+<p>&nbsp;</p><p>The post <a href="/loja/woocomerce-superpay/">WooComerce SuperPay</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>/loja/woocomerce-superpay/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WooCommerce Locaweb CIELO</title>
+		<link>/loja/woocommerce-locaweb-cielo/</link>
+					<comments>/loja/woocommerce-locaweb-cielo/#respond</comments>
+		
+		<dc:creator><![CDATA[John-Henrique]]></dc:creator>
+		<pubDate>Sat, 23 Jun 2012 06:11:13 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=542</guid>
+
+					<description><![CDATA[<p>Atenção Antes de comprar este plugin, veja informações sobre a atual situação do gateway Locaweb, recentemente houve uma mudança e passa a se chamar SuperPay /loja/woocomerce-superpay/ O plugin WooCommerce Locaweb CIELO permite que você utilize os serviços da CIELO na sua loja virtual WordPress. O gateway Locaweb NÃO COBRA comissões por transações como acontece em [&#8230;]</p>
+<p>The post <a href="/loja/woocommerce-locaweb-cielo/">WooCommerce Locaweb CIELO</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></description>
+										<content:encoded><![CDATA[<h2>Atenção</h2>
+<blockquote><p>Antes de comprar este plugin, veja informações sobre a atual situação do gateway Locaweb, recentemente houve uma mudança e passa a se chamar <a title="WooComerce SuperPay" href="/loja/woocomerce-superpay/">SuperPay</a> <a title="WooComerce SuperPay documentação" href="/loja/woocomerce-superpay/">/loja/woocomerce-superpay/</a></p></blockquote>
+<p>O plugin <strong>WooCommerce Locaweb CIELO</strong> permite que você utilize os serviços da <em>CIELO</em> na sua loja virtual WordPress. O <strong>gateway Locaweb</strong> NÃO COBRA comissões por transações como acontece em outros gateways (gateways intermediários), com o gateway da Locaweb você paga apenas a assinatura do serviço, com este plugin instalado em sua loja virtual seus clientes podem pagar com cartão de crédito, boleto bancário, cartão de débito e transferência eletrônica, em média cada transação sai ao custo de R$ 0,59 independente do valor cobrado na transação.</p>
+<p>&nbsp;</p>
+<p>Agora você já pode receber pagamentos utilizando a CIELO sua loja WooCommerce.</p>
+<p>[alert]Sua empresa precisa ter contrato com a CIELO para poder receber pagamentos através do plugin WooCommerce Locaweb CIELO[/alert]</p>
+<p><strong>Suporte</strong><br />
+As principais vantagens de utilizar o plugin Locaweb CIELO, estão diretamente ligadas ao custo e agilidade, com este plugin as transações retornam o resultado (transação aprovada ou recusada) no momento imediato da compra, não existe delay como nos gateways intermediários. Além disso, o <strong>valor recebido vai direto para sua conta bancária</strong>, nada de pagar comissões e ainda esperar 14 dias pra utilizar o dinheiro.</p>
+<p>Este plugin oferece os seguintes recursos</p>
+<ol>
+<li>Recebimento de cartão de crédito VISA</li>
+<li>Recebimento de cartão de crédito MASTERCARD</li>
+<li>Verificação dos dados do cartão</li>
+<li>Verificação do valor da compra</li>
+<li>Alteração do status de pagamento</li>
+</ol>
+<h3>Requerimentos</h3>
+<div>Para utilizar este plugin é necessário:</div>
+<div>
+<ol>
+<li>Ser empresa devidamente formalizada</li>
+<li>Ser afiliado com a operadora/banco que irá utilizar</li>
+<li>Ter um domínio próprio</li>
+<li>Ter conta corrente</li>
+<li>Possuir token para Buy Page Loja</li>
+<li>Assinar o serviço Gateway Locaweb<br />
+[info]Não é necessário que seu site seja hospedado na Locaweb, o serviço de gateway é totalmente independente.[/info]</li>
+</ol>
+</div>
+<p><strong>Documentação</strong></p>
+<p>Você pode consultar a documentação do plugin acessando a <a title="Locaweb CIELO e MASTERCARD, plugin para WooCommerce" href="/gateways-de-pagamento/locaweb-cielo-e-mastercard-plugin-para-woocommerce/">Locaweb CIELO e MASTERCARD</a>.</p><p>The post <a href="/loja/woocommerce-locaweb-cielo/">WooCommerce Locaweb CIELO</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>/loja/woocommerce-locaweb-cielo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced (Page is feed) 
+Minified using disk
+
+Served from: woocommerce.com.br @ 2022-08-23 14:37:25 by W3 Total Cache
+-->

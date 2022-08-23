@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentários sobre: WooCommerce 2.1 e erros com plugins de pagamento e Correios	</title>
+	<atom:link href="/sem-categoria/woocommerce-2-1-e-erros-com-plugins-de-pagamento-e-correios/feed/" rel="self" type="application/rss+xml" />
+	<link>/sem-categoria/woocommerce-2-1-e-erros-com-plugins-de-pagamento-e-correios/</link>
+	<description>Crie sua loja virtual com a gente</description>
+	<lastBuildDate>Tue, 06 Jan 2015 01:21:49 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		Por: eniac_2015		</title>
+		<link>/sem-categoria/woocommerce-2-1-e-erros-com-plugins-de-pagamento-e-correios/#comment-4776</link>
+
+		<dc:creator><![CDATA[eniac_2015]]></dc:creator>
+		<pubDate>Tue, 06 Jan 2015 01:21:49 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1364#comment-4776</guid>
+
+					<description><![CDATA[Ola pessoal, gostaria de saber como resolver um bug que acontece qd eu instalo o woocommerce, pq a tela de admin do wordpress fica toda branca, alguem podeia me dar um help???]]></description>
+			<content:encoded><![CDATA[<p>Ola pessoal, gostaria de saber como resolver um bug que acontece qd eu instalo o woocommerce, pq a tela de admin do wordpress fica toda branca, alguem podeia me dar um help???</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced (Page is feed) 
+Minified using disk
+
+Served from: woocommerce.com.br @ 2022-08-23 14:52:52 by W3 Total Cache
+-->

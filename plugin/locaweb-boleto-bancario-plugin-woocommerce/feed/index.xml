@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentários sobre: Locaweb boleto bancário, plugin WooCommerce	</title>
+	<atom:link href="/plugin/locaweb-boleto-bancario-plugin-woocommerce/feed/" rel="self" type="application/rss+xml" />
+	<link>/plugin/locaweb-boleto-bancario-plugin-woocommerce/</link>
+	<description>Crie sua loja virtual com a gente</description>
+	<lastBuildDate>Thu, 04 Jun 2020 02:52:26 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		Por: David M Campos		</title>
+		<link>/plugin/locaweb-boleto-bancario-plugin-woocommerce/#comment-91816</link>
+
+		<dc:creator><![CDATA[David M Campos]]></dc:creator>
+		<pubDate>Thu, 04 Jun 2020 02:52:26 +0000</pubDate>
+		<guid isPermaLink="false">/?p=756#comment-91816</guid>
+
+					<description><![CDATA[Paga todo mes os 150,00?
+Obrigado e bom dia]]></description>
+			<content:encoded><![CDATA[<p>Paga todo mes os 150,00?<br />
+Obrigado e bom dia</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Luis Eduardo Silva Gurgel		</title>
+		<link>/plugin/locaweb-boleto-bancario-plugin-woocommerce/#comment-6521</link>
+
+		<dc:creator><![CDATA[Luis Eduardo Silva Gurgel]]></dc:creator>
+		<pubDate>Wed, 13 Jan 2016 12:41:05 +0000</pubDate>
+		<guid isPermaLink="false">/?p=756#comment-6521</guid>
+
+					<description><![CDATA[Após comprar o plugin e contratar o superpay, tenho que homologar os boletos junto ao bancos ou o plugins já garante isso ?]]></description>
+			<content:encoded><![CDATA[<p>Após comprar o plugin e contratar o superpay, tenho que homologar os boletos junto ao bancos ou o plugins já garante isso ?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: John-Henrique		</title>
+		<link>/plugin/locaweb-boleto-bancario-plugin-woocommerce/#comment-6465</link>
+
+		<dc:creator><![CDATA[John-Henrique]]></dc:creator>
+		<pubDate>Mon, 16 Nov 2015 21:22:58 +0000</pubDate>
+		<guid isPermaLink="false">/?p=756#comment-6465</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;/plugin/locaweb-boleto-bancario-plugin-woocommerce/#comment-6456&quot;&gt;Marcelo&lt;/a&gt;.
+
+@ MARCELO
+Preços /loja/woocomerce-superpay/
+Funciona com SuperPay da Locaweb (é o mesmo serviço/gateway)
+Sim, funciona com ecommerce hospedado fora da Locaweb.]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="/plugin/locaweb-boleto-bancario-plugin-woocommerce/#comment-6456">Marcelo</a>.</p>
+<p>@ MARCELO<br />
+Preços <a href="/loja/woocomerce-superpay/" rel="nofollow ugc">/loja/woocomerce-superpay/</a><br />
+Funciona com SuperPay da Locaweb (é o mesmo serviço/gateway)<br />
+Sim, funciona com ecommerce hospedado fora da Locaweb.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Marcelo		</title>
+		<link>/plugin/locaweb-boleto-bancario-plugin-woocommerce/#comment-6456</link>
+
+		<dc:creator><![CDATA[Marcelo]]></dc:creator>
+		<pubDate>Mon, 09 Nov 2015 17:58:54 +0000</pubDate>
+		<guid isPermaLink="false">/?p=756#comment-6456</guid>
+
+					<description><![CDATA[Qual o preço do plugin ?
+Funciona o com o Gateway de Pagamento Superpay da Locaweb ?
+Funciona com e-commerce hospedado fora da Locaweb
+
+Grato
+Marcelo]]></description>
+			<content:encoded><![CDATA[<p>Qual o preço do plugin ?<br />
+Funciona o com o Gateway de Pagamento Superpay da Locaweb ?<br />
+Funciona com e-commerce hospedado fora da Locaweb</p>
+<p>Grato<br />
+Marcelo</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: John-Henrique		</title>
+		<link>/plugin/locaweb-boleto-bancario-plugin-woocommerce/#comment-6223</link>
+
+		<dc:creator><![CDATA[John-Henrique]]></dc:creator>
+		<pubDate>Thu, 18 Jun 2015 01:33:57 +0000</pubDate>
+		<guid isPermaLink="false">/?p=756#comment-6223</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;/plugin/locaweb-boleto-bancario-plugin-woocommerce/#comment-5791&quot;&gt;Fernando Santos&lt;/a&gt;.
+
+@ FERNANDO
+1 - É possível emitir o boleto com vencimento de até 30 dias, imagino que seja isso que você deseja. 
+
+2 - Não é possível emitir mais de 1 boleto para a mesma cobrança, também não é possível embutir juros assim. Mas você pode informar &quot;Senhor caixa cobrar adicional R$ 3,00 após o vencimento&quot; ou similar, mas não há garantias de receber a maior que o valor do boleto. 
+
+Para funcionar da forma que você quer é necessário criar um plugin especifico para sua necessidade.]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="/plugin/locaweb-boleto-bancario-plugin-woocommerce/#comment-5791">Fernando Santos</a>.</p>
+<p>@ FERNANDO<br />
+1 &#8211; É possível emitir o boleto com vencimento de até 30 dias, imagino que seja isso que você deseja. </p>
+<p>2 &#8211; Não é possível emitir mais de 1 boleto para a mesma cobrança, também não é possível embutir juros assim. Mas você pode informar &#8220;Senhor caixa cobrar adicional R$ 3,00 após o vencimento&#8221; ou similar, mas não há garantias de receber a maior que o valor do boleto. </p>
+<p>Para funcionar da forma que você quer é necessário criar um plugin especifico para sua necessidade.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Fernando Santos		</title>
+		<link>/plugin/locaweb-boleto-bancario-plugin-woocommerce/#comment-5791</link>
+
+		<dc:creator><![CDATA[Fernando Santos]]></dc:creator>
+		<pubDate>Mon, 27 Apr 2015 18:24:02 +0000</pubDate>
+		<guid isPermaLink="false">/?p=756#comment-5791</guid>
+
+					<description><![CDATA[Tenho interesse nesse plugin, mas gostaria de tirar duas dúvidas:
+
+1. Há a possibilidade de fazer boleto a prazo?
+
+2.      Além de poder fazer boleto no prazo precisaria embutir os juros tb, por exemplo: Camisa de linho R$ 99,00
+30    dias no boleto R$ 104,00
+30/60 dias no boleto R$ 53,00 cada parcela
+
+Existe como configurar isso no plugin?
+
+Grato.]]></description>
+			<content:encoded><![CDATA[<p>Tenho interesse nesse plugin, mas gostaria de tirar duas dúvidas:</p>
+<p>1. Há a possibilidade de fazer boleto a prazo?</p>
+<p>2.      Além de poder fazer boleto no prazo precisaria embutir os juros tb, por exemplo: Camisa de linho R$ 99,00<br />
+30    dias no boleto R$ 104,00<br />
+30/60 dias no boleto R$ 53,00 cada parcela</p>
+<p>Existe como configurar isso no plugin?</p>
+<p>Grato.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced (Page is feed) 
+Minified using disk
+
+Served from: woocommerce.com.br @ 2022-08-23 14:43:02 by W3 Total Cache
+-->

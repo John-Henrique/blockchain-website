@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WC 2.0 | WooCommerce no Brasil</title>
+	<atom:link href="/produto-etiqueta/wc-2-0/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Crie sua loja virtual com a gente</description>
+	<lastBuildDate>Thu, 11 Feb 2021 06:48:18 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2020/05/cropped-Woocommerce-32x32.png</url>
+	<title>WC 2.0 | WooCommerce no Brasil</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>WooCommerce SuperPay Boleto bancário</title>
+		<link>/loja/woocommerce-superpay-boleto-bancario/</link>
+					<comments>/loja/woocommerce-superpay-boleto-bancario/#respond</comments>
+		
+		<dc:creator><![CDATA[John-Henrique]]></dc:creator>
+		<pubDate>Wed, 17 Jun 2015 09:54:18 +0000</pubDate>
+				<guid isPermaLink="false">/loja/woocommerce-superpay-boleto-bancario/</guid>
+
+					<description><![CDATA[<p>O plugin SuperPay boleto bancário para WooCommerce  permite que você integre o serviço de boleto bancário  na sua loja virtual WooCommerce. Isto é possível porque o plugin utiliza o gateway da SuperPay, trata-se de um serviço oferecido pela Locaweb (empresa especializada em hospedagem de sites). O principal diferencial é que recebendo pagamentos através do gateway SuperPay você [&#8230;]</p>
+<p>The post <a href="/loja/woocommerce-superpay-boleto-bancario/">WooCommerce SuperPay Boleto bancário</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>O plugin SuperPay boleto bancário para WooCommerce  permite que você integre o serviço de boleto bancário  na sua loja virtual WooCommerce. Isto é possível porque o plugin utiliza o gateway da SuperPay, trata-se de um serviço oferecido pela Locaweb (empresa especializada em hospedagem de sites). O principal diferencial é que recebendo pagamentos através do gateway SuperPay você NÃO PAGA comissão por transações, você paga apenas R$ 0,60 por transação.</p>
+<p>[info]Você precisa firmar convênio com sua agência bancária para emitir boletos[/info]</p>
+<p><strong>Suporte</strong><br />
+A versão atual suporta as seguintes funções:</p>
+<ol>
+<li>Alteração do status de pagamento</li>
+<li>Pagamentos através do Token</li>
+<li>Envio do link para impressão do boleto via email (no email de confirmação da compra)</li>
+<li>Escolha da quantidade de dias até o vencimento do boleto</li>
+<li>Integração para boletos do Banco do Brasil, Bradesco, Caixa Econômica Federal, HSBC e Itaú</li>
+<li>Integração com transferência eletrônica (Itau shopline)</li>
+</ol>
+<p>Como você pode ver este plugin não oferece suporte a cartões de crédito ou débito, para receber pagamentos por cartão de crédito ou débito você precisa do plugin <a href="/loja/woocomerce-superpay/">WooCommerce SuperPay Cartão</a>.</p>
+<div>
+<p>[alert]Boletos bancários não possuem atualização automática do status de pagamento, sendo assim, você precisa conferir quais boletos foram pagos através do seu internet bank.[/alert]</p>
+<p><strong>Documentação</strong></p>
+<p>Você pode consultar a documentação do plugin acessando <a title="Locaweb boleto bancário, plugin WooCommerce" href="/plugin/locaweb-boleto-bancario-plugin-woocommerce/">/plugin/locaweb-boleto-bancario-plugin-woocommerce/</a><a title="Locaweb Boleto bancário, plugin para WooCommerce" href="/plugin/locaweb-boleto-bancario-woocommerce/"><br />
+</a></p>
+</div><p>The post <a href="/loja/woocommerce-superpay-boleto-bancario/">WooCommerce SuperPay Boleto bancário</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>/loja/woocommerce-superpay-boleto-bancario/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WooCommerce MoIP Transparente</title>
+		<link>/loja/woocommerce-moip-transparente/</link>
+					<comments>/loja/woocommerce-moip-transparente/#comments</comments>
+		
+		<dc:creator><![CDATA[John-Henrique]]></dc:creator>
+		<pubDate>Sat, 09 Feb 2013 12:57:54 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=982</guid>
+
+					<description><![CDATA[<p>Plugin WooCommerce MoIP Transparente permite que os clientes da sua loja virtual WordPress comprem com cartão de crédito, transferência eletrônica e boleto sem sair da página da loja. O MoIP Transparente todo o processo de compra ocorre dentro da sua loja, isto dá maior segurança ao comprador e aumenta a taxa de vendas. Vantagens As [&#8230;]</p>
+<p>The post <a href="/loja/woocommerce-moip-transparente/">WooCommerce MoIP Transparente</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Plugin WooCommerce MoIP Transparente permite que os clientes da sua loja virtual WordPress comprem com cartão de crédito, transferência eletrônica e boleto <strong>sem sair da página da loja</strong>. O MoIP Transparente todo o processo de compra ocorre dentro da sua loja, isto dá maior segurança ao comprador e aumenta a taxa de vendas.</p>
+<p><strong>Vantagens</strong><br />
+As principais vantagens do MoIP Transparente são:</p>
+<ol>
+<li>Pagamento sem sair da loja.</li>
+<li>Sem contrato com a operadora de cartões ou agência bancária.</li>
+<li>Disponibilidade do dinheiro na sua conta em 2 dias úteis.</li>
+<li>O comprador não precisa se cadastrar no MoIP para realizar pagamentos.</li>
+<li>Permite receber com cartão de crédito, boleto e transferencia eletrônica.</li>
+</ol>
+<p><strong>Suporte</strong><br />
+Atualmente a integração WooCommerce MoIP Transparente suporta os seguintes recursos.</p>
+<ol>
+<li>Retorno automático dos dados</li>
+<li>Pré cadastro de clientes</li>
+<li>Alteração do status de pagamento</li>
+<li>Pagamentos através do Token</li>
+<li>Pagamento sem sair da sua loja</li>
+<li>Pagamento transparente</li>
+<li>Você pode escolher seus próprios ícones (cartões de crédito, bancos e boletos) *</li>
+<li>Escolha quais os meios de pagamento são aceitos na sua loja (cartão, boleto e transferência eletrônica)</li>
+<li>Se você tem mais de uma loja, você pode definir um prefixo para os pedidos.</li>
+<li>Este plugin configura o endereço de notificação das transações automaticamente.</li>
+</ol>
+<p><strong>Documentação</strong></p>
+<p>Uma novidade no plugin WC MoIP transparente, é a possibilidade de customizar os ícones do plugin, tanto no checktout quanto das opções de pagamento. Isto é possível graças aos filtros que adicionamos no plugin a partir da versão 1.9.</p>
+<p>Imagine que você queira utilizar uma imagem diferenciada nas opções de pagamento de sua loja, no plugin MoIP Transparente você só precisa adicionar o código abaixo no arquivos functions.php do seu tema WordPress.</p>
+<blockquote><p>/**<br />
+* Personalizando icones do plugin WooCommerce<br />
+* MoIP Transparente<br />
+*<br />
+* @since 1.9<br />
+*/<br />
+function troca_icone_moip_transparente(){<br />
+return get_stylesheet_directory_uri() .&#8217;/imagens/nova_imagem.png&#8217;;<br />
+}<br />
+add_filter( &#8216;wc_moip_icon_visa&#8217;, &#8216;troca_icone_moip_transparente&#8217;);</p></blockquote>
+<p>O código acima pode ser visualizado com no Github através deste <a href="https://gist.github.com/John-Henrique/5415932">Gist</a> <a href="https://gist.github.com/John-Henrique/5415932" target="_blank">https://gist.github.com/John-Henrique/5415932</a></p>
+<p>Você pode consultar a documentação completa do plugin acessando <a title="MoIP, plugin para WooCommerce" href="/plugin/moip-plugin-woocommerce/">/plugin/moip-plugin-woocommerce/</a></p>
+<h3>Vídeo demonstração</h3>
+<p><iframe loading="lazy" src="http://www.youtube.com/embed/_KZdThaRzS8" height="315" width="560" allowfullscreen="" frameborder="0"></iframe></p>
+<h2>Como funciona?</h2>
+<p>Num gateway intermediário (PagSeguro, Pagamento Digital, PayPal e até o MoIP), quando o comprador vai fazer o pagamento ele é direcionado para a página do gateway, lá ele informa seus dados (faz um cadastro), escolhe a forma de pagamento (boleto, cartão ou transferência eletrônica) e é levado de volta para a loja para receber a confirmação da compra. Como na imagem abaixo:</p>
+<figure id="attachment_557" aria-describedby="caption-attachment-557" style="width: 572px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2012/06/gateway-comum.jpg"><img loading="lazy" class=" wp-image-557 " alt="Nos gateways comuns o pagamento ocorre fora da sua loja virtual e em 3 passos" src="/wp-content/uploads/2012/06/gateway-comum.jpg" width="572" height="170" srcset="/wp-content/uploads/2012/06/gateway-comum.jpg 715w, /wp-content/uploads/2012/06/gateway-comum-416x123.jpg 416w, /wp-content/uploads/2012/06/gateway-comum-300x88.jpg 300w" sizes="(max-width: 572px) 100vw, 572px" /></a><figcaption id="caption-attachment-557" class="wp-caption-text">Nos gateways comuns o pagamento ocorre fora da sua loja virtual e em 3 passos</figcaption></figure>
+<p>Para muitos compradores, principalmente os menos experientes este processo é muito duvidoso, afinal de contas “Eu estava na loja X e agora o site Y está me pedindo os dados do meu cartão?!”, basta isto para parte das vendas não serem concretizadas, criando o efeito carrinho abandonado (quando o comprador desiste de pagar).</p>
+<h2>MoIP checkout transparente</h2>
+<p>O MoIP notou que não é necessário (por obrigação) que o comprador tenha que ir para a página do MoIP realizar o pagamento, afinal, o serviço do gateway consiste em intermediar o pagamento (e as contestações caso necessário), sendo assim, eles inovaram mais uma vez e lançaram uma solução chamada Checkout Transparente, ele permite que o pagamento ocorra todo dentro da sua loja virtual.</p>
+<p>Apenas o fato do cliente não sair da sua loja para fazer o pagamento gera um aumento de até 30% nas vendas, além de diminuir o índice de carrinhos abandonados. Veja como funciona este processo.</p>
+<figure id="attachment_558" aria-describedby="caption-attachment-558" style="width: 456px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2012/06/gateway-moip-transparente.jpg"><img loading="lazy" class="size-full wp-image-558" alt="Checkout Transparente" src="/wp-content/uploads/2012/06/gateway-moip-transparente.jpg" width="456" height="236" srcset="/wp-content/uploads/2012/06/gateway-moip-transparente.jpg 456w, /wp-content/uploads/2012/06/gateway-moip-transparente-416x215.jpg 416w, /wp-content/uploads/2012/06/gateway-moip-transparente-300x155.jpg 300w" sizes="(max-width: 456px) 100vw, 456px" /></a><figcaption id="caption-attachment-558" class="wp-caption-text">Checkout transparente MoIP &#8211; Sem a página de cadastro aumenta 30% das suas vendas</figcaption></figure>
+<p>Note que com o <strong>checkout transparente</strong> o comprador finaliza a compra em apenas 2 passos, no primeiro ele informa os dados do pagamento (sem cadastro) e no segundo ele já recebe a confirmação da compra. Sem burocracia, sem complicação.</p>
+<p>&nbsp;</p><p>The post <a href="/loja/woocommerce-moip-transparente/">WooCommerce MoIP Transparente</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>/loja/woocommerce-moip-transparente/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WooCommerce Locaweb CIELO</title>
+		<link>/loja/woocommerce-locaweb-cielo/</link>
+					<comments>/loja/woocommerce-locaweb-cielo/#respond</comments>
+		
+		<dc:creator><![CDATA[John-Henrique]]></dc:creator>
+		<pubDate>Sat, 23 Jun 2012 06:11:13 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=542</guid>
+
+					<description><![CDATA[<p>Atenção Antes de comprar este plugin, veja informações sobre a atual situação do gateway Locaweb, recentemente houve uma mudança e passa a se chamar SuperPay /loja/woocomerce-superpay/ O plugin WooCommerce Locaweb CIELO permite que você utilize os serviços da CIELO na sua loja virtual WordPress. O gateway Locaweb NÃO COBRA comissões por transações como acontece em [&#8230;]</p>
+<p>The post <a href="/loja/woocommerce-locaweb-cielo/">WooCommerce Locaweb CIELO</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></description>
+										<content:encoded><![CDATA[<h2>Atenção</h2>
+<blockquote><p>Antes de comprar este plugin, veja informações sobre a atual situação do gateway Locaweb, recentemente houve uma mudança e passa a se chamar <a title="WooComerce SuperPay" href="/loja/woocomerce-superpay/">SuperPay</a> <a title="WooComerce SuperPay documentação" href="/loja/woocomerce-superpay/">/loja/woocomerce-superpay/</a></p></blockquote>
+<p>O plugin <strong>WooCommerce Locaweb CIELO</strong> permite que você utilize os serviços da <em>CIELO</em> na sua loja virtual WordPress. O <strong>gateway Locaweb</strong> NÃO COBRA comissões por transações como acontece em outros gateways (gateways intermediários), com o gateway da Locaweb você paga apenas a assinatura do serviço, com este plugin instalado em sua loja virtual seus clientes podem pagar com cartão de crédito, boleto bancário, cartão de débito e transferência eletrônica, em média cada transação sai ao custo de R$ 0,59 independente do valor cobrado na transação.</p>
+<p>&nbsp;</p>
+<p>Agora você já pode receber pagamentos utilizando a CIELO sua loja WooCommerce.</p>
+<p>[alert]Sua empresa precisa ter contrato com a CIELO para poder receber pagamentos através do plugin WooCommerce Locaweb CIELO[/alert]</p>
+<p><strong>Suporte</strong><br />
+As principais vantagens de utilizar o plugin Locaweb CIELO, estão diretamente ligadas ao custo e agilidade, com este plugin as transações retornam o resultado (transação aprovada ou recusada) no momento imediato da compra, não existe delay como nos gateways intermediários. Além disso, o <strong>valor recebido vai direto para sua conta bancária</strong>, nada de pagar comissões e ainda esperar 14 dias pra utilizar o dinheiro.</p>
+<p>Este plugin oferece os seguintes recursos</p>
+<ol>
+<li>Recebimento de cartão de crédito VISA</li>
+<li>Recebimento de cartão de crédito MASTERCARD</li>
+<li>Verificação dos dados do cartão</li>
+<li>Verificação do valor da compra</li>
+<li>Alteração do status de pagamento</li>
+</ol>
+<h3>Requerimentos</h3>
+<div>Para utilizar este plugin é necessário:</div>
+<div>
+<ol>
+<li>Ser empresa devidamente formalizada</li>
+<li>Ser afiliado com a operadora/banco que irá utilizar</li>
+<li>Ter um domínio próprio</li>
+<li>Ter conta corrente</li>
+<li>Possuir token para Buy Page Loja</li>
+<li>Assinar o serviço Gateway Locaweb<br />
+[info]Não é necessário que seu site seja hospedado na Locaweb, o serviço de gateway é totalmente independente.[/info]</li>
+</ol>
+</div>
+<p><strong>Documentação</strong></p>
+<p>Você pode consultar a documentação do plugin acessando a <a title="Locaweb CIELO e MASTERCARD, plugin para WooCommerce" href="/gateways-de-pagamento/locaweb-cielo-e-mastercard-plugin-para-woocommerce/">Locaweb CIELO e MASTERCARD</a>.</p><p>The post <a href="/loja/woocommerce-locaweb-cielo/">WooCommerce Locaweb CIELO</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>/loja/woocommerce-locaweb-cielo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WooCommerce Correios</title>
+		<link>/loja/woocommerce-correios/</link>
+					<comments>/loja/woocommerce-correios/#comments</comments>
+		
+		<dc:creator><![CDATA[John-Henrique]]></dc:creator>
+		<pubDate>Thu, 24 May 2012 22:23:02 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=429</guid>
+
+					<description><![CDATA[<p>Loja virtual sem cálculo de frete é muito incomum, praticamente toda loja virtual precisa calcular o frete do SEDEX, SEDEX a cobrar e PAC para entregar o produto através dos Correios. No WooCommerce isto não muda, o plugin WooCommerce Correios BR integra o serviço dos Correios ao WooCommerce permitindo que você ofereça o calculo de [&#8230;]</p>
+<p>The post <a href="/loja/woocommerce-correios/">WooCommerce Correios</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Loja virtual sem cálculo de frete é muito incomum, praticamente toda loja virtual precisa calcular o frete do SEDEX, SEDEX a cobrar e PAC para entregar o produto através dos Correios. No WooCommerce isto não muda, o plugin WooCommerce Correios BR integra o serviço dos Correios ao WooCommerce permitindo que você ofereça o calculo de frete online diretamente no carrinho de compras (dentro do checkout):</p>
+<p><strong>Suporte</strong><br />
+Atualmente a integração WooCommerce Correios suporta os seguintes recursos.</p>
+<ol>
+<li>SEDEX</li>
+<li>SEDEX 10</li>
+<li>SEDEX a cobrar</li>
+<li>e-SEDEX</li>
+<li>PAC</li>
+</ol>
+<p><strong>Exemplos</strong></p>
+<figure id="attachment_432" aria-describedby="caption-attachment-432" style="width: 509px" class="wp-caption alignnone"><a href="/wp-content/uploads/2012/05/correios-exemplo.jpg"><img loading="lazy" class="size-full wp-image-432" title="Correios" alt="" src="/wp-content/uploads/2012/05/correios-exemplo.jpg" width="509" height="131" srcset="/wp-content/uploads/2012/05/correios-exemplo.jpg 509w, /wp-content/uploads/2012/05/correios-exemplo-416x107.jpg 416w, /wp-content/uploads/2012/05/correios-exemplo-300x77.jpg 300w, /wp-content/uploads/2012/05/correios-exemplo-500x128.jpg 500w" sizes="(max-width: 509px) 100vw, 509px" /></a><figcaption id="caption-attachment-432" class="wp-caption-text">Correios</figcaption></figure>
+<p><strong>Documentação</strong><br />
+Você pode consultar a documentação do plugin acessando <a title="Correios, plugin para WooCommerce" href="/plugin/correios-plugin-para-woocommerce/">/plugin/correios-plugin-para-woocommerce/</a></p><p>The post <a href="/loja/woocommerce-correios/">WooCommerce Correios</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>/loja/woocommerce-correios/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WooCommerce MoIP</title>
+		<link>/loja/woocommerce-moip/</link>
+					<comments>/loja/woocommerce-moip/#respond</comments>
+		
+		<dc:creator><![CDATA[John-Henrique]]></dc:creator>
+		<pubDate>Thu, 24 May 2012 21:34:55 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=420</guid>
+
+					<description><![CDATA[<p>Plugin WooCommerce MoIP permite que os clientes da sua loja virtual WordPress comprem com cartão de crédito, transferência eletrônica e façam financiamento das compras online. O MoIP disponibiliza o dinheiro na sua conta bancária em 2 dias uteis. Vantagens As principais vantagens do MoIP são: Disponibilidade do dinheiro na sua conta em 2 dias úteis. [&#8230;]</p>
+<p>The post <a href="/loja/woocommerce-moip/">WooCommerce MoIP</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Plugin WooCommerce MoIP permite que os clientes da sua loja virtual WordPress comprem com cartão de crédito, transferência eletrônica e façam financiamento das compras online. O MoIP disponibiliza o dinheiro na sua conta bancária em 2 dias uteis.</p>
+<p><strong>Vantagens</strong><br />
+As principais vantagens do MoIP são:</p>
+<ol>
+<li>Disponibilidade do dinheiro na sua conta em 2 dias úteis.</li>
+<li>O comprador não precisa se cadastrar no MoIP para realizar pagamentos.</li>
+<li>Permite que o comprador financie o pagamento da compra.</li>
+</ol>
+<p><strong>Suporte</strong><br />
+Atualmente a integração WooCommerce MoIP suporta os seguintes recursos.</p>
+<ol>
+<li>Retorno automático dos dados</li>
+<li>Pré cadastro de clientes</li>
+<li>Alteração do status de pagamento</li>
+<li>Pagamentos através do Token</li>
+</ol>
+<p><strong>Documentação</strong><br />
+Você pode consultar a documentação do plugin acessando <a title="MoIP, plugin para WooCommerce" href="/plugin/moip-plugin-woocommerce/">/plugin/moip-plugin-woocommerce/</a></p><p>The post <a href="/loja/woocommerce-moip/">WooCommerce MoIP</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>/loja/woocommerce-moip/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WooCommerce PagSeguro</title>
+		<link>/loja/woocommerce-pagseguro/</link>
+					<comments>/loja/woocommerce-pagseguro/#comments</comments>
+		
+		<dc:creator><![CDATA[John-Henrique]]></dc:creator>
+		<pubDate>Fri, 27 Apr 2012 12:50:30 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=384</guid>
+
+					<description><![CDATA[<p>O plugin WooCommerce PagSeguro permite que você utilize o PagSeguro na sua loja virtual WordPress. O PagSeguro provavelmente é o gateway de pagamento mais popular no Brasil e você já pode oferecer o PagSeguro como método de pagamento em sua loja WooCommerce. Suporte Suporta a API 2.0 do PagSeguro, isto inclui. Retorno automático dos dados [&#8230;]</p>
+<p>The post <a href="/loja/woocommerce-pagseguro/">WooCommerce PagSeguro</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>O plugin WooCommerce PagSeguro permite que você utilize o PagSeguro na sua loja virtual WordPress. O PagSeguro provavelmente é o gateway de pagamento mais popular no Brasil e você já pode oferecer o PagSeguro como método de pagamento em sua loja WooCommerce.</p>
+<p><strong>Suporte</strong><br />
+Suporta a API 2.0 do PagSeguro, isto inclui.</p>
+<ol>
+<li>Retorno automático dos dados</li>
+<li>Alteração do status de pagamento</li>
+<li>Pagamentos através do Token</li>
+<li>Verificação dos valores e itens da compra</li>
+</ol>
+<p><strong>Documentação</strong></p>
+<p>Você pode consultar a documentação do plugin acessando <a title="PagSeguro, plugin para WooCommerce" href="/plugin/pagseguro-plugin-woocommerce/">/plugin/pagseguro-plugin-woocommerce/</a></p><p>The post <a href="/loja/woocommerce-pagseguro/">WooCommerce PagSeguro</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>/loja/woocommerce-pagseguro/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced (Page is feed) 
+Minified using disk
+
+Served from: woocommerce.com.br @ 2022-08-23 14:55:23 by W3 Total Cache
+-->

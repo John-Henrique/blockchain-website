@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentários sobre: PagSeguro, plugin para WooCommerce	</title>
+	<atom:link href="/plugin/pagseguro-plugin-woocommerce/feed/" rel="self" type="application/rss+xml" />
+	<link>/plugin/pagseguro-plugin-woocommerce/</link>
+	<description>Crie sua loja virtual com a gente</description>
+	<lastBuildDate>Thu, 03 Mar 2016 19:56:44 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		Por: Claudio Goncalves		</title>
+		<link>/plugin/pagseguro-plugin-woocommerce/#comment-6714</link>
+
+		<dc:creator><![CDATA[Claudio Goncalves]]></dc:creator>
+		<pubDate>Thu, 03 Mar 2016 19:56:44 +0000</pubDate>
+		<guid isPermaLink="false">/?p=230#comment-6714</guid>
+
+					<description><![CDATA[Voces tem previsão de finalizar o plugin para o Pagseguro assinaturas (Pagamento recorrente)?
+Estou precisando dele para colocar meu site no ar.]]></description>
+			<content:encoded><![CDATA[<p>Voces tem previsão de finalizar o plugin para o Pagseguro assinaturas (Pagamento recorrente)?<br />
+Estou precisando dele para colocar meu site no ar.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Juliana		</title>
+		<link>/plugin/pagseguro-plugin-woocommerce/#comment-2065</link>
+
+		<dc:creator><![CDATA[Juliana]]></dc:creator>
+		<pubDate>Tue, 04 Feb 2014 00:02:43 +0000</pubDate>
+		<guid isPermaLink="false">/?p=230#comment-2065</guid>
+
+					<description><![CDATA[Boa noite, seu plugin faz pagamento de assinatura?]]></description>
+			<content:encoded><![CDATA[<p>Boa noite, seu plugin faz pagamento de assinatura?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: vitorsgomes@gmail.com		</title>
+		<link>/plugin/pagseguro-plugin-woocommerce/#comment-2051</link>
+
+		<dc:creator><![CDATA[vitorsgomes@gmail.com]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2014 13:08:20 +0000</pubDate>
+		<guid isPermaLink="false">/?p=230#comment-2051</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;/plugin/pagseguro-plugin-woocommerce/#comment-2039&quot;&gt;John-Henrique&lt;/a&gt;.
+
+Sim.
+
+WooCommerce versão 2.0.20 e WooCommerce PagSeguro Gateway Versão 1.2.2]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="/plugin/pagseguro-plugin-woocommerce/#comment-2039">John-Henrique</a>.</p>
+<p>Sim.</p>
+<p>WooCommerce versão 2.0.20 e WooCommerce PagSeguro Gateway Versão 1.2.2</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: John-Henrique		</title>
+		<link>/plugin/pagseguro-plugin-woocommerce/#comment-2039</link>
+
+		<dc:creator><![CDATA[John-Henrique]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2014 15:00:11 +0000</pubDate>
+		<guid isPermaLink="false">/?p=230#comment-2039</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;/plugin/pagseguro-plugin-woocommerce/#comment-2028&quot;&gt;vitorsgomes@gmail.com&lt;/a&gt;.
+
+@ VITOR
+Você está utilizando a versão mais recente do plugin PagSeguro?]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="/plugin/pagseguro-plugin-woocommerce/#comment-2028">vitorsgomes@gmail.com</a>.</p>
+<p>@ VITOR<br />
+Você está utilizando a versão mais recente do plugin PagSeguro?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: vitorsgomes@gmail.com		</title>
+		<link>/plugin/pagseguro-plugin-woocommerce/#comment-2028</link>
+
+		<dc:creator><![CDATA[vitorsgomes@gmail.com]]></dc:creator>
+		<pubDate>Sun, 05 Jan 2014 22:00:11 +0000</pubDate>
+		<guid isPermaLink="false">/?p=230#comment-2028</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;/plugin/pagseguro-plugin-woocommerce/#comment-2027&quot;&gt;John-Henrique&lt;/a&gt;.
+
+Boa tarde,
+
+não foi alterado nenhuma configuração. O plugin do PayPal funciona perfeitamente, ao receber uma confirmação de pagamento marca o pedido como processando, já o seu plugin está marcando como concluído.]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="/plugin/pagseguro-plugin-woocommerce/#comment-2027">John-Henrique</a>.</p>
+<p>Boa tarde,</p>
+<p>não foi alterado nenhuma configuração. O plugin do PayPal funciona perfeitamente, ao receber uma confirmação de pagamento marca o pedido como processando, já o seu plugin está marcando como concluído.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: John-Henrique		</title>
+		<link>/plugin/pagseguro-plugin-woocommerce/#comment-2027</link>
+
+		<dc:creator><![CDATA[John-Henrique]]></dc:creator>
+		<pubDate>Thu, 26 Dec 2013 14:48:47 +0000</pubDate>
+		<guid isPermaLink="false">/?p=230#comment-2027</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;/plugin/pagseguro-plugin-woocommerce/#comment-2023&quot;&gt;vitorsgomes@gmail.com&lt;/a&gt;.
+
+@ VITOR
+Aparentemente alguém modificou as configurações de sua loja, isto não tem relação com o modo de trabalho do plugin. Basta você configurar seu WooCommerce para trabalhar com o tipo de produto que você vende.]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="/plugin/pagseguro-plugin-woocommerce/#comment-2023">vitorsgomes@gmail.com</a>.</p>
+<p>@ VITOR<br />
+Aparentemente alguém modificou as configurações de sua loja, isto não tem relação com o modo de trabalho do plugin. Basta você configurar seu WooCommerce para trabalhar com o tipo de produto que você vende.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: vitorsgomes@gmail.com		</title>
+		<link>/plugin/pagseguro-plugin-woocommerce/#comment-2023</link>
+
+		<dc:creator><![CDATA[vitorsgomes@gmail.com]]></dc:creator>
+		<pubDate>Fri, 13 Dec 2013 05:24:58 +0000</pubDate>
+		<guid isPermaLink="false">/?p=230#comment-2023</guid>
+
+					<description><![CDATA[Olá,
+
+ao cliente realizar e pagar uma compra através do pagseguro é adicionada uma nota ao pedido informando:
+Confirmação manual de pagamento, é necessário verificar a confirmação de pagamento Status do pedido alterado de processando para concluído.
+
+E o pedido fica como concluído, antes funcionava normalmente e o pedido ficava como processando. O que ocorreu?]]></description>
+			<content:encoded><![CDATA[<p>Olá,</p>
+<p>ao cliente realizar e pagar uma compra através do pagseguro é adicionada uma nota ao pedido informando:<br />
+Confirmação manual de pagamento, é necessário verificar a confirmação de pagamento Status do pedido alterado de processando para concluído.</p>
+<p>E o pedido fica como concluído, antes funcionava normalmente e o pedido ficava como processando. O que ocorreu?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: John-Henrique		</title>
+		<link>/plugin/pagseguro-plugin-woocommerce/#comment-2009</link>
+
+		<dc:creator><![CDATA[John-Henrique]]></dc:creator>
+		<pubDate>Fri, 22 Nov 2013 18:39:39 +0000</pubDate>
+		<guid isPermaLink="false">/?p=230#comment-2009</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;/plugin/pagseguro-plugin-woocommerce/#comment-2005&quot;&gt;Lucas&lt;/a&gt;.
+
+@ LUCAS
+Este problema refere-se a uma versão antiga do plugin, você precisará baixar a versão mais recente em nosso site, basta acessar com seu usuário e senha utilizados no momento da compra do plugin. O mais correto seria você abrir um chamado de suporte.]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="/plugin/pagseguro-plugin-woocommerce/#comment-2005">Lucas</a>.</p>
+<p>@ LUCAS<br />
+Este problema refere-se a uma versão antiga do plugin, você precisará baixar a versão mais recente em nosso site, basta acessar com seu usuário e senha utilizados no momento da compra do plugin. O mais correto seria você abrir um chamado de suporte.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Lucas		</title>
+		<link>/plugin/pagseguro-plugin-woocommerce/#comment-2005</link>
+
+		<dc:creator><![CDATA[Lucas]]></dc:creator>
+		<pubDate>Fri, 22 Nov 2013 16:06:37 +0000</pubDate>
+		<guid isPermaLink="false">/?p=230#comment-2005</guid>
+
+					<description><![CDATA[Ola amigos estou com um problema já mexi em tudo creio que  esteja bem na minha frente mais não consigo achar kkkk ao finalizar uma compra escolho modulo pagseguro/fechar pedido &quot; Menssagem: DESCULPE, INFELIZMENTE, HOUVE UM ERRO DURANTE O CHECKOUT. ENTRE EM CONTATO COM O ADMINISTRADOR DA LOJA, SE O PROBLEMA PERSISTIR.&quot;  O que fazer ?]]></description>
+			<content:encoded><![CDATA[<p>Ola amigos estou com um problema já mexi em tudo creio que  esteja bem na minha frente mais não consigo achar kkkk ao finalizar uma compra escolho modulo pagseguro/fechar pedido &#8221; Menssagem: DESCULPE, INFELIZMENTE, HOUVE UM ERRO DURANTE O CHECKOUT. ENTRE EM CONTATO COM O ADMINISTRADOR DA LOJA, SE O PROBLEMA PERSISTIR.&#8221;  O que fazer ?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: John-Henrique		</title>
+		<link>/plugin/pagseguro-plugin-woocommerce/#comment-1878</link>
+
+		<dc:creator><![CDATA[John-Henrique]]></dc:creator>
+		<pubDate>Wed, 11 Sep 2013 18:30:14 +0000</pubDate>
+		<guid isPermaLink="false">/?p=230#comment-1878</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;/plugin/pagseguro-plugin-woocommerce/#comment-1877&quot;&gt;lucimar&lt;/a&gt;.
+
+@ LUCIMAR
+Este plugin faz tudo que ele se propõe a fazer, mas não é função do plugin de pagamento gerenciar o estoque, de qualquer forma nosso plugin funciona perfeitamente e permite que o estoque receba baixa. Veja a imagem:
+&lt;img src=&quot;/wp-content/uploads/2013/09/woocommerce-estoque.jpg&quot; title=&quot;Baixa no estoque&quot; /&gt;]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="/plugin/pagseguro-plugin-woocommerce/#comment-1877">lucimar</a>.</p>
+<p>@ LUCIMAR<br />
+Este plugin faz tudo que ele se propõe a fazer, mas não é função do plugin de pagamento gerenciar o estoque, de qualquer forma nosso plugin funciona perfeitamente e permite que o estoque receba baixa. Veja a imagem:<br />
+<img src="/wp-content/uploads/2013/09/woocommerce-estoque.jpg" title="Baixa no estoque" /></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced (Page is feed) 
+Minified using disk
+
+Served from: woocommerce.com.br @ 2022-08-23 14:35:11 by W3 Total Cache
+-->

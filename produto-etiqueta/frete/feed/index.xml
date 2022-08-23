@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Frete | WooCommerce no Brasil</title>
+	<atom:link href="/produto-etiqueta/frete/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Crie sua loja virtual com a gente</description>
+	<lastBuildDate>Sat, 22 Mar 2014 13:27:20 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2020/05/cropped-Woocommerce-32x32.png</url>
+	<title>Frete | WooCommerce no Brasil</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>WooCommerce Correios</title>
+		<link>/loja/woocommerce-correios/</link>
+					<comments>/loja/woocommerce-correios/#comments</comments>
+		
+		<dc:creator><![CDATA[John-Henrique]]></dc:creator>
+		<pubDate>Thu, 24 May 2012 22:23:02 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=429</guid>
+
+					<description><![CDATA[<p>Loja virtual sem cálculo de frete é muito incomum, praticamente toda loja virtual precisa calcular o frete do SEDEX, SEDEX a cobrar e PAC para entregar o produto através dos Correios. No WooCommerce isto não muda, o plugin WooCommerce Correios BR integra o serviço dos Correios ao WooCommerce permitindo que você ofereça o calculo de [&#8230;]</p>
+<p>The post <a href="/loja/woocommerce-correios/">WooCommerce Correios</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Loja virtual sem cálculo de frete é muito incomum, praticamente toda loja virtual precisa calcular o frete do SEDEX, SEDEX a cobrar e PAC para entregar o produto através dos Correios. No WooCommerce isto não muda, o plugin WooCommerce Correios BR integra o serviço dos Correios ao WooCommerce permitindo que você ofereça o calculo de frete online diretamente no carrinho de compras (dentro do checkout):</p>
+<p><strong>Suporte</strong><br />
+Atualmente a integração WooCommerce Correios suporta os seguintes recursos.</p>
+<ol>
+<li>SEDEX</li>
+<li>SEDEX 10</li>
+<li>SEDEX a cobrar</li>
+<li>e-SEDEX</li>
+<li>PAC</li>
+</ol>
+<p><strong>Exemplos</strong></p>
+<figure id="attachment_432" aria-describedby="caption-attachment-432" style="width: 509px" class="wp-caption alignnone"><a href="/wp-content/uploads/2012/05/correios-exemplo.jpg"><img class="size-full wp-image-432" title="Correios" alt="" src="/wp-content/uploads/2012/05/correios-exemplo.jpg" width="509" height="131" srcset="/wp-content/uploads/2012/05/correios-exemplo.jpg 509w, /wp-content/uploads/2012/05/correios-exemplo-416x107.jpg 416w, /wp-content/uploads/2012/05/correios-exemplo-300x77.jpg 300w, /wp-content/uploads/2012/05/correios-exemplo-500x128.jpg 500w" sizes="(max-width: 509px) 100vw, 509px" /></a><figcaption id="caption-attachment-432" class="wp-caption-text">Correios</figcaption></figure>
+<p><strong>Documentação</strong><br />
+Você pode consultar a documentação do plugin acessando <a title="Correios, plugin para WooCommerce" href="/plugin/correios-plugin-para-woocommerce/">/plugin/correios-plugin-para-woocommerce/</a></p><p>The post <a href="/loja/woocommerce-correios/">WooCommerce Correios</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>/loja/woocommerce-correios/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced (Page is feed) 
+Minified using disk
+
+Served from: woocommerce.com.br @ 2022-08-23 14:37:33 by W3 Total Cache
+-->

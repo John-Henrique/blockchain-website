@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentários sobre: WooCommerce Correios	</title>
+	<atom:link href="/loja/woocommerce-correios/feed/" rel="self" type="application/rss+xml" />
+	<link>/loja/woocommerce-correios/</link>
+	<description>Crie sua loja virtual com a gente</description>
+	<lastBuildDate>Fri, 28 Aug 2015 03:20:29 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		Por: Marcos		</title>
+		<link>/loja/woocommerce-correios/#comment-6434</link>
+
+		<dc:creator><![CDATA[Marcos]]></dc:creator>
+		<pubDate>Fri, 28 Aug 2015 03:20:29 +0000</pubDate>
+		<guid isPermaLink="false">/?post_type=product&#038;p=429#comment-6434</guid>
+
+					<description><![CDATA[Há a possibilidade de adicionar alguns dias ao envio do produto. Porém no método Sedex (1 dia útil) quando esse campo é preenchido ele ficou com Sedex (3 dia útil) e não 3 dias úteis.
+
+Obrigado]]></description>
+			<content:encoded><![CDATA[<p>Há a possibilidade de adicionar alguns dias ao envio do produto. Porém no método Sedex (1 dia útil) quando esse campo é preenchido ele ficou com Sedex (3 dia útil) e não 3 dias úteis.</p>
+<p>Obrigado</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Mark		</title>
+		<link>/loja/woocommerce-correios/#comment-2798</link>
+
+		<dc:creator><![CDATA[Mark]]></dc:creator>
+		<pubDate>Wed, 24 Sep 2014 20:06:37 +0000</pubDate>
+		<guid isPermaLink="false">/?post_type=product&#038;p=429#comment-2798</guid>
+
+					<description><![CDATA[Deveria atualizar automaticamente.]]></description>
+			<content:encoded><![CDATA[<p>Deveria atualizar automaticamente.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: John-Henrique		</title>
+		<link>/loja/woocommerce-correios/#comment-1304</link>
+
+		<dc:creator><![CDATA[John-Henrique]]></dc:creator>
+		<pubDate>Thu, 21 Mar 2013 14:03:11 +0000</pubDate>
+		<guid isPermaLink="false">/?post_type=product&#038;p=429#comment-1304</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;/loja/woocommerce-correios/#comment-1002&quot;&gt;Vanguedes&lt;/a&gt;.
+
+@ VANGUEDES
+Basta atualizar seu plugin para a versão mais recente. Siga as instruções descritas no post /noticias/atualizacao-woocommerce-correios-v-2-2-novo-webservice-correios/
+
+Todas as atualizações são informadas via email, basta assinar a newsletter de atualizações /atualizacoes-gratuitas/]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="/loja/woocommerce-correios/#comment-1002">Vanguedes</a>.</p>
+<p>@ VANGUEDES<br />
+Basta atualizar seu plugin para a versão mais recente. Siga as instruções descritas no post <a href="/noticias/atualizacao-woocommerce-correios-v-2-2-novo-webservice-correios/" rel="nofollow ugc">/noticias/atualizacao-woocommerce-correios-v-2-2-novo-webservice-correios/</a></p>
+<p>Todas as atualizações são informadas via email, basta assinar a newsletter de atualizações <a href="/atualizacoes-gratuitas/" rel="nofollow ugc">/atualizacoes-gratuitas/</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Vanguedes		</title>
+		<link>/loja/woocommerce-correios/#comment-1002</link>
+
+		<dc:creator><![CDATA[Vanguedes]]></dc:creator>
+		<pubDate>Sun, 02 Dec 2012 20:48:43 +0000</pubDate>
+		<guid isPermaLink="false">/?post_type=product&#038;p=429#comment-1002</guid>
+
+					<description><![CDATA[O plugin dos Correios estava funcionando perfeitamente, desde que o comprei, mas desde ontem ele simplesmente não funciona mais! Não calcula o frete! Aparece a mensagem “Desculpe, aparentemente não existem métodos de entrega disponíveis para sua localidade (Brasil).”
+Não foi alterado nada na configuração.
+Por favor, me dê um retorno com urgência, pois está tudo PARADO, sem cálculo de frete!
+Obrigado!]]></description>
+			<content:encoded><![CDATA[<p>O plugin dos Correios estava funcionando perfeitamente, desde que o comprei, mas desde ontem ele simplesmente não funciona mais! Não calcula o frete! Aparece a mensagem “Desculpe, aparentemente não existem métodos de entrega disponíveis para sua localidade (Brasil).”<br />
+Não foi alterado nada na configuração.<br />
+Por favor, me dê um retorno com urgência, pois está tudo PARADO, sem cálculo de frete!<br />
+Obrigado!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced (Page is feed) 
+Minified using disk
+
+Served from: woocommerce.com.br @ 2022-08-23 14:49:32 by W3 Total Cache
+-->

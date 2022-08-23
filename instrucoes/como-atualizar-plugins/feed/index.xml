@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentários sobre: Como atualizar plugins?	</title>
+	<atom:link href="/instrucoes/como-atualizar-plugins/feed/" rel="self" type="application/rss+xml" />
+	<link>/instrucoes/como-atualizar-plugins/</link>
+	<description>Crie sua loja virtual com a gente</description>
+	<lastBuildDate>Sat, 22 Mar 2014 12:00:06 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		Por: John-Henrique		</title>
+		<link>/instrucoes/como-atualizar-plugins/#comment-2173</link>
+
+		<dc:creator><![CDATA[John-Henrique]]></dc:creator>
+		<pubDate>Sat, 22 Mar 2014 12:00:06 +0000</pubDate>
+		<guid isPermaLink="false">/?p=359#comment-2173</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;/instrucoes/como-atualizar-plugins/#comment-2158&quot;&gt;Lázaro Rodrigues&lt;/a&gt;.
+
+@ LAZARO
+A atualização dos plugins é manual.]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="/instrucoes/como-atualizar-plugins/#comment-2158">Lázaro Rodrigues</a>.</p>
+<p>@ LAZARO<br />
+A atualização dos plugins é manual.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Lázaro Rodrigues		</title>
+		<link>/instrucoes/como-atualizar-plugins/#comment-2158</link>
+
+		<dc:creator><![CDATA[Lázaro Rodrigues]]></dc:creator>
+		<pubDate>Sat, 15 Mar 2014 13:38:30 +0000</pubDate>
+		<guid isPermaLink="false">/?p=359#comment-2158</guid>
+
+					<description><![CDATA[Olá,
+
+Essa atualização automática, pode ser feita sem que eu clique no botão Atualizar plugin. 
+
+O que quero dizer é se ela pode ser feita sem autorização do administrador do sistema.
+
+Vlw!]]></description>
+			<content:encoded><![CDATA[<p>Olá,</p>
+<p>Essa atualização automática, pode ser feita sem que eu clique no botão Atualizar plugin. </p>
+<p>O que quero dizer é se ela pode ser feita sem autorização do administrador do sistema.</p>
+<p>Vlw!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced (Page is feed) 
+Minified using disk
+
+Served from: woocommerce.com.br @ 2022-08-23 14:46:39 by W3 Total Cache
+-->

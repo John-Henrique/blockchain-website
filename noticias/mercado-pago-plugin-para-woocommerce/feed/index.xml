@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentários sobre: Mercado Pago, plugin para WooCommerce	</title>
+	<atom:link href="/noticias/mercado-pago-plugin-para-woocommerce/feed/" rel="self" type="application/rss+xml" />
+	<link>/noticias/mercado-pago-plugin-para-woocommerce/</link>
+	<description>Crie sua loja virtual com a gente</description>
+	<lastBuildDate>Thu, 22 Jul 2021 08:37:18 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		Por: Kerli		</title>
+		<link>/noticias/mercado-pago-plugin-para-woocommerce/#comment-152</link>
+
+		<dc:creator><![CDATA[Kerli]]></dc:creator>
+		<pubDate>Fri, 22 Jun 2012 21:34:41 +0000</pubDate>
+		<guid isPermaLink="false">/?p=367#comment-152</guid>
+
+					<description><![CDATA[Olá tenho interesse neste plugin.
+Qual seria o custo para a compra deste (mercaod pago) + correios.
+
+Obrigada.]]></description>
+			<content:encoded><![CDATA[<p>Olá tenho interesse neste plugin.<br />
+Qual seria o custo para a compra deste (mercaod pago) + correios.</p>
+<p>Obrigada.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: William Gomes		</title>
+		<link>/noticias/mercado-pago-plugin-para-woocommerce/#comment-40</link>
+
+		<dc:creator><![CDATA[William Gomes]]></dc:creator>
+		<pubDate>Wed, 04 Apr 2012 19:49:24 +0000</pubDate>
+		<guid isPermaLink="false">/?p=367#comment-40</guid>
+
+					<description><![CDATA[Desejo o plugin do mercado pago.
+wsgpositivo@gmail.com]]></description>
+			<content:encoded><![CDATA[<p>Desejo o plugin do mercado pago.<br />
+<a href="mailto:wsgpositivo@gmail.com">wsgpositivo@gmail.com</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Anderson		</title>
+		<link>/noticias/mercado-pago-plugin-para-woocommerce/#comment-28</link>
+
+		<dc:creator><![CDATA[Anderson]]></dc:creator>
+		<pubDate>Wed, 08 Feb 2012 20:06:56 +0000</pubDate>
+		<guid isPermaLink="false">/?p=367#comment-28</guid>
+
+					<description><![CDATA[Tenho interesse nesse plugin e no dos correios. Como posso adquirir?]]></description>
+			<content:encoded><![CDATA[<p>Tenho interesse nesse plugin e no dos correios. Como posso adquirir?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced (Page is feed) 
+Minified using disk
+
+Served from: woocommerce.com.br @ 2022-08-23 14:55:10 by W3 Total Cache
+-->

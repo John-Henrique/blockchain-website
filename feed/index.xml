@@ -8,96 +8,91 @@
 	>
 
 <channel>
-	<title>JOHN-HENRIQUE</title>
-	<atom:link href="https://johnhenrique.on.fleek.co/feed" rel="self" type="application/rss+xml" />
-	<link>https://johnhenrique.on.fleek.co/</link>
-	<description>Desenvolvendo web e móvel sem complicação</description>
-	<lastBuildDate>Sun, 21 Aug 2022 01:04:02 +0000</lastBuildDate>
+	<title>WooCommerce no Brasil</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Crie sua loja virtual com a gente</description>
+	<lastBuildDate>Sun, 21 Aug 2022 06:48:54 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.1</generator>
+	
 
 <image>
-	<url>https://johnhenrique.on.fleek.co/wp-content/uploads/2020/10/cropped-logo-johnhenrique-icone-32x32.png</url>
-	<title>JOHN-HENRIQUE</title>
-	<link>https://johnhenrique.on.fleek.co/</link>
+	<url>/wp-content/uploads/2020/05/cropped-Woocommerce-32x32.png</url>
+	<title>WooCommerce no Brasil</title>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Como usar OBS Studio para gravar cursos online</title>
-		<link>https://johnhenrique.on.fleek.co/tecnologia/como-usar-obs-studio-gravar-cursos-online.html</link>
-					<comments>https://johnhenrique.on.fleek.co/tecnologia/como-usar-obs-studio-gravar-cursos-online.html#respond</comments>
+		<title>Como tirar fotos para e-commerce [até com seu celular]</title>
+		<link>/conteudo/como-tirar-fotos-para-e-commerce-ate-com-seu-celular/</link>
 		
-		<dc:creator><![CDATA[John]]></dc:creator>
-		<pubDate>Mon, 15 Aug 2022 18:49:43 +0000</pubDate>
-				<category><![CDATA[Tecnologia]]></category>
-		<category><![CDATA[Gravar aula]]></category>
-		<category><![CDATA[Gravar curso]]></category>
-		<category><![CDATA[Gravar tela]]></category>
-		<category><![CDATA[HeroSpark]]></category>
-		<category><![CDATA[Hotmart]]></category>
-		<category><![CDATA[OBS Studio]]></category>
-		<guid isPermaLink="false">https://johnhenrique.on.fleek.co/?p=9832</guid>
+		<dc:creator><![CDATA[John-Henrique]]></dc:creator>
+		<pubDate>Sun, 21 Aug 2022 05:06:21 +0000</pubDate>
+				<category><![CDATA[Conteúdo]]></category>
+		<category><![CDATA[Ecommerce]]></category>
+		<category><![CDATA[Foto com celular]]></category>
+		<category><![CDATA[Fotografia]]></category>
+		<category><![CDATA[Loja virtual]]></category>
+		<guid isPermaLink="false">/?p=24945</guid>
 
-					<description><![CDATA[<p>Aprenda como usar OBS Studio, um poderoso programa de software que pode ser usado para muitos fins, como jogos, gravação de áudio, vídeo e transmissões ao vivo (lives), neste artigo vou explicar como usar o OBS Studio para gravar. Ele tem muitas características excelentes para fazer vídeos ricos em mídia e outras aplicações. Neste artigo,&#8230; <a class="more-link" href="https://johnhenrique.on.fleek.co/tecnologia/como-usar-obs-studio-gravar-cursos-online.html">Continuar lendo <span class="screen-reader-text">Como usar OBS Studio para gravar cursos online</span></a></p>
-<p>The post <a href="https://johnhenrique.on.fleek.co/tecnologia/como-usar-obs-studio-gravar-cursos-online.html">Como usar OBS Studio para gravar cursos online</a> first appeared on <a href="https://johnhenrique.on.fleek.co/">JOHN-HENRIQUE</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Aprenda <strong>como usar OBS Studio</strong>, um poderoso programa de software que pode ser usado para muitos fins, como jogos, gravação de áudio, vídeo e transmissões ao vivo (lives), neste artigo vou explicar <strong>como usar o OBS Studio para gravar</strong>.<span id="more-9832"></span></p>
-<p>Ele tem muitas características excelentes para fazer vídeos ricos em mídia e outras aplicações. Neste artigo, você aprenderá <strong>como usar o OBS Studio para gravar cursos online</strong> usando o aplicativo.</p>
-<p>Você pode se perguntar como exatamente posso usar o OBS Studio com meu curso? Abaixo estão alguns passos úteis:</p>
-<h2>Planeje o conteúdo das aulas</h2>
-<p>Para criar uma aula, você precisará criar um esboço geral, escolher o tipo de informação sobre o qual você quer ensinar, decidir em quais tópicos você quer se concentrar e, em seguida, escolher os tipos de tarefas nas quais você quer trabalhar.</p>
-<p>É importante que seu curso tenha entre 5 e 10 módulos para evitar que fique muito extenso ao ponto que os alunos percam o interesse no decorrer das aulas.</p>
-<p>Tente manter as aulas com no máximo 20 minutos, mais que isso, tudo fica cansativo, lembra quando você estava nas aulas da escola? Você provavelmente ficava louco para a aula acabar logo, imagine seu aluno que está estudando em casa&#8230;</p>
-<h2>Como usar o OBS Studio para apresentar slides e explicar ideias</h2>
-<figure id="attachment_9833" aria-describedby="caption-attachment-9833" style="width: 300px" class="wp-caption alignright"><img class="size-medium wp-image-9833" src="https://johnhenrique.on.fleek.co/wp-content/uploads/2022/08/como-usar-obs-studio-para-gravar-aulas-online-1-300x195.jpg" alt="Como usar OBS Studio para gravar cursos online" width="300" height="195" srcset="https://johnhenrique.on.fleek.co/wp-content/uploads/2022/08/como-usar-obs-studio-para-gravar-aulas-online-1-300x195.jpg 300w, https://johnhenrique.on.fleek.co/wp-content/uploads/2022/08/como-usar-obs-studio-para-gravar-aulas-online-1.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption id="caption-attachment-9833" class="wp-caption-text">Como usar OBS Studio para gravar cursos online</figcaption></figure>
-<p>Outra ótima maneira de explicar ideias no <strong>OBS Studio</strong> é usar apresentações de slides. Você pode gravar várias exibições da mesma informação, cada uma com um tópico e imagem diferentes.</p>
-<p>Embora esta abordagem não seja altamente eficaz para criar experiências de aprendizagem em dois ou três níveis, ela pode ser eficaz ao utilizar múltiplos conceitos ou mesmo lições.</p>
-<p>Para criar uma apresentação de slides, você pode usar o Microsoft PowerPoint ou o Google Apresentações (do Google Drive)</p>
-<h2>Como usar OBS Studio para gravar aulas</h2>
-<p>Para usar o OBS Studio para gravar cursos on-line, você precisará primeiro adquirir o software mas, calma, ele é gratuito, você pode baixá-lo diretamente do site do OBS Studio.</p>
-<p>Após a instalação do software, você precisará configurar ao menos uma cena, adicionando o microfone, tela do computador ou câmera, feito isso basta iniciar o processo de gravação.</p>
-<p>É importante lembrar que o OBS Studio tem seu próprio formato de vídeo então, após a gravação você precisará converter o arquivo para o formato MP4 que pode ser reproduzido em vários dispositivos.</p>
-<p>Para converter um arquivo de vídeo OBS Studio basta ir em <strong>Arquivo -&gt; Converter</strong> arquivos e escolher o arquivo que deseja converter, a conversão é extremamente rápida e não demora nem 1 minuto.</p>
-<blockquote><p>Aprenda tudo sobre OBS Studio no <a href="https://johnhenrique.on.fleek.co/curso-obs-studio" rel="nofollow sponsored ">curso Imersão OBS Studio completo</a>.</p></blockquote>
-<h2>Agora que sei como usar o OBS Studio, o que posso fazer com os vídeos?</h2>
-<p>Dependendo de seus objetivos e de quantas informações você deseja gravar, você pode optar por publicar seu curso em uma plataforma específica ou vendê-lo como um produto.</p>
-<p>Se você tem um site, você pode vender o acesso ao seu curso diretamente no seu site ou pode publicá-lo numa plataforma especifica para venda e entrega de cursos online como a Hotmart ou HeroSpark.</p>
-<p>Cada plataforma tem suas próprias características e soluções especificas, a escolha de qual delas é a melhor para você vai depender exclusivamente das suas estratégias de vendas. Em todo caso, todas elas costumam cobrar cerca de 10% do valor de cada venda.</p>
-<h2>Conclusão: Como usar o OBS Studio</h2>
-<p>OBS Studio é gratuito e permite gravar aulas. É uma ótima ferramenta para fazer vídeos e também pode ser usada para criar curso online.</p>
-<p>É fácil de usar e oferece muitos recursos excelentes. Se você está procurando uma maneira eficaz de gravar e distribuir seu curso, o OBS Studio é um ótimo caminho a seguir. Ele lhe dá muitos recursos e é fácil de usar. Então, por que não experimentá-lo?</p><p>The post <a href="https://johnhenrique.on.fleek.co/tecnologia/como-usar-obs-studio-gravar-cursos-online.html">Como usar OBS Studio para gravar cursos online</a> first appeared on <a href="https://johnhenrique.on.fleek.co/">JOHN-HENRIQUE</a>.</p>]]></content:encoded>
+					<description><![CDATA[<p>Tudo que você precisa saber sobre como tirar fotos de seus produtos em sua loja de comércio eletrônico. Sua loja de comércio eletrônico parece profissional? Se sim, então você já tem uma boa ideia de como tirar melhores fotos de seus produtos. Mas para qualquer pessoa que está apenas começando com sua loja de comércio [&#8230;]</p>
+<p>The post <a href="/conteudo/como-tirar-fotos-para-e-commerce-ate-com-seu-celular/">Como tirar fotos para e-commerce [até com seu celular]</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Tudo que você precisa saber sobre <strong>como tirar fotos</strong> de seus produtos em sua loja de comércio eletrônico. Sua loja de comércio eletrônico parece profissional? Se sim, então você já tem uma boa ideia de como tirar melhores fotos de seus produtos.<span id="more-24945"></span></p>
+<p>Mas para qualquer pessoa que está apenas começando com sua loja de comércio eletrônico, ou para aqueles que estão procurando acelerar seu crescimento, há algumas dicas que podem realmente encurtar o caminho para fazer com que essa loja de comércio eletrônico seja ainda melhor!</p>
+<p>Com a ajuda deste artigo, você poderá não só tirar melhores fotos de seus próprios produtos, mas também aprender como tirar melhores fotos dos produtos de outras pessoas para poder vender mais em sua loja de comércio eletrônico.</p>
+<h2>Foto de produtos: Qual a diferença entre fotos boas e ótimas?</h2>
+<figure id="attachment_24946" aria-describedby="caption-attachment-24946" style="width: 300px" class="wp-caption alignright"><img class="size-medium wp-image-24946" src="/wp-content/uploads/2022/08/como-tirar-fotos-de-produtos-para-ecommerce-1-300x200.jpg" alt="como tirar fotos de produtos para ecommerce" width="300" height="200" srcset="/wp-content/uploads/2022/08/como-tirar-fotos-de-produtos-para-ecommerce-1-300x200.jpg 300w, /wp-content/uploads/2022/08/como-tirar-fotos-de-produtos-para-ecommerce-1-416x277.jpg 416w, /wp-content/uploads/2022/08/como-tirar-fotos-de-produtos-para-ecommerce-1.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption id="caption-attachment-24946" class="wp-caption-text">Tirar fotos de produtos com seu celular</figcaption></figure>
+<p>A diferença entre boas e ótimas fotos de produtos é muitas vezes enfatizada por aqueles que estão apenas começando com sua loja de comércio eletrônico. Uma das primeiras coisas que você deve fazer é escolher alguns produtos que você vende e dos quais você sabe tirar boas fotos. Isto lhe dará uma ideia do tipo de fotos que você gosta de tirar, assim como o tipo de fotos que você deve tirar.</p>
+<p>Uma vez selecionados alguns produtos, você vai querer começar a tirar melhores fotos do produto. Estas fotos servem a dois propósitos, elas são destinadas a ajudá-lo a melhorar como fotógrafo e a ajudar as pessoas que estão procurando comprar seus produtos a ver o que você tem a oferecer.</p>
+<p>Estas fotos de produtos também lhe darão uma ideia do tipo de fotografia que você gosta de fazer, e que tipo de fotos você deveria estar fazendo.</p>
+<h2>O mais importante para tirar foto de um produto?</h2>
+<p>O fator mais importante ao tirar uma foto de um produto é sua criatividade! Se você está tirando uma foto padrão de seus produtos, ou um produto que você faz particularmente bonito, você precisa pensar em como você vai capturar seu produto em toda a sua glória. Você precisa pensar sobre o que você quer capturar e o que não quer.</p>
+<p>Quando se trata de fotos de produtos, a única coisa que você não quer fazer é expor em demasia seu produto. Isto significa que as luzes em sua loja são muito brilhantes, e que as luzes na foto não são suficientemente escuras. É importante notar que geralmente há uma diferença entre superexposição (muito clara) e subexposição (luz insuficiente).</p>
+<p>Se você estiver tirando uma foto de toda a sua loja, provavelmente não precisa se preocupar em ser muito brilhante ou muito escuro. Mas quando se trata de tirar uma foto de apenas um produto, você precisa cuidar dessa luz. Se a luz for muito brilhante, você acabará com um quadro branco, ou com uma foto sem quadro.</p>
+<p>Se a luz for muito baixa, você acabará com uma imagem escura, e precisará aumentar as luzes em sua loja para compensar o fato de a fonte de luz estar apagada.</p>
+<h2>Escolher o produto não é tudo!</h2>
+<p>Só porque você tirou uma foto de seu produto, não significa que você tenha capturado sua beleza. É essencial tirar mais algumas fotos de seu produto para que ele tenha o seu melhor aspecto.</p>
+<p>Se você estiver vendendo um quadro branco, por exemplo, você vai querer tirar fotos dele antes de começar a usá-lo, e também depois de ter terminado de usá-lo para que você possa ver como ele se parece e funciona na vida real.</p>
+<h2>Melhore suas fotos praticando</h2>
+<p>A prática torna perfeito, e quando se trata de tirar fotos de seus produtos, você vai querer praticar primeiro em algumas amostras para que você se apodere delas.</p>
+<p>Isto porque nem todas as fotos que você tirar serão boas, e você vai querer evitar tirar fotos das quais você se arrependerá mais tarde, e perder a inspiração para, depois do fato. A prática leva muito tempo, mas os benefícios valem a pena e podem realmente valer a pena no final.</p>
+<p>Quer você seja um recém-chegado à fotografia, ou um fotógrafo experiente que queira levar suas habilidades para o próximo nível, há maneiras de melhorar suas habilidades fotográficas.</p>
+<h2>Fotos coloridas são mais atraentes</h2>
+<p>Colorir suas fotos pode realmente alegrar uma imagem monótona e dar-lhe uma sensação mais jovem. Você também pode usar estas cores extras para dar às suas fotos um toque mais criativo e uma sensação única.</p>
+<p>Se você estiver vendendo óculos de visão noturna, por exemplo, você vai querer tentar incorporar essas cores em suas fotos para que as pessoas possam facilmente identificá-las como sendo suas.</p>
+<figure id="attachment_24947" aria-describedby="caption-attachment-24947" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" class="size-full wp-image-24947" src="/wp-content/uploads/2022/08/como-tirar-foto-de-comida-ecommerce-1.jpg" alt="Como tirar foto de comida para ecommerce" width="600" height="400" srcset="/wp-content/uploads/2022/08/como-tirar-foto-de-comida-ecommerce-1.jpg 600w, /wp-content/uploads/2022/08/como-tirar-foto-de-comida-ecommerce-1-300x200.jpg 300w, /wp-content/uploads/2022/08/como-tirar-foto-de-comida-ecommerce-1-416x277.jpg 416w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-24947" class="wp-caption-text">Como tirar foto de comida para e-commerce</figcaption></figure>
+<p>Tente sempre criar um cenário que ilustre o uso do seu produto, imagine que você venda pizzas, fotografe ela numa mesa forrada, com alguns legumes e ingredientes compondo o cenário, estes itens vão deixar a foto mais colorida.</p>
+<div class="rock-convert-banner"><a href="/fotografia-produtos?utm_medium=rock-convert&utm_source=banner&utm_campaign=foto-celular" target="_blank" class="rock-convert-cta-link" data-cta-id="24913" data-cta-title="Curso Fotos Celular"><img width="600" height="200" src="/wp-content/uploads/2022/08/curso-fotos-com-celular.jpg" class="attachment-full size-full" alt="curso fotos com celular" loading="lazy" title="Curso Fotos Celular" srcset="/wp-content/uploads/2022/08/curso-fotos-com-celular.jpg 600w, /wp-content/uploads/2022/08/curso-fotos-com-celular-300x100.jpg 300w, /wp-content/uploads/2022/08/curso-fotos-com-celular-416x139.jpg 416w" sizes="(max-width: 600px) 100vw, 600px" /></a></div>
+<h2>Conclusão</h2>
+<p>O artigo discute a diferença entre boas e grandes fotos de produtos, bem como alguns dos fatores mais importantes quando se tira uma foto de um produto. Seguindo estas dicas, você pode tirar melhores fotos de produtos em sua loja de comércio eletrônico, e aumentar suas chances de vender mais.</p><p>The post <a href="/conteudo/como-tirar-fotos-para-e-commerce-ate-com-seu-celular/">Como tirar fotos para e-commerce [até com seu celular]</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></content:encoded>
 					
-					<wfw:commentRss>https://johnhenrique.on.fleek.co/tecnologia/como-usar-obs-studio-gravar-cursos-online.html/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>SEO para ecommerce: 5 Dicas Para Vender Mais em 2022</title>
-		<link>https://johnhenrique.on.fleek.co/blog/seo-para-ecommerce-5-dicas-vender-mais.html</link>
-					<comments>https://johnhenrique.on.fleek.co/blog/seo-para-ecommerce-5-dicas-vender-mais.html#respond</comments>
+		<title>SEO para ecommerce: 5 Dicas Para Vender Mais</title>
+		<link>/conteudo/seo-para-ecommerce-5-dicas-vender-mais/</link>
 		
-		<dc:creator><![CDATA[John]]></dc:creator>
-		<pubDate>Sat, 13 Aug 2022 18:13:25 +0000</pubDate>
-				<category><![CDATA[Blog]]></category>
-		<category><![CDATA[SEO]]></category>
-		<category><![CDATA[SEO para ecommerce]]></category>
-		<guid isPermaLink="false">https://johnhenrique.on.fleek.co/?p=9824</guid>
+		<dc:creator><![CDATA[John-Henrique]]></dc:creator>
+		<pubDate>Sat, 13 Aug 2022 07:05:20 +0000</pubDate>
+				<category><![CDATA[Conteúdo]]></category>
+		<guid isPermaLink="false">/?p=24533</guid>
 
-					<description><![CDATA[<p>SEO para eCommerce é ótimo porque você pode obter as melhores classificações para suas palavras-chave específicas e garantir que sua loja apareça nas primeiras posições nos motores de busca. Entretanto, ele também pode ser usado como uma ferramenta de gerenciamento análise SEO para acompanhar o desempenho de seus sites. Se você estiver lutando para vender&#8230; <a class="more-link" href="https://johnhenrique.on.fleek.co/blog/seo-para-ecommerce-5-dicas-vender-mais.html">Continuar lendo <span class="screen-reader-text">SEO para ecommerce: 5 Dicas Para Vender Mais em 2022</span></a></p>
-<p>The post <a href="https://johnhenrique.on.fleek.co/blog/seo-para-ecommerce-5-dicas-vender-mais.html">SEO para ecommerce: 5 Dicas Para Vender Mais em 2022</a> first appeared on <a href="https://johnhenrique.on.fleek.co/">JOHN-HENRIQUE</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p><strong>SEO para eCommerce</strong> é ótimo porque você pode obter as melhores classificações para suas palavras-chave específicas e garantir que sua loja apareça nas primeiras posições nos motores de busca.<span id="more-9824"></span></p>
-<p>Entretanto, ele também pode ser usado como uma ferramenta de gerenciamento análise SEO para acompanhar o desempenho de seus sites. Se você estiver lutando para vender produtos ou serviços on-line, confira estas dicas de um ex-funcionário do Google para ajudar a aumentar seu SEO e vender mais rápido, fácil e seguro.<!--more--></p>
+					<description><![CDATA[<p>SEO para eCommerce é ótimo porque você pode obter as melhores classificações para suas palavras-chave específicas e garantir que sua loja apareça nas primeiras posições nos motores de busca. Entretanto, ele também pode ser usado como uma ferramenta de gerenciamento análise SEO para acompanhar o desempenho de seus sites. Se você estiver lutando para vender [&#8230;]</p>
+<p>The post <a href="/conteudo/seo-para-ecommerce-5-dicas-vender-mais/">SEO para ecommerce: 5 Dicas Para Vender Mais</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p><strong>SEO para eCommerce</strong> é ótimo porque você pode obter as melhores classificações para suas palavras-chave específicas e garantir que sua loja apareça nas primeiras posições nos motores de busca.</p>
+<p>Entretanto, ele também pode ser usado como uma ferramenta de gerenciamento análise SEO para acompanhar o desempenho de seus sites. Se você estiver lutando para vender produtos ou serviços on-line, confira estas dicas de um ex-funcionário do Google para ajudar a aumentar seu SEO e vender mais rápido, fácil e seguro.<span id="more-24533"></span></p>
 <h2>Chegar ao coração do problema</h2>
 <p>Quando as pessoas procuram por produtos ou serviços, elas estão realmente procurando por informações. Por isso, o primeiro passo para se classificar bem para suas palavras-chave é chegar ao cerne do problema que as pessoas estão tentando resolver. Este pode ser o problema que seu cliente está tentando resolver, sua concorrência, ou uma combinação de ambos.</p>
 <p>Comece desviando a atenção deles para seu site respondendo às perguntas que os levarão até lá. O que eles estão tentando realizar com sua consulta de busca? Que problema eles estão tentando resolver? Qual é a característica chave que eles querem ver? Como eles podem descobrir se estão acertando com seu produto ou serviço?</p>
 <h2>Use palavras-chave para direcionar o tráfego para seu site</h2>
 <p>A pesquisa por palavra-chave é o processo de pesquisar os termos de pesquisa que as pessoas estão usando e de apresentar ideias para novas palavras-chave. Tente entender o que as pessoas estão tentando encontrar e resolver com suas palavras-chave.</p>
-<figure id="attachment_2263" aria-describedby="caption-attachment-2263" style="width: 319px" class="wp-caption alignright"><img loading="lazy" class=" wp-image-2263" src="https://desafioprimeiravenda.com.br/wp-content/uploads/2022/08/seo-para-ecommerce-woocommerce-seo-loja-virtual.png" alt="SEO para ecommerce" width="319" height="231" /><figcaption id="caption-attachment-2263" class="wp-caption-text">SEO para ecommerce: 5 dicas para vender mais em 2022</figcaption></figure>
+<figure id="attachment_24536" aria-describedby="caption-attachment-24536" style="width: 300px" class="wp-caption alignright"><img loading="lazy" class="wp-image-24536 size-medium" src="/wp-content/uploads/2022/08/seo-para-ecommerce-woocommerce-seo-loja-virtual-300x217.png" alt="SEO para ecommerce" width="300" height="217" srcset="/wp-content/uploads/2022/08/seo-para-ecommerce-woocommerce-seo-loja-virtual-300x217.png 300w, /wp-content/uploads/2022/08/seo-para-ecommerce-woocommerce-seo-loja-virtual-416x301.png 416w, /wp-content/uploads/2022/08/seo-para-ecommerce-woocommerce-seo-loja-virtual.png 626w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption id="caption-attachment-24536" class="wp-caption-text">SEO Para E-commerce: 5 Dicas Para Vender Mais</figcaption></figure>
 <p>Isto lhe dará ideias para novos termos e frases a serem acrescentadas à sua ferramenta de pesquisa de palavras-chave. Por exemplo, se seus clientes estão procurando sites de comércio eletrônico com opções de pagamento Bitcoin, você poderia explorar os termos e frases que os clientes estão usando e tentar encontrar uma correspondência.</p>
 <p>A pesquisa por palavra-chave é apenas metade de sua jornada SEO. Quando você escolher as palavras-chave certas, o Google o classificará seu site no inicio das páginas de resultados de pesquisa (SRSLs). Mas escolher as palavras-chave corretas não é suficiente. Você também tem que usá-las corretamente.</p>
 <p>Há muitas maneiras de se fazer isso. A primeira é usar as ferramentas de pesquisa por palavras-chave mais comuns na web: Google, Bing e Amazon. A outra é anotar as palavras-chave que você usa em seu site e mantê-lo simples. Uma ferramenta de pesquisa por palavra-chave é o melhor caminho a seguir. Elas permitem que você pesquise por palavras-chave, analise os sites de seus concorrentes para termos-chave e encontre novas ideias de palavras-chave. Utilizar uma ferramenta de pesquisa por palavra-chave: Comece procurando por palavras-chave em seu site.</p>
@@ -112,7 +107,7 @@
 <h2>Faça vídeos e fotos criativas</h2>
 <p>Imagens de qualidade vão impressionar seus clientes e te ajudar a vender mais, lembre-se no ecommerce, seu cliente não consegue tocar, cheirar, sentir ou pesar seus produtos então, você precisa impressioná-lo visualmente!</p>
 <p>Se for possível contrate um fotografo profissional para criar fotos e vídeos mostrando o melhor dos seus produtos, é muito comum as lojas virtuais usarem fotos amadoras ou copiadas da internet mas, acredite, as lojas que mais se destacam usam imagens criativas e as pessoas se identificam com elas.</p>
-<p>Sabemos que a contratação de profissionais é algo caro, como alternativa, criamos um treinamento para te ensinar a <a href="https://johnhenrique.on.fleek.co/fotos-celular" rel="nofollow sponsored ">Fazer fotos incríveis com celular</a>.</p>
+<p>Sabemos que a contratação de profissionais é algo caro, como alternativa, criamos um treinamento para te ensinar a <a href="https://membros.desafioprimeiravenda.com.br/fotografia-produtos" rel="sponsored ">Fazer fotos incríveis com celular</a>.</p>
 <h2>Estabelecer um ótimo atendimento ao cliente</h2>
 <p>Quando alguém está procurando seus produtos ou serviços e clica em seu link de ajuda ou suporte, o mais provável é que faça uma pergunta. Facilite para eles o acesso às informações de que precisam, estabelecendo um ótimo atendimento ao cliente.</p>
 <p>É importante disponibilizar links para respostas comuns como tempo de entrega, garantias, trocas e devoluções entre outros. O importante é que o cliente consiga a informação o mais rápido possível, se ele conseguir sozinho, você não precisará ter um atendente especificamente para esta finalidade.</p>
@@ -121,6 +116,7 @@
 <p>A pesquisa por palavra-chave é apenas parte da batalha em SEO. Você também precisa ter certeza de que seu conteúdo é de alto nível para ser classificado. Isto significa que você precisa se certificar de que suas palavras-chave não sejam usadas em excesso e não sejam penalizadas por baixo volume de pesquisa.</p>
 <p>Para garantir que suas palavras-chave obtenham o maior volume de busca, tente evitar o emparelhamento de suas palavras-chave com termos irrelevantes. Por exemplo, se suas palavras-chave são &#8220;voos baratos para Londres&#8221; e &#8220;melhor aeroporto para Londres&#8221;, tente encontrar um voo que deixe dois aeroportos diferentes em duas cidades diferentes.</p>
 <p>Isto evita que você crie conteúdos duplicados e que possam causar confusão na cabeça dos clientes.</p>
+<div class="rock-convert-banner"><a href="/seo-para-ecommerce?utm_medium=rock-convert&utm_source=banner&utm_campaign=seo-ecommerce" target="_blank" class="rock-convert-cta-link" data-cta-id="24939" data-cta-title="SEO para ecommerce"><img width="600" height="200" src="/wp-content/uploads/2022/08/curso-SEO-para-ecommerce-WooCommerce.jpg" class="attachment-full size-full" alt="curso SEO para ecommerce WooCommerce" loading="lazy" title="SEO para ecommerce" srcset="/wp-content/uploads/2022/08/curso-SEO-para-ecommerce-WooCommerce.jpg 600w, /wp-content/uploads/2022/08/curso-SEO-para-ecommerce-WooCommerce-300x100.jpg 300w, /wp-content/uploads/2022/08/curso-SEO-para-ecommerce-WooCommerce-416x139.jpg 416w" sizes="(max-width: 600px) 100vw, 600px" /></a></div>
 <h2>Use uma lista de verificação SEO</h2>
 <p>Use uma lista de verificação SEO para garantir que seu site esteja em conformidade com as regras do Google. Ela exige que você continue monitorando o desempenho de suas páginas e usando as palavras-chave que estão funcionando bem para direcionar o tráfego para seu site.</p>
 <p>Para ajudá-lo, aqui está uma visão geral das regras de SEO mais importantes a ter em mente.</p>
@@ -133,502 +129,417 @@
 <p>Eles provavelmente estão procurando um hotel que esteja a uma distância razoável do parque. Você deve fazer a mesma coisa com seu conteúdo. Se você quiser se classificar bem para tópicos como &#8220;melhores hotéis perto da Disneylândia&#8221;, certifique-se de que seu conteúdo tenha informações precisas e atualizadas.</p>
 <h2>Conclusão</h2>
 <p>Uma parte essencial do marketing on-line é direcionar o tráfego para seu site e incentivá-los a fazer compras. SEO é uma parte crucial deste processo, pois visa garantir que sua presença nas páginas de resultados do mecanismo de busca seja favorável. Estas dicas podem ajudá-lo a aumentar sua SEO e vender mais com a ajuda de palavras-chave.</p>
-<p>Você pode aprender mais sobre <a href="https://johnhenrique.on.fleek.co/seo-ecommerce" rel="nofollow sponsored ">SEO para lojas virtuais</a> em nosso treinamento <a href="https://johnhenrique.on.fleek.co/seo-ecommerce" rel="nofollow ">SEO para Ecommerce</a>.</p><p>The post <a href="https://johnhenrique.on.fleek.co/blog/seo-para-ecommerce-5-dicas-vender-mais.html">SEO para ecommerce: 5 Dicas Para Vender Mais em 2022</a> first appeared on <a href="https://johnhenrique.on.fleek.co/">JOHN-HENRIQUE</a>.</p>]]></content:encoded>
+<p>Você pode aprender mais sobre <a href="https://membros.desafioprimeiravenda.com.br/seo-para-ecommerce" rel="sponsored ">SEO para lojas virtuais</a> em nosso treinamento <a href="https://membros.desafioprimeiravenda.com.br/seo-para-ecommerce" rel="sponsored ">SEO para Ecommerce</a>.</p><p>The post <a href="/conteudo/seo-para-ecommerce-5-dicas-vender-mais/">SEO para ecommerce: 5 Dicas Para Vender Mais</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></content:encoded>
 					
-					<wfw:commentRss>https://johnhenrique.on.fleek.co/blog/seo-para-ecommerce-5-dicas-vender-mais.html/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Como usar OBS Studio</title>
-		<link>https://johnhenrique.on.fleek.co/tecnologia/como-usar-o-obs-studio.html</link>
-					<comments>https://johnhenrique.on.fleek.co/tecnologia/como-usar-o-obs-studio.html#respond</comments>
+		<title>Como alterar o DNS do meu domínio?</title>
+		<link>/instrucoes/como-alterar-o-dns-do-meu-dominio/</link>
 		
-		<dc:creator><![CDATA[John]]></dc:creator>
-		<pubDate>Thu, 11 Aug 2022 21:19:21 +0000</pubDate>
-				<category><![CDATA[Tecnologia]]></category>
-		<guid isPermaLink="false">https://johnhenrique.on.fleek.co/?p=9821</guid>
+		<dc:creator><![CDATA[John-Henrique]]></dc:creator>
+		<pubDate>Mon, 09 Aug 2021 12:33:19 +0000</pubDate>
+				<category><![CDATA[Instruções]]></category>
+		<category><![CDATA[alterar DNS]]></category>
+		<category><![CDATA[DNS]]></category>
+		<guid isPermaLink="false">/?p=14371</guid>
 
-					<description><![CDATA[<p>Como usar o OBS Studio de graça. OBS Studio é um software gratuito e de código aberto para gravação de vídeo e transmissão ao vivo. Ele pode ser usado para gravar sua tela, fazer streaming ao vivo ou até mesmo para transmitir seus jogos. Possui uma variedade de recursos, como gravação de áudio de qualquer&#8230; <a class="more-link" href="https://johnhenrique.on.fleek.co/tecnologia/como-usar-o-obs-studio.html">Continuar lendo <span class="screen-reader-text">Como usar OBS Studio</span></a></p>
-<p>The post <a href="https://johnhenrique.on.fleek.co/tecnologia/como-usar-o-obs-studio.html">Como usar OBS Studio</a> first appeared on <a href="https://johnhenrique.on.fleek.co/">JOHN-HENRIQUE</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p><strong>Como usar o OBS Studio</strong> de graça. OBS Studio é um software gratuito e de código aberto para gravação de vídeo e transmissão ao vivo. Ele pode ser usado para gravar sua tela, fazer streaming ao vivo ou até mesmo para transmitir seus jogos.</p>
-<p>Possui uma variedade de recursos, como gravação de áudio de qualquer fonte de entrada, incluindo sons do sistema, microfone ou entrada de linha; usando teclas de atalho para ações rápidas; usando cenas para organizar diferentes conjuntos de configurações; e mais!<span id="more-9821"></span></p>
-<h2>Como gravar aulas com o OBS Studio</h2>
-<p>Gravar uma aula é a melhor maneira de compartilhar seu conhecimento com outras pessoas. E também é uma ótima maneira de obter feedback sobre o que você está ensinando.</p>
-<p>Depois de gravar uma aula, você pode enviá-la para o YouTube, Instagram, Meet, Zoom e até Twitch ou publicá-la em seu blog.</p>
-<figure id="attachment_9822" aria-describedby="caption-attachment-9822" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" class="size-full wp-image-9822" src="https://johnhenrique.on.fleek.co/wp-content/uploads/2022/08/como-usar-o-obs-studio-1.png" alt="" width="600" height="423" srcset="https://johnhenrique.on.fleek.co/wp-content/uploads/2022/08/como-usar-o-obs-studio-1.png 600w, https://johnhenrique.on.fleek.co/wp-content/uploads/2022/08/como-usar-o-obs-studio-1-300x212.png 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-9822" class="wp-caption-text">Como usar o obs Studio &#8211; Visão geral da tela principal do OBS Studio</figcaption></figure>
-<h2>Configurando cenas no OBS Studio</h2>
-<p dir="auto">Uma cena é uma coleção de configurações usadas para configurar as fontes de vídeo e áudio. O artigo a seguir mostrará como <strong>configurar cenas no OBS Studio</strong> para que você possa gravar aulas ou outros tipos de vídeos.</p>
-<p dir="auto">A seguir estão as etapas para configurar cenas no OBS Studio:</p>
+					<description><![CDATA[<p>A configuração de DNS é algo simples de se fazer, basicamente você só precisa informar 2 endereços nos campos correspondentes e salvar as alterações. Está configuração define qual servidor irá responder e apresentar seu site quando alguém acessar o endereço do seu domínio. Neste post vamos explicar como alterar o DNS do seu domínio. Se [&#8230;]</p>
+<p>The post <a href="/instrucoes/como-alterar-o-dns-do-meu-dominio/">Como alterar o DNS do meu domínio?</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>A <strong>configuração de DNS</strong> é algo simples de se fazer, basicamente você só precisa informar 2 endereços nos campos correspondentes e salvar as alterações. Está configuração define qual servidor irá responder e apresentar seu site quando alguém acessar o endereço do seu domínio. Neste post vamos explicar como <strong>alterar o DNS</strong> do seu domínio.<br />
+<span id="more-14371"></span></p>
+<h2>Se você registrou seu domínio no Registro.br</h2>
+<p>Estas instruções são válidas apenas para domínios terminados com .BR e que foram registrados diretamente no site do registro.br</p>
 <ol>
-<li>Clique no ícone <strong>Cenas</strong> na barra de ferramentas na parte superior do OBS</li>
-<li>Se você não vir o ícone <strong>Cenas</strong>, certifique-se de que o <strong>Modo Cena</strong> esteja ativado (localizado na parte inferior do menu suspenso).</li>
-<li>Selecione <strong>New</strong></li>
-<li>Preencha o nome da nova cena e, opcionalmente, algumas notas com seu nome (por exemplo, “SEU NOME- cena tutorial”)</li>
-<li>Selecione sua fonte de gravação</li>
-<li>Adicione quaisquer outras fontes que você deseja que sejam vinculadas a esta cena</li>
-<li>Adicione ou agrupe cenas em <strong>pastas</strong></li>
-<li>Clique em <strong>Criar cena</strong></li>
-<li>Repita as etapas 4-8 para criar cenas adicionais</li>
+<li>Acesse o site <i><a href="http://registro.br/" target="_blank" rel="noopener noreferrer">registro.br</a></i></li>
+<li>Clique em <i>Acessar conta</i></li>
+<li>Clique no domínio <b>[domínioDoSeuSite.com.br]</b></li>
+<li>Role a tela até o tópico DNS e clique em <b>Alterar servidores DNS</b></li>
+<li>Você verá duas opções Master e Slave, preencha estes campos com <strong><span class="il">ns1</span>.<span class="il">lojafacil</span>.<span class="il">cloud</span></strong> e <strong>ns2.<span class="il">lojafacil</span>.<span class="il">cloud</span></strong></li>
+<li>Clique em <i>Salvar</i></li>
 </ol>
-<p dir="auto">Ao final do processo você terá uma configuração parecida com esta.</p>
-<h2 dir="auto">Como usar o OBS Studio: Configurando sua câmera</h2>
-<p dir="auto">O streaming é uma ótima maneira de compartilhar seu conteúdo favorito com outras pessoas em tempo real. Também é uma excelente maneira de ganhar dinheiro monetizando seu stream. No entanto, o streaming pode ser muito difícil de começar e há muitos aspectos técnicos que você precisa saber antes de começar. Neste tutorial, abordaremos os conceitos básicos de como configurar o OBS Studio e como colocar uma transmissão ao vivo em funcionamento.</p><p>The post <a href="https://johnhenrique.on.fleek.co/tecnologia/como-usar-o-obs-studio.html">Como usar OBS Studio</a> first appeared on <a href="https://johnhenrique.on.fleek.co/">JOHN-HENRIQUE</a>.</p>]]></content:encoded>
+<p>Se você realizou todos os passos acima, você verá um aviso informando um prazo para que as alterações sejam aplicadas, normalmente este prazo é de 2 horas, agora é só esperar.</p>
+<div class="rock-convert-banner"><a href="/fotografia-produtos?utm_medium=rock-convert&utm_source=banner&utm_campaign=foto-celular" target="_blank" class="rock-convert-cta-link" data-cta-id="24913" data-cta-title="Curso Fotos Celular"><img width="600" height="200" src="/wp-content/uploads/2022/08/curso-fotos-com-celular.jpg" class="attachment-full size-full" alt="curso fotos com celular" loading="lazy" title="Curso Fotos Celular" srcset="/wp-content/uploads/2022/08/curso-fotos-com-celular.jpg 600w, /wp-content/uploads/2022/08/curso-fotos-com-celular-300x100.jpg 300w, /wp-content/uploads/2022/08/curso-fotos-com-celular-416x139.jpg 416w" sizes="(max-width: 600px) 100vw, 600px" /></a></div>
+<h2>Para domínios registrados em outras empresas</h2>
+<figure id="attachment_23231" aria-describedby="caption-attachment-23231" style="width: 300px" class="wp-caption alignright"><img loading="lazy" class="wp-image-23231 size-medium" src="/wp-content/uploads/2021/08/dns-como-alterar-300x150.jpg" alt="Como alterar o DNS" width="300" height="150" srcset="/wp-content/uploads/2021/08/dns-como-alterar-300x150.jpg 300w, /wp-content/uploads/2021/08/dns-como-alterar-416x208.jpg 416w, /wp-content/uploads/2021/08/dns-como-alterar.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption id="caption-attachment-23231" class="wp-caption-text">Como alterar o DNS do meu site. A alteração de DNS pode demorar até 3 horas para conclusão.</figcaption></figure>
+<p>Cada empresa de host tem um procedimento diferente para realizar a alteração de DNS, em todo caso, cada uma delas oferece um tutorial ou ajuda para explicar como realizar estas alterações. Siga as instruções oferecidas pela empresa de registro e nos campos para indicar o endereço DNS, informe <strong>ns1.lojafacil.cloud</strong> e <strong>ns2.lojafacil.cloud</strong> (apenas estes 2 registros), após informar estes dados, clique no botão para salvar as alterações e aguarde o processo de propagação que pode demorar até 2 horas.</p>
+<p>Se precisar de ajuda para realizar esta operação, basta entrar em contato conosco.</p>
+<h2>Porque preciso alterar o DNS do domínio?</h2>
+<p>O DNS permite que alguém acesse seu site, mas para isso ocorrer é necessário que o domínio indique em qual servidor na internet estão os arquivos do seu site, ou seja, o DNS é uma espécie de GPS que indica ao navegador onde ele deve ir para encontrar seu site. Você como usuário não precisa saber sobre as questões técnicas, basta saber quais são os endereços DNS do seu servidor de hospedagem.</p><p>The post <a href="/instrucoes/como-alterar-o-dns-do-meu-dominio/">Como alterar o DNS do meu domínio?</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></content:encoded>
 					
-					<wfw:commentRss>https://johnhenrique.on.fleek.co/tecnologia/como-usar-o-obs-studio.html/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Como escrever um post perfeito para seu blog</title>
-		<link>https://johnhenrique.on.fleek.co/adsense/como-escrever-post-para-blog.html</link>
-					<comments>https://johnhenrique.on.fleek.co/adsense/como-escrever-post-para-blog.html#respond</comments>
+		<title>Email marketing, saiba quantas palavras deve ter no título</title>
+		<link>/conteudo/email-marketing-saiba-quantas-palavras-deve-ter-no-titulo/</link>
 		
-		<dc:creator><![CDATA[John]]></dc:creator>
-		<pubDate>Thu, 11 Aug 2022 05:06:25 +0000</pubDate>
-				<category><![CDATA[AdSense]]></category>
-		<category><![CDATA[Blog]]></category>
-		<category><![CDATA[Conteúdo]]></category>
-		<category><![CDATA[SEO]]></category>
-		<guid isPermaLink="false">https://johnhenrique.on.fleek.co/?p=9816</guid>
+		<dc:creator><![CDATA[John-Henrique]]></dc:creator>
+		<pubDate>Fri, 06 Aug 2021 14:22:43 +0000</pubDate>
+				<category><![CDATA[Conteúdo]]></category>
+		<guid isPermaLink="false">/?p=23225</guid>
 
-					<description><![CDATA[<p>Como blogueiro, você precisa saber como escrever um post para blog e manter uma rotina para criar regularmente conteúdos atraentes para atrair seus leitores. A melhor maneira de fazer isso é escrevendo posts em blogs que sejam interessantes e informativos. Entretanto, apresentar ideias para postagens em blogs pode ser um desafio. Como escrever um post&#8230; <a class="more-link" href="https://johnhenrique.on.fleek.co/adsense/como-escrever-post-para-blog.html">Continuar lendo <span class="screen-reader-text">Como escrever um post perfeito para seu blog</span></a></p>
-<p>The post <a href="https://johnhenrique.on.fleek.co/adsense/como-escrever-post-para-blog.html">Como escrever um post perfeito para seu blog</a> first appeared on <a href="https://johnhenrique.on.fleek.co/">JOHN-HENRIQUE</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Como blogueiro, você precisa saber <strong>como escrever um post</strong> para blog e manter uma rotina para criar regularmente conteúdos atraentes para atrair seus leitores. A melhor maneira de fazer isso é escrevendo posts em blogs que sejam interessantes e informativos. Entretanto, apresentar ideias para postagens em blogs pode ser um desafio.</p>
-<h2>Como escrever um post</h2>
-<p>Se você se encontrar preso, tente apresentar ideias relacionadas a eventos sazonais, assuntos atuais, ou tópicos populares entre seus leitores. Alternativamente, você poderia dar uma olhada em outros blogs em seu nicho e ver sobre o que eles têm escrito recentemente. Uma vez que você tenha uma ideia dos tipos de blogs que atrairão seus leitores, não deve ser muito difícil reunir essas ideias em um post.</p>
-<p>Neste artigo, vamos passar por algumas dicas úteis sobre como escrever um post perfeito para o seu blog.<span id="more-9816"></span></p>
-<h2>Pesquisa antes de escrever</h2>
-<p>Antes de começar a escrever seu post no blog, você vai querer fazer alguma pesquisa. Isto o ajudará a encontrar as informações mais relevantes para seus leitores, além de evitar que você repita o que já foi dito. Se você estiver escrevendo um post sobre uma nova tendência ou produto, você vai querer ter certeza de que está atualizado com as últimas informações.</p>
-<p>Você também pode querer ler outros blogs sobre o mesmo tópico para ver quais tópicos já foram abordados, e o que não foi. Talvez você queira pesquisar a melhor empresa para comprar um produto, ou o lugar mais popular para visitar em sua cidade. Você pode até se encontrar pesquisando usos alternativos para produtos do dia-a-dia. Qualquer que seja o tópico, é provável que haja informações por aí que você possa usar em seu post no blog.</p>
-<h2>Defina seu objetivo do post</h2>
-<p>Antes de começar a escrever, você vai querer ter certeza de que sabe qual é seu objetivo. Qual é o objetivo do seu blog? Você quer informar as pessoas sobre um determinado tópico, ou quer que elas tomem medidas? Cada publicação no blog deve ter um objetivo, para que seus leitores saibam o que estão tirando dele. Se você está blogando como parte de seu negócio, você vai querer ter como objetivo fornecer valor aos seus leitores.</p>
-<p>Você pode fazer isso compartilhando seu conhecimento ou experiência em tópicos relevantes para sua indústria. Se você estiver blogando como hobby, seus posts no blog podem ter como objetivo entreter ou educar seus leitores. Você pode escolher escrever sobre tópicos que você gosta ou nos quais tem muita experiência.</p>
-<h2>Escolha o tópico certo</h2>
-<p>A primeira coisa que você deve fazer ao apresentar ideias para postagens em blogs é escolher seu tópico. Talvez você já tenha uma ideia em mente, ou talvez ache mais fácil começar com um tópico geral. A melhor coisa a fazer é tentar encontrar um tópico que seja relevante para seus leitores.</p>
-<p>Também é útil se você tiver alguma experiência ou conhecimento sobre o tópico, pois isso facilitará a escrita de um post detalhado e informativo. Você pode querer escolher um tópico que seus leitores estejam interessados, e um que eles provavelmente não tenham se deparado. Isso garantirá que seu post seja único. Se você estiver tendo problemas para apresentar ideias para postagens em blogs, talvez queira tentar um dos seguintes métodos.</p>
-<p>Tente criar uma lista de coisas que estão atualmente com tendências em sua área, ou outro tópico em que você tenha muita experiência ou conhecimento.</p>
-<h2>Escreva uma breve introdução</h2>
-<p>A introdução de seu post no blog é crucial. É o que atrai seus leitores para seu post, por isso é importante que você passe algum tempo elaborando-o. A introdução de seu post no blog deve ser curta, mas também conter informações suficientes para que seus leitores entendam o tópico.</p>
-<p>É uma boa ideia incluir uma estatística ou fato relevante em sua introdução, pois isto pode chamar a atenção de seus leitores.</p>
-<h2>Escolha as palavras-chave</h2>
-<figure id="attachment_9818" aria-describedby="caption-attachment-9818" style="width: 300px" class="wp-caption alignright"><img loading="lazy" class="wp-image-9818 size-medium" title="Como escrever um post" src="https://johnhenrique.on.fleek.co/wp-content/uploads/2022/08/como-escrever-um-post-palavras-chave-1-300x169.jpeg" alt="Como escrever um post" width="300" height="169" srcset="https://johnhenrique.on.fleek.co/wp-content/uploads/2022/08/como-escrever-um-post-palavras-chave-1-300x169.jpeg 300w, https://johnhenrique.on.fleek.co/wp-content/uploads/2022/08/como-escrever-um-post-palavras-chave-1.jpeg 600w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption id="caption-attachment-9818" class="wp-caption-text">Palavras chaves são importantes para definir o contexto de um conteúdo, elas também servem para posicionar melhor seu site nos mecanismos de busca</figcaption></figure>
-<p>Uma das partes mais importantes de qualquer post de blog são as palavras-chave. Suas palavras-chave são os termos que seus leitores irão procurar se quiserem encontrar seu post no blog. Se você quiser que seu post seja classificado em mecanismos de busca como o Google, você precisará incluir suas palavras-chave no título e no conteúdo do post de seu blog.</p>
-<p>Quanto mais palavras-chave você usar, maior será a classificação de sua postagem. É importante encontrar um equilíbrio entre a inclusão de palavras-chave que sejam relevantes ao seu post, e aquelas que soem não naturais. Para encontrar as palavras-chave mais relevantes a serem usadas em seu post, você pode usar ferramentas gratuitas. Uma das ferramentas mais populares é o Google Keyword Planner.</p>
-<p>Você também deve verificar outros blogs em seu nicho para ver quais palavras-chave eles usam. Você pode fazer isso procurando por seu tópico, e observando os artigos relacionados.</p>
-<h2>Escreva uma conclusão</h2>
-<p>A conclusão é a última parte de seu post no blog, portanto, precisa ser tão sedutora quanto o início. Seus leitores terão chegado ao final de seu post esperando ser informados, ou para tomar medidas. Não os deixe sair desapontados. Você deveria ter iniciado seu post no blog com um problema que é provável que seus leitores tenham.</p>
-<blockquote><p>Depois de criar um blog é importante criar uma marca, um logo, que vai representar seu site, veja: <a title="Os 6 sites para criar um logotipo grátis" href="https://johnhenrique.on.fleek.co/servicos/6-sites-para-criar-um-logotipo-gratis.html" rel="nofollow ">Os 6 sites para criar um logotipo grátis</a></p></blockquote>
-<p>Seu trabalho é dizer-lhes como corrigi-lo, ou fornecer-lhes as informações de que precisam. Sua conclusão deve conter uma chamada para ação, dizendo a seus leitores o que eles devem fazer em seguida. Se seu cargo for informativo, você pode dizer a seus leitores o que eles devem fazer com as informações que você forneceu.</p>
-<h2>Conclusão</h2>
-<p>A conclusão de seu post no blog é tão importante quanto a introdução. É a última coisa que seus leitores irão ler, portanto, certifique-se de que ela os deixe satisfeitos. Sua conclusão deve conter um resumo das informações que você forneceu, ou uma explicação de como utilizá-las. Se seu post é informativo, é uma boa ideia recapitular os principais pontos de seu post, ou fornecer um resumo a seus leitores.</p>
-<blockquote><p><a href="https://johnhenrique.on.fleek.co/curso-seo-conteudo-blog" rel="nofollow sponsored ">Aprenda a criar um blog, criar conteúdo e ganhar dinheiro</a>.</p></blockquote>
-<p>Isto garantirá que seus leitores se afastem com todas as informações de que precisam. Você também pode usar sua conclusão para fornecer mais informações que seus leitores possam precisar, tais como uma lista de fontes ou outras leituras. Sua conclusão é sua última chance de impressionar seus leitores, portanto, certifique-se de que não a perca.</p><p>The post <a href="https://johnhenrique.on.fleek.co/adsense/como-escrever-post-para-blog.html">Como escrever um post perfeito para seu blog</a> first appeared on <a href="https://johnhenrique.on.fleek.co/">JOHN-HENRIQUE</a>.</p>]]></content:encoded>
+					<description><![CDATA[<p>Escrever um e-mail, o assunto dele é o que vai definir se ele será aberto ou não. &#8211; 47% das pessoas abrem os e-mails com base na linha de assunto e 69% dos clientes podem relatar e-mails como spam com base apenas na linha de assunto. &#8211; Em um estudo, e-mails sem linhas de assunto eram tão [&#8230;]</p>
+<p>The post <a href="/conteudo/email-marketing-saiba-quantas-palavras-deve-ter-no-titulo/">Email marketing, saiba quantas palavras deve ter no título</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Escrever um e-mail, o assunto dele é o que vai definir <b>se ele será aberto ou não.</b></p>
+<p>&#8211; 47% das pessoas abrem os e-mails com base na linha de assunto e 69% dos clientes podem relatar e-mails como spam com base apenas na linha de assunto.<span id="more-23225"></span></p>
+<p>&#8211; Em um estudo, e-mails sem linhas de assunto<b> eram tão intrigantes que renderam</b> uma taxa de abertura 8% maior.</p>
+<p>&#8211; E-mails de boas-vindas trazem 320% mais receita por e-mail do que outros e-mails promocionais.</p>
+<p>Taxa de abertura pelo <b>número de palavras na linha de assunto:</b></p>
+<p>– 6-10 palavras (21%),<br />
+– 0-5 palavras (16%)<br />
+– 11-15 palavras (14%)<br />
+– 16-20 palavras (12%)</p>
+<p>E-mails contendo personalização na linha de assunto têm 22% mais chances de serem abertos. A linha de assunto dos e-mails <b>normalmente contém:</b></p>
+<p>– o nome do cliente (46,21%)<br />
+– o nome/detalhes do produto (44,01%)<br />
+– o nome da empresa (42,88%).</p>
+<p>Ao mesmo tempo, essas três variáveis na linha de assunto do e-mail mostram a <b>maior taxa de conversão</b> (3,71%, 3,18% e 3,58%, respectivamente).</p>
+<p>E-mails com <b>códigos</b> <b>de</b> <b>desconto</b> ativos têm uma chance <b>8 vezes maior de fazer uma venda</b> do que aqueles sem descontos.</p>
+<p><b>Em média, </b> e-mail de marketing consiste em 434,48 palavras e leva <b>3,3 minutos para ser lido.</b></p>
+<p>A maioria (19% dos assinantes) responde às mensagens de 200-250 palavras, 17% para aqueles com menos de 50 palavras, 15% – para 150-200 palavras de e-mail longo.</p><p>The post <a href="/conteudo/email-marketing-saiba-quantas-palavras-deve-ter-no-titulo/">Email marketing, saiba quantas palavras deve ter no título</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></content:encoded>
 					
-					<wfw:commentRss>https://johnhenrique.on.fleek.co/adsense/como-escrever-post-para-blog.html/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Widi Land NFT &#8211; Como jogar grátis</title>
-		<link>https://johnhenrique.on.fleek.co/nft/widi-land-nft-como-jogar-gratis.html</link>
-					<comments>https://johnhenrique.on.fleek.co/nft/widi-land-nft-como-jogar-gratis.html#comments</comments>
+		<title>Como ativar Instagram Shopping no WooCommerce</title>
+		<link>/instrucoes/como-ativar-instagram-shopping-no-woocommerce/</link>
 		
-		<dc:creator><![CDATA[John]]></dc:creator>
-		<pubDate>Fri, 04 Feb 2022 06:05:12 +0000</pubDate>
-				<category><![CDATA[NFT]]></category>
-		<category><![CDATA[Crypto]]></category>
-		<category><![CDATA[Jogos NFT]]></category>
-		<guid isPermaLink="false">https://johnhenrique.on.fleek.co/?p=9530</guid>
+		<dc:creator><![CDATA[John-Henrique]]></dc:creator>
+		<pubDate>Wed, 28 Jul 2021 18:25:01 +0000</pubDate>
+				<category><![CDATA[Instruções]]></category>
+		<guid isPermaLink="false">/?p=23067</guid>
 
-					<description><![CDATA[<p>Jogos de fazenda sempre foram sucesso, Widi Land NFT é um jogo baseado na Colheita Feliz mas, agora você ganha dinheiro jogando. Não há dúvidas jogos envolvendo plantar, colher, criar vacas, galinhas, porcos e produzir diversos produtos sempre atrai milhares de jogadores, Widi Land é um jogo NFT gratuito que paga os jogadores por realizarem&#8230; <a class="more-link" href="https://johnhenrique.on.fleek.co/nft/widi-land-nft-como-jogar-gratis.html">Continuar lendo <span class="screen-reader-text">Widi Land NFT &#8211; Como jogar grátis</span></a></p>
-<p>The post <a href="https://johnhenrique.on.fleek.co/nft/widi-land-nft-como-jogar-gratis.html">Widi Land NFT – Como jogar grátis</a> first appeared on <a href="https://johnhenrique.on.fleek.co/">JOHN-HENRIQUE</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Jogos de fazenda sempre foram sucesso, Widi Land NFT é um jogo baseado na Colheita Feliz mas, agora você ganha dinheiro jogando. <span id="more-9530"></span> Não há dúvidas jogos envolvendo plantar, colher, criar vacas, galinhas, porcos e produzir diversos produtos sempre atrai milhares de jogadores, Widi Land é um jogo NFT gratuito que paga os jogadores por realizarem tarefas dentro do jogo.</p>
-<h3>Widi Land NFT é gratuito?</h3>
-<p>Diferente de outros games NFT que você precisa comprar algum NFT, em Widi land é gratuito, ele se enquadra na categoria de Play To Earn (P2E), ou seja, você joga para ganhar.</p>
-<p>Apesar de ser um jogo gratuito, você pode (se quiser) comprar NFTs que vão aumentar sua produção, existem terras e fazendeiros à venda no marketplace.</p>
-<p>Para comprar um NFT no marketplace você precisa da moeda WIDI, atualmente cotada a R$ 0,56 mas, ao realizar as tarefas do jogo você recebe WSO, cotado a R$ 0,09.</p>
-<figure id="attachment_9531" aria-describedby="caption-attachment-9531" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" class="size-full wp-image-9531" src="https://johnhenrique.on.fleek.co/wp-content/uploads/2022/02/widi-land-nft-jogo-gratuito.jpg" alt="widi land nft jogo gratuito" width="600" height="338" srcset="https://johnhenrique.on.fleek.co/wp-content/uploads/2022/02/widi-land-nft-jogo-gratuito.jpg 600w, https://johnhenrique.on.fleek.co/wp-content/uploads/2022/02/widi-land-nft-jogo-gratuito-300x169.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-9531" class="wp-caption-text">widi land nft jogo gratuito pagando em média R$ 15 por dia.</figcaption></figure>
-<h3>Quanto Widi Land paga?</h3>
-<p>Atualmente o jogador só consegue tokens WSO ao realizar as tarefas diárias e quando completa alguma conquista. As tarefas diárias pagam 50 WSO e as conquistas pagam 10 WSO por atividade.</p>
-<p>Na prática se o jogador completar apenas as tarefas diárias do jogo conseguirá 1500 WSO por mês, que renderá R$ 149, bem mais que vários jogos comuns que nunca pagaram nada.</p>
-<p>Se o jogador conseguir completar 3 conquistas por dia, ao final do mês terá acumulado outros 1800 WSO, que renderá R$ 179, está melhor agora né?</p>
-<p>Jogando ao menos 2 horas por dia (não precisa ser consecutivas), dá pra conseguir 3300 WSO, totalizando R$ 328.</p>
-<h3>Como ganhar mais de R$ 1000 por mês?</h3>
-<p>Para quem quiser aumentar ainda mais os ganhos, será necessário investir na compra de alguns NFTs. É recomendado comprar no mínimo mais 3 trabalhadores.</p>
-<ol>
-<li>Fazendeiro (Farmer)</li>
-<li>Cozinheiro (Cook)</li>
-<li>Criador (Breeder)</li>
-</ol>
-<p>Cada trabalhador tem uma função especifica e o valor deles no marketplace variam de R$ 91 a R$ 4.000 de acordo com a raridade e o poder de mineração.</p>
-<p>Outra forma de acelerar seus ganhos é comprar mais máquinas e fazendas, estes itens não são NFTs e você pode comprar dentro do jogo com as moedas recebidas nas recompensas.</p>
-<p>Por ultimo você pode comprar terras no marketplace, elas são NFTs e dão mais espaços para plantar, construir maquinas e fazendas, o valor da terra vai de R$ 279 a R$ 69.700.</p>
-<h3>Como jogar Wide Land</h3>
-<p>Vou levar em consideração que você já tenha sua carteira metamask ativa, se não tiver, veja este post &#8220;como criar uma carteira metamask?&#8221;.</p>
-<ol>
-<li>Agora acesse <a title="Widi land NFT" href="https://app.widiland.com/dashboard" target="_blank" rel="nofollow noopener">https://app.widiland.com/dashboard</a> para fazer login com sua carteira metamask</li>
-<li>Clique no botão &#8220;Connect wallet&#8221;</li>
-<li>Autorize e assine a conexão com o site Wide land</li>
-<li>Agora clique em cima do código da sua carteira que aparece no mesmo lugar onde aparecia o botão &#8220;Connect wallet&#8221;</li>
-<li>Você verá a informação &#8220;My account&#8221;</li>
-<li>Do lado esquerdo da tela existe um menu com o item &#8220;Account Settings&#8221;, clique nele</li>
-<li>Por fim, informe um nome de usuário, senha e seu email</li>
-<li>Clique para finalizar o cadastro e pronto</li>
-</ol>
-<p>Se você fez tudo certinho, sua conta já está criada e agora você já pode clicar em Play Game para jogar ou baixar a versão para celular e fazer login para jogar no celular Android.</p>
-<p>Conheça outros <a href="https://johnhenrique.on.fleek.co/categoria/nft">jogos NFT</a> gratuitos para ganhar mais dinheiro jogando.</p><p>The post <a href="https://johnhenrique.on.fleek.co/nft/widi-land-nft-como-jogar-gratis.html">Widi Land NFT – Como jogar grátis</a> first appeared on <a href="https://johnhenrique.on.fleek.co/">JOHN-HENRIQUE</a>.</p>]]></content:encoded>
+					<description><![CDATA[<p>Interessado em integrar sua loja virtual com o Instagram para usar o Instagram Shopping? Você está no lugar certo. Hoje você vai aprender como conectar o WooCommerce no Instagram e permitir que seus usuários descubram seus produtos na sua conta do Instagram. Provavelmente você já viu alguma conta do Instagram com um ícone de sacola, [&#8230;]</p>
+<p>The post <a href="/instrucoes/como-ativar-instagram-shopping-no-woocommerce/">Como ativar Instagram Shopping no WooCommerce</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Interessado em integrar sua loja virtual com o Instagram para usar o Instagram Shopping? Você está no lugar certo. Hoje você vai aprender como conectar o WooCommerce no Instagram e permitir que seus usuários descubram seus produtos na sua conta do Instagram.<span id="more-23067"></span></p>
+<p>Provavelmente você já viu alguma conta do Instagram com um ícone de sacola, quando você clica, te leva diretamente para uma lista de produtos, certo? Isso permite que seus seguidores (e não seguidores) possam ver todas as suas postagens com produtos marcados, eles podem comprar seus produtos a partir destas marcações, isso pode aumentar suas vendas! Neste post, você vai aprender como configurar seu Instagram para mostrar seus produtos do WooCommerce.</p>
+<p>Não sabe o que é o Instagram Shopping? Veja <a href="/conteudo/ativar-instagram-shopping/">O que é Instagram Shopping</a></p>
+<h2>Porque conectar o WooCommerce ao Instagram?</h2>
+<p>Você pode captar mais leads através do seu catalogo de produtos do Instagram. Considere o cenário em que seus clientes estão navegando em seu conteúdo. Uma vez que estes usuários encontram um produto interessante eles podem querer comprar, eles podem simplesmente clicar no post e seguir para sua loja virtual WooCommerce para saber mais sobre o produto. Agora imagine a quantidade de usuários no Instagram procurando por novos produtos e o quão conveniente seria poder ver apenas postagens de produtos.</p>
+<p>Deste modo você pode gerar leads e aumentar suas vendas a partir dos seus seguidores ou anúncios no Instagram. Conectar sua loja WooCommerce com Instagram é uma maneira conveniente de anunciar e exibir seus produtos. Então, vamos dar uma olhada em como conectar sua loja diretamente ao Instagram Shopping.</p>
+<h2>Como integrar o WooCommerce ao Instagram</h2>
+<p>Para começar o processo de integração do WooCommerce e Instagram, você precisa cumprir estes requisitos. Todos estas coisas são necessárias para integrar sua loja WooCommerce.</p>
+<ul>
+<li>Conta Instagram negócios</li>
+<li>Fã page no Facebook</li>
+<li>Loja WooCommerce</li>
+</ul>
+<p>Agora, vamos configurar todos os perfis para então criar seus posts no InstaShop.</p>
+<h2>Configure sua página do Facebook e seu catalogo</h2>
+<h3>Criar página no Facebook</h3>
+<p>Primeiro, vamos criar sua página no Facebook. Acesse <a href="https://www.facebook.com/pages/creation/">https://www.facebook.com/pages/creation/</a> para criar sua Fã page. Complete os dados e clique em Salvar para criar a página, lembre-se estas informações precisam ter relação com sua conta do Instagram.</p>
+<p>Defina a categoria da sua página como <a href="https://www.facebook.com/pages/creation/?_rdc=1&amp;_rdr">Produto ou Produto/Serviço</a> ou <a href="https://www.facebook.com/pages/creation/?_rdc=1&amp;_rdr">Shopping e Varejo</a>, depois clique em <strong>Criar página</strong>.</p>
+<h4>Criar catálogo do shopping</h4>
+<p>Após configurar a página, você precisa criar um catálogo de produtos para sua página, para isso acesse <a href="https://www.facebook.com/commerce_manager/">https://www.facebook.com/commerce_manager/</a> e clique em <strong>Começar</strong>.</p>
+<p>Próximo, clique em &#8220;Criar catálogo&#8221; e em seguida em Iniciar. Agora você verá uma nova página de catálogo.</p>
+<p>Siga em frente e escolha o tipo de catálogo como <strong> Ecommerce</strong> e clique em <strong>Próximo</strong>. Agora você precisa definir qual a plataforma de ecommerce sua loja virtual usa&#8230;</p>
+<p>Então, selecione <strong>Conectar plataforma de ecommerce</strong>, no campo <strong>Plataforma ecommerce</strong> escolha <strong>WooCommerce</strong>. Agora você precisa escolher o dono do catálogo. Clique em <strong>Finalizar</strong>.</p>
+<p>Agora você precisa instalar (ou ativar) o plugin do Facebook na sua loja. No seu site acesse <strong>Plugins -&gt; Adicionar novo</strong> e digite <strong>Facebook for WooCommerce</strong>, você verá um botão <strong>Instalar</strong>, clique nele e em seguida clique em <strong>Ativar</strong>.</p>
+<h3>Integrar WooCommerce com Facebook</h3>
+<p>Agora você precisa acessar no seu site <strong>WooCommerce -&gt; Facebook</strong> para configurar o plugin. Clique em <strong>Começar</strong>, o plugin vai solicitar login na sua conta Facebook. Escolha a conta que você usou para criar a página do Facebook.</p>
+<p>Você precisa autorizar as permissões de acesso, clique em <strong>Próximo</strong> para finalizar a sincronização com o Facebook. Feito isso, você estará na administração do seu site e deve estar pronto para usar.</p>
+<p>Agora você verá que todos os produtos do WooCommerce foram adicionados no catálogo. Em todo caso, você pode gerenciar manualmente usando o Gerenciador de catálogos, basta clicar no link do catálogo.</p>
+<h3>Configurar Instagram com WooCommerce</h3>
+<p>Primeiramente, você precisa verificar se sua conta do Instagram é uma conta de negócios. Se não for, faça login no Instagram, vá para <strong>Configurações</strong> e clique em <strong>Mudar para conta profissional</strong>.</p>
+<p>O app vai processar algumas coisas e será apresentado com os recursos da conta profissional. Agora você já tem sua conta Instagram combinada com seu WooCommerce. Verifique se estão linkadas no app do Instagram clicando em <strong>Contas -&gt; Contas linkadas</strong>.</p>
+<p>Para adicionar seus produtos no catálogo, você precisa voltar para o gerenciador. Abra seu site e acesse <strong>WooCommerce -&gt; Facebook</strong>, clique no link do seu catálogo de produtos.</p>
+<p>Clique na aba <strong>Opções -&gt; Ativos de negócios</strong> e depois em <strong>Instagram</strong>, agora clique no botão <strong>Ad and Sales channel</strong>, finalmente, clique em <strong>Adicionar conta do Instagram</strong>. Uma nova janela será aberta solicitando login da sua conta do Instagram.</p>
+<p>Se você não conseguir ver sua conta do Instagram, talvez você tenha adicionado a conta errada ou sua conta do Instagram não está no modo &#8220;Conta profissional&#8221;, neste caso, clique em &#8220;Ativos de negócios&#8221; e clique em <strong>Editar no gerenciador de negócios</strong>. Você pode adicionar quantas contas do Instagram você tiver.</p>
+<p>Pronto, agora terminamos o processo todo, dá um pouquinho de trabalho, não é mesmo? Olhando pelo lado bom, só precisamos fazer uma vez e nunca mais.</p>
+<h3>Configurar seu Instagram Shopping e habilitar marcação de produtos</h3>
+<p>Agora abra seu aplicativo do Instagram, clique em <strong>Opções</strong>, siga para <strong>Negócios</strong> e finalmente em <strong>Definir Instagram Shopping</strong>.</p>
+<p>Agora clique no botão <strong>Começar</strong> e você verá uma tela para conectar com a página do Facebook. Talvez você precise fazer login na sua conta do Facebook.</p>
+<p>Clique em <strong>Próximo</strong> e então selecione o <strong>catálogo de produtos mais</strong> <strong>recente</strong>, aquele que você importou do seu site WooCommerce.</p>
+<p>Clique em <strong>Próximo</strong>, selecione o domínio do seu site onde você vende os produtos. Este deve ser sua loja WooCommerce.</p>
+<p>Clique em <strong>Enviar para revisão</strong>, e sua página será marcada para revisão.</p>
+<p>&nbsp;</p>
+<p>Fonte: https://quadlayers.com/connect-woocommerce-to-instagram/<br />
+Plugin: https://wordpress.org/plugins/facebook-for-woocommerce/</p><p>The post <a href="/instrucoes/como-ativar-instagram-shopping-no-woocommerce/">Como ativar Instagram Shopping no WooCommerce</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></content:encoded>
 					
-					<wfw:commentRss>https://johnhenrique.on.fleek.co/nft/widi-land-nft-como-jogar-gratis.html/feed</wfw:commentRss>
+		
+		
+			</item>
+		<item>
+		<title>Como ativar o Instagram Shopping?</title>
+		<link>/conteudo/ativar-instagram-shopping/</link>
+		
+		<dc:creator><![CDATA[John-Henrique]]></dc:creator>
+		<pubDate>Wed, 28 Jul 2021 07:28:17 +0000</pubDate>
+				<category><![CDATA[Conteúdo]]></category>
+		<guid isPermaLink="false">/?p=23058</guid>
+
+					<description><![CDATA[<p>O Instagram Shopping permite a criação de uma loja no Instagram. Lançado em março de 2018, ele tem feito sucesso entre as marcas e facilitado as compras por meio dessa rede social. Instagram Shopping: O que é? Trata-se de uma função rede social Instagram, ela permite que você adicione etiquetas dos seus produtos no feed [&#8230;]</p>
+<p>The post <a href="/conteudo/ativar-instagram-shopping/">Como ativar o Instagram Shopping?</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>O Instagram Shopping permite a criação de uma loja no Instagram. Lançado em março de 2018, ele tem feito sucesso entre as marcas e facilitado as compras por meio dessa rede social.<span id="more-23058"></span></p>
+<h2>Instagram Shopping: O que é?</h2>
+<p>Trata-se de uma função rede social Instagram, ela permite que você adicione etiquetas dos seus produtos no feed e stories e é possível marcar até cinco produtos numa única foto ou 20 marcações em um carrossel.</p>
+<p>Ao completar 9 publicações marcadas com etiquetas, o Instagram shopping disponibiliza a sacolinha, uma aba que mostra todos os produtos catalogados, se alguém clicar nela, verá apenas postagens em que aparecem produtos marcados, ótimo né? Veja o exemplo abaixo:</p>
+<figure id="attachment_23061" aria-describedby="caption-attachment-23061" style="width: 500px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-23061 size-full" src="/wp-content/uploads/2021/07/instagram-shopping-como-instalar-2.png" alt="o perfil ganha um botão “Ver loja” " width="500" height="479" srcset="/wp-content/uploads/2021/07/instagram-shopping-como-instalar-2.png 500w, /wp-content/uploads/2021/07/instagram-shopping-como-instalar-2-300x287.png 300w, /wp-content/uploads/2021/07/instagram-shopping-como-instalar-2-416x399.png 416w" sizes="(max-width: 500px) 100vw, 500px" /><figcaption id="caption-attachment-23061" class="wp-caption-text">o perfil ganha um botão “Ver loja”</figcaption></figure>
+<p>&nbsp;</p>
+<p>Quem clicar na sacolinha do Instagram Shopping verá um feed, verá apenas posts com produtos marcados, se a pessoa clicar numa das etiquetas marcadas, ela verá um link com o nome do produto e será direcionada para o ecommerce, onde poderá comprar o produto diretamente.</p>
+<h2>Pra que serve o Instagram Shopping?</h2>
+<p>Esta ferramenta vem resolver o problema de tempo no atendimento dos seus clientes, provavelmente você perde bastante tempo respondendo comentários e directs com perguntas:</p>
+<ol>
+<li>Qual o valor?</li>
+<li>Tem na cor &#8220;x&#8221;?</li>
+<li>Entrega em &#8220;tal cidade&#8221;?</li>
+<li>Qual o valor do frete para &#8220;tal CEP&#8221;?</li>
+</ol>
+<p>Pode não parecer mas este simples recurso torna bem simples e produtivo o processo de compra de um produto visto no feed ou no stories do Instagram. É importante lembrar que só é possível postar no Stories quando a conta tem mais de 10 mil seguidores.</p>
+<h2>Como configurar o Instagram Shopping?</h2>
+<p><strong>Ativar do Instagram Shopping</strong> não se resume a clicar em um botão e pronto, é necessário seguir alguns passos para ativar na sua conta.</p>
+<h3>Vincular sua página e conta de anúncios no Gerenciador de Negócios do Facebook</h3>
+<p>Acesse o <a href="https://business.facebook.com/" target="_blank" rel="noopener">Gerenciador de Negócios do Facebook</a>, se você não tem uma conta no gerenciador, basta clicar em &#8220;Criar conta&#8221;, se já tem uma conta, clique em &#8220;Entrar&#8221;. Quando você estiver logado na sua conta do gerenciador, clique em <strong>vincular sua página no Facebook e sua conta de anúncios</strong> ao gerenciador de negócios.</p>
+<h2>Publique seus produtos no Facebook</h2>
+<p>Após vincular o Gerenciador de Negócios com sua conta Facebook, você precisa publicar seu catálogo de produtos. Para enviar os produtos você só precisa ativar o recurso no seu WooCommerce, o envio dos produtos se torna uma tarefa é fácil de realizar no WooCommerce (basta seguir estes passos), todos os produtos são enviados automaticamente.</p>
+<p>Na sua loja WooCommerce, vá para Administração -&gt; WooCommerce -&gt; Configurações -&gt; Integrações -&gt; Instagram faça a conexão e boas vendas.<i></i></p>
+<h2>Criar catálogo para o Instagram Shopping</h2>
+<p>Ao finalizar este processo, você poderá gerar um catálogo de produtos, sempre que você atualizar alguma informação do produto seja estoque, cores, preços ou qualquer outra informação, o WooCommerce irá atualizar seu catálogo no Instagram.</p>
+<p>Ao criar um catálogo, você verá algo como esta tela.</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-23064" src="/wp-content/uploads/2021/07/woocommerce-instagram-catalogo-shopping.png" alt="" width="972" height="223" srcset="/wp-content/uploads/2021/07/woocommerce-instagram-catalogo-shopping.png 972w, /wp-content/uploads/2021/07/woocommerce-instagram-catalogo-shopping-300x69.png 300w, /wp-content/uploads/2021/07/woocommerce-instagram-catalogo-shopping-768x176.png 768w, /wp-content/uploads/2021/07/woocommerce-instagram-catalogo-shopping-416x95.png 416w" sizes="(max-width: 972px) 100vw, 972px" /></p>
+<p>Após criar seu catálogo, você precisa acessar sua conta do Gerenciador de Anúncios para ativar o &#8220;Compras no Instagram&#8221;.</p>
+<p>No <b>Gerenciador de Anúncios do Facebook</b>, siga estes passos:</p>
+<ul>
+<li aria-level="1">Clique nos pontinhos que aparecem do lado superior esquerdo e selecione a última opção, denominada “Gerenciador de Comércio”;</li>
+<li aria-level="1">Em “Catálogos”, clique em “Adicionar Catálogo”, selecione a opção de “Comércio Eletrônico” e escolha avançar;</li>
+<li aria-level="1">Em seguida, clique em “Carregar informações de produto”, clique em “Criar”, depois clique em “Ver catálogo”;</li>
+<li aria-level="1">A tela seguinte vai sugerir a opção “<b>Adicione itens em massa</b>”. Clique em “Adicionar itens”, selecione a opção “Usar o carregamento em massa”, avance e selecione “Feed programado”;</li>
+<li aria-level="1">Avance novamente e no campo vazio, informe a URL de catálogo de produtos que você copiou do sistema da sua loja virtual (Na imagem anterior, basta clicar no botão XML para pegar o arquivo) ;</li>
+<li aria-level="1">Ao clicar em “Avançar”, selecione a frequência com que você deseja que o catálogo seja atualizado. Defina para atualizar diariamente (recomendável);</li>
+<li aria-level="1">Clique em “Avançar” novamente e escolha um nome que ajudará você a encontrar este catálogo mais tarde;</li>
+<li aria-level="1">Não se esqueça também de mudar a moeda para “BRL – Real Brasileiro”;</li>
+<li aria-level="1">Selecione “Enviar” e para finalizar o processo.</li>
+</ul>
+<p>Agora resta aguardar o Facebook processar todas as informações, não se preocupe, caso ocorra algum problema, o Facebook irá te notificar por email e também através da sua conta do Gerenciador de Anúncios e Instagram.</p>
+<h2>O que preciso para ativar o Instagram Shopping na minha loja?</h2>
+<p>Para quem deseja ativar o recurso da loja no Instagram, é preciso ter:</p>
+<ol>
+<li>Página do Instagram comercial (é uma conta com recursos para fazer negócios)</li>
+<li>Página da sua marca no Facebook (uma fã page tradicional)</li>
+<li>Conta no Gerenciador de Anúncios (uma função para gerenciar sua conta e marca dentro da rede)</li>
+<li>Ter uma loja virtual (site de vendas)</li>
+</ol>
+<p>Com esses recursos você pode incluir produtos no marketplace do Facebook e eles podem ser usados na sua loja do Instagram para gerar vendas através do aplicativo. Por enquanto não temos recurso para pagamentos dentro do Instagram, então, é importante ter um site (loja virtual) para onde o usuário será levado na hora de comprar seus produtos. Quando um usuário for direcionado para dentro da sua loja virtual, ele terá todos os recursos de cadastro, pagamento e entrega disponíveis, é o processo normal de compra.</p>
+<h2>Porque usar o Instagram Shopping?</h2>
+<ul>
+<li>O Instagram pode ser uma poderosa ferramenta para diminuir a distância entre seus produtos e clientes.</li>
+<li>Aumenta a visibilidade dos seus produtos no Instagram.</li>
+<li>Aumenta as chances de vender 24 horas por dia, já que redireciona seus seguidores pra sua loja, sem que o comprador precise aguardar você para fazer a venda.</li>
+<li>Permite definir hashtags como marcações nas fotos.</li>
+<li>É fácil de usar.</li>
+</ul>
+<h2>Quem pode vender no Instagram Shopping?</h2>
+<p>Algumas regras são aplicadas para ter direito a vender no Instagram, veja as principais:</p>
+<ol>
+<li>Ter loja virtual online;</li>
+<li>Ter certificado de segurança SSL na loja virtual;</li>
+<li>Ter conta no Facebook;</li>
+<li>Ter conta no Instagram;</li>
+<li>Ter conta no Gerenciador de Negócios do Facebook;</li>
+<li>Ter 9 publicações com marcações de produtos;</li>
+<li>Vender produtos físicos;</li>
+</ol>
+<p>Caso você não tenha ainda uma loja virtual, podemos te ajudar de 2 formas:</p>
+<ol>
+<li><strong>Criando uma loja pra você</strong><br />
+Todos os processos técnicos envolvidos ficam por nossa conta, nossa equipe cuida de tudo, desde a criação do site, configuração de servidores, configuração de emails, desenvolvimento da loja virtual e treinamento para aprender a usar a plataforma WooCommerce.</li>
+<li><strong>Te fornecendo as ferramentas para você mesmo criar sua loja</strong><br />
+Neste serviço, você recebe todos os arquivos e configurações necessários para você simplesmente fazer a instalação e no máximo em 30 minutos sua loja virtual está pronta para começar a vender na internet. Neste modelo, oferecemos um treinamento que te ensina criar loja virtual, além de ensinar como usar a plataforma WooCommerce.</li>
+</ol>
+<h2>Dicas para vender mais com Instagram Shopping</h2>
+<ul>
+<li>Marque vários produtos para ajudar sua audiência a explorar seus produtos.</li>
+<li>Use o Instagram Stories para mostrar a sua audiência que eles podem comprar produtos a partir dos seus posts.</li>
+<li>Aproveite a flexibilidade de diferentes formatos, marcação única em fotos ou múltiplas em carrossel.</li>
+<li>Garanta que cada marcação corresponda a um produto, assim, seus compradores terão certeza de que a marcação refere-se a um produto.</li>
+</ul>
+<p>&nbsp;</p><p>The post <a href="/conteudo/ativar-instagram-shopping/">Como ativar o Instagram Shopping?</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Personalizar opções e cores da loja</title>
+		<link>/instrucoes/personalizar-opcoes-e-cores-da-loja/</link>
+					<comments>/instrucoes/personalizar-opcoes-e-cores-da-loja/#comments</comments>
+		
+		<dc:creator><![CDATA[John-Henrique]]></dc:creator>
+		<pubDate>Sat, 11 Jan 2020 06:05:39 +0000</pubDate>
+				<category><![CDATA[Instruções]]></category>
+		<guid isPermaLink="false">/?p=13934</guid>
+
+					<description><![CDATA[<p>Este vídeo apresenta instruções sobre como personalizar opções e cores da sua loja WooCommerce</p>
+<p>The post <a href="/instrucoes/personalizar-opcoes-e-cores-da-loja/">Personalizar opções e cores da loja</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Este vídeo apresenta instruções sobre como personalizar opções e cores da sua loja WooCommerce<span id="more-13934"></span></p>
+<p><iframe loading="lazy" title="05   5   Opcoes do tema" width="980" height="551" src="https://www.youtube.com/embed/AaiZ2yorKhE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>&nbsp;</p><p>The post <a href="/instrucoes/personalizar-opcoes-e-cores-da-loja/">Personalizar opções e cores da loja</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>/instrucoes/personalizar-opcoes-e-cores-da-loja/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Jogos NFT: 5 jogos mais lucrativos 2022</title>
-		<link>https://johnhenrique.on.fleek.co/nft/jogos-nft-5-jogos-mais-lucrativos-2022.html</link>
-					<comments>https://johnhenrique.on.fleek.co/nft/jogos-nft-5-jogos-mais-lucrativos-2022.html#respond</comments>
+		<title>Como gerenciar produtos</title>
+		<link>/instrucoes/como-gerenciar-produtos/</link>
+					<comments>/instrucoes/como-gerenciar-produtos/#respond</comments>
 		
-		<dc:creator><![CDATA[John]]></dc:creator>
-		<pubDate>Sun, 30 Jan 2022 11:40:55 +0000</pubDate>
-				<category><![CDATA[NFT]]></category>
-		<category><![CDATA[Jogos NFT]]></category>
-		<category><![CDATA[P2E]]></category>
-		<guid isPermaLink="false">https://johnhenrique.on.fleek.co/?p=9504</guid>
+		<dc:creator><![CDATA[John-Henrique]]></dc:creator>
+		<pubDate>Sat, 11 Jan 2020 05:59:35 +0000</pubDate>
+				<category><![CDATA[Instruções]]></category>
+		<guid isPermaLink="false">/?p=13932</guid>
 
-					<description><![CDATA[<p>Conheça 5 jogos NFT mais lucrativos de 2022 para começar o ano com bons investimentos. Lançamento de jogos NFT 2022 Entrar no inicio do projeto é o que realmente fará você ter bons lucros em qualquer jogo NFT, por isso, é importante que você avalie bem a dinâmica do jogo antes de investir. Pensando neste&#8230; <a class="more-link" href="https://johnhenrique.on.fleek.co/nft/jogos-nft-5-jogos-mais-lucrativos-2022.html">Continuar lendo <span class="screen-reader-text">Jogos NFT: 5 jogos mais lucrativos 2022</span></a></p>
-<p>The post <a href="https://johnhenrique.on.fleek.co/nft/jogos-nft-5-jogos-mais-lucrativos-2022.html">Jogos NFT: 5 jogos mais lucrativos 2022</a> first appeared on <a href="https://johnhenrique.on.fleek.co/">JOHN-HENRIQUE</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Conheça 5 jogos NFT mais lucrativos de 2022 para começar o ano com bons investimentos.<span id="more-9504"></span></p>
-<h3>Lançamento de jogos NFT 2022</h3>
-<p>Entrar no inicio do projeto é o que realmente fará você ter bons lucros em qualquer jogo NFT, por isso, é importante que você avalie bem a dinâmica do jogo antes de investir.</p>
-<p>Pensando neste ponto de vista, listei abaixo 3 jogos que serão lançados agora no mês de Janeiro e que na minha opinião serão bastante lucrativos.</p>
-<h4>Luna Rush</h4>
-<p>É um jogo de batalha que PvE, ou seja, Player vs Computador. Basicamente você escolhe os lutadores e eles batalham sozinhos contra um inimigo.</p>
-<p>Ao final da batalha mesmo que seu time seja derrotado, você poderá desafiar o mesmo inimigo novamente, desde que sua equipe ainda tenha energia disponivel.</p>
-<p>A energia é recarregada a cada 1 hora, permitindo que você volte ao desafio novamente.</p>
-<p>Sempre que sua equipe volta ao desafio, os danos causados no inimigo permanecem os mesmos do final do desafio anterior, deste modo, você pode eliminá-lo em desafios cumulativos.</p>
-<p>Ao vencer o desafio sua equipe recebe tokens LUSH. Atualmente o token está cotado a R$ 16.</p>
-<p>Site oficial: <a href="https://lunarush.io/" target="_blank" rel="nofollow noopener">lunarush.io</a></p>
-<h4>Space Crypto</h4>
-<p>Você realiza batalhas com naves espaciais. Para comprar uma nave no jogo você precisa comprar 10 SPG. Você pode ter até 15 naves.</p>
-<p>A cada desafio sua frota de naves irá atacar uma nave inimiga, quando sua frota vence a batalha, você avança para o próximo nível até ser derrotado.</p>
-<p>Ao vencer o desafio sua frota recebe tokens SPE, até o momento não foi declarado o valor deste token. Atualmente o token SPG está cotado a R$ 7.</p>
-<p>Site oficial: <a href="https://www.spacecrypto.io/" target="_blank" rel="nofollow noopener">spacecrypto.io</a></p>
-<h4>Crypto Rockets</h4>
-<p>Apesar do nome, neste jogo, você controla naves espaciais em uma espécie de corrida, você recebe tokens de acordo com a posição da sua nave no final da corrida.</p>
-<p>Pode ser jogado com apenas uma nave que custa 250 CROCKET, o token deste jogo que atualmente está cotado a R$ 1,13.</p>
-<p>Cada nave pode realizar uma corrida a cada 24 horas, então, você precisará reabastecer para participar de novas corridas.</p>
-<p>Site oficial: <a href="https://cryptorockets.me/" target="_blank" rel="nofollow noopener">cryptorockets.me</a></p>
-<h4>Crypto Skates</h4>
-<p>O jogo consiste em percorrer a maior distância no skate, você pode comprar seu NFT com 500 CST, o token do jogo. Você também vai precisar de 5 CSTs extras para fazer recarga.</p>
-<p>Basicamente o jogo é isso, você clica para andar no skate, o jogo apresenta uma animação e te diz qual a distancia percorrida, quanto mais distante, maior a recompensa.</p>
-<p>O CST está cotado hoje a R$ 0,48.</p>
-<p>Site oficial: <a href="https://www.cryptoskates.me/" target="_blank" rel="nofollow noopener">cryptoskates.me</a></p>
-<h3>Games NFT já lançados</h3>
-<p>Entre os jogos que foram lançados no ano passado e que continuam sendo lucrativos em 2022 está o queridinho, bombcrypto!</p>
-<h4>Bomb Crypto</h4>
-<figure id="attachment_9436" aria-describedby="caption-attachment-9436" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-9436 size-full" src="https://johnhenrique.on.fleek.co/wp-content/uploads/2021/10/bombcrypto-jogo-nft.jpg" alt="Bombcrypto: Jogos NFT lucrativo em 2022" width="600" height="303" srcset="https://johnhenrique.on.fleek.co/wp-content/uploads/2021/10/bombcrypto-jogo-nft.jpg 600w, https://johnhenrique.on.fleek.co/wp-content/uploads/2021/10/bombcrypto-jogo-nft-300x152.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-9436" class="wp-caption-text">Bombcrypto: Jogos NFT lucrativo em 2022</figcaption></figure>
-<p>Neste jogo tudo que você precisa fazer é escolher seus heróis e enviá-los ao trabalho, eles vão explodir baús em busca de moedas.</p>
-<p>Cada baú explodido rende uma quantidade diferente de BCOIN, o token do jogo, atualmente cotado em R$ 10.</p>
-<p>Para jogar você precisa ter no mínimo 1 herói que custa 10 BCOINs mas, é importante lembrar que o recomendado é ter entre 10 e 15 heróis para garantir maiores rendimentos.</p>
-<p>Veja uma estimativa de rentabilidade no <a title="Bombcrypto, quanto rende um time de 10 comuns?" href="https://johnhenrique.on.fleek.co/financas/quanto-rende-um-time-de-10-herois-comuns-no-bombcrypto.html">bombcrypto para um time com 3 heróis comuns</a>.</p>
-<p>Site oficial: <a href="https://bombcrypto.io/" target="_blank" rel="nofollow noopener">bombcrypto.io</a></p>
-<p>Conheça todos os<a title="Jogos NFT lucrativos" href="https://johnhenrique.on.fleek.co/categoria/nft"> jogos NFT</a>s que listei no site.</p>
-<p>&nbsp;</p><p>The post <a href="https://johnhenrique.on.fleek.co/nft/jogos-nft-5-jogos-mais-lucrativos-2022.html">Jogos NFT: 5 jogos mais lucrativos 2022</a> first appeared on <a href="https://johnhenrique.on.fleek.co/">JOHN-HENRIQUE</a>.</p>]]></content:encoded>
+					<description><![CDATA[<p>Este vídeo apresenta instruções sobre como gerenciar produtos na sua loja virtual WooCommerce</p>
+<p>The post <a href="/instrucoes/como-gerenciar-produtos/">Como gerenciar produtos</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Este vídeo apresenta instruções sobre como gerenciar produtos na sua loja virtual WooCommerce<span id="more-13932"></span></p>
+<p><iframe loading="lazy" title="3   Gerenciar produtos" width="980" height="551" src="https://www.youtube.com/embed/baLBO0RfN3U?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>&nbsp;</p><p>The post <a href="/instrucoes/como-gerenciar-produtos/">Como gerenciar produtos</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></content:encoded>
 					
-					<wfw:commentRss>https://johnhenrique.on.fleek.co/nft/jogos-nft-5-jogos-mais-lucrativos-2022.html/feed</wfw:commentRss>
+					<wfw:commentRss>/instrucoes/como-gerenciar-produtos/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>O que é rug pull? Saiba como se prevenir</title>
-		<link>https://johnhenrique.on.fleek.co/nft/o-que-e-rug-pull-como-prevenir.html</link>
-					<comments>https://johnhenrique.on.fleek.co/nft/o-que-e-rug-pull-como-prevenir.html#respond</comments>
+		<title>Como vender todo dia na internet</title>
+		<link>/conteudo/como-vender-todo-dia-na-internet/</link>
+					<comments>/conteudo/como-vender-todo-dia-na-internet/#respond</comments>
 		
-		<dc:creator><![CDATA[John]]></dc:creator>
-		<pubDate>Sat, 29 Jan 2022 05:48:24 +0000</pubDate>
-				<category><![CDATA[NFT]]></category>
-		<category><![CDATA[Crypto]]></category>
-		<category><![CDATA[Golpe]]></category>
-		<guid isPermaLink="false">https://johnhenrique.on.fleek.co/?p=9510</guid>
+		<dc:creator><![CDATA[John-Henrique]]></dc:creator>
+		<pubDate>Sat, 11 Jan 2020 04:19:43 +0000</pubDate>
+				<category><![CDATA[Conteúdo]]></category>
+		<guid isPermaLink="false">/?p=13928</guid>
 
-					<description><![CDATA[<p>No mundo das cripto moedas o termo Rug Pull é usado com frequência. Em 2021 batermos o recorde em projetos que acabaram se revelando um golpe de rug pull. O que significa rug pull? Basicamente rug pull é o termo utilizado para identificar o golpe em que alguém puxa o tapete de outra pessoa, derrubando&#8230; <a class="more-link" href="https://johnhenrique.on.fleek.co/nft/o-que-e-rug-pull-como-prevenir.html">Continuar lendo <span class="screen-reader-text">O que é rug pull? Saiba como se prevenir</span></a></p>
-<p>The post <a href="https://johnhenrique.on.fleek.co/nft/o-que-e-rug-pull-como-prevenir.html">O que é rug pull? Saiba como se prevenir</a> first appeared on <a href="https://johnhenrique.on.fleek.co/">JOHN-HENRIQUE</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>No mundo das cripto moedas o termo Rug Pull é usado com frequência.</p>
-<p>Em 2021 batermos o recorde em projetos que acabaram se revelando um golpe de rug pull.</p>
-<p><span id="more-9510"></span></p>
-<h3>O que significa rug pull?</h3>
-<p>Basicamente rug pull é o termo utilizado para identificar o golpe em que alguém puxa o tapete de outra pessoa, derrubando ela.</p>
-<p>No mundo dos crypto games tivemos alguns casos famosos como o token SQUID, os desenvolvedores esperaram a moeda se valorizar e venderam tudo.</p>
-<p>O resultado do rug pull é percebido de imediato, os gráficos ficam em vermelho e o valor da moeda vai a zero (ou próximo), causando prejuízos aos investidores.</p>
-<figure id="attachment_9514" aria-describedby="caption-attachment-9514" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-9514 size-full" title="Rug pull do token SQUID " src="https://johnhenrique.on.fleek.co/wp-content/uploads/2022/01/squid-rug-pull-ao-vivo.png" alt="Rug pull do token SQUID " width="600" height="337" srcset="https://johnhenrique.on.fleek.co/wp-content/uploads/2022/01/squid-rug-pull-ao-vivo.png 600w, https://johnhenrique.on.fleek.co/wp-content/uploads/2022/01/squid-rug-pull-ao-vivo-300x169.png 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-9514" class="wp-caption-text">Rug pull do token SQUID</figcaption></figure>
-<p>A única pessoa que leva vantagem é o dono da carteira com mais tokens ou o dono do contrato, geralmente o desenvolvedor do projeto.</p>
-<p>&nbsp;</p>
-<h3>Como identificar um golpe?</h3>
-<p>Infelizmente este tipo de golpe só é percebido depois que ele é aplicado, ou seja, apenas quando alguém já liquidou todos os tokens.</p>
-<p>De qualquer forma é possível identificar indícios de um projeto que no futuro pode se tornar um golpe que também chamamos de SCAM.</p>
-<h4>Desenvolvedores</h4>
-<p>É muito comum o nome dos desenvolvedores não aparecerem nas páginas do projeto, como uma forma de não serem identificados, logo, não serão encontrados.</p>
-<h4>Ganhos</h4>
-<p>Projetos com promessas de ganhos rápidos e principalmente em curto prazo de tempo.</p>
-<h4>Site e White paper</h4>
-<p>O conteúdo do site ou do white paper com pouca informação ou informações incorretas.</p>
-<h4>Redes sociais</h4>
-<p>Projetos pouco confiáveis sempre possuem contas em redes sociais com pouca interação ou sem engajamento.</p>
-<h4>Vídeos no YouTube</h4>
-<p>Já notou que alguns projetos começam a ser divulgados por vários youtubers diferentes de um dia pro outro?</p>
-<p>Esta é a principal característica de uma divulgação paga, o divulgador recebe tokens para falar bem do projeto.</p>
-<h3>Principais golpes ocorridos em 2021</h3>
-<p>No ano passado houveram vários golpes rug pull, o mais famoso sem dúvidas foi do token SQUID que saiu de 2800 USD para míseros 2 centavos de dólar em menos de 10 minutos.</p>
-<p>Houveram outros projetos que também foram da lua ao pó como o jogo Crypto Mines, saiu de 130 USD para míseros 8 centavos de dólar em menos de 15 dias.</p>
-<p>Recentemente tivemos a noticia de que os jogos Crypto Cars, Crypto Guards e Crypto Planes também realizaram rug pull nos investidores, veja <a title="Cryptocars SCAM e Rug Pull encerra projeto" href="https://johnhenrique.on.fleek.co/nft/cryptocars-scam-e-rug-pull-encerra-projeto.html">Cryptocars SCAM e Rug Pull encerram o projeto</a></p>
-<p>Você pode ver mais informações técnicas sobre <a href="https://coinmarketcap.com/alexandria/glossary/rug-pull" target="_blank" rel="nofollow noopener">rug pull no site da Coin Market Cap</a>.</p><p>The post <a href="https://johnhenrique.on.fleek.co/nft/o-que-e-rug-pull-como-prevenir.html">O que é rug pull? Saiba como se prevenir</a> first appeared on <a href="https://johnhenrique.on.fleek.co/">JOHN-HENRIQUE</a>.</p>]]></content:encoded>
-					
-					<wfw:commentRss>https://johnhenrique.on.fleek.co/nft/o-que-e-rug-pull-como-prevenir.html/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Cryptocars SCAM e Rug Pull encerra projeto</title>
-		<link>https://johnhenrique.on.fleek.co/nft/cryptocars-scam-e-rug-pull-encerra-projeto.html</link>
-					<comments>https://johnhenrique.on.fleek.co/nft/cryptocars-scam-e-rug-pull-encerra-projeto.html#respond</comments>
-		
-		<dc:creator><![CDATA[John]]></dc:creator>
-		<pubDate>Fri, 28 Jan 2022 19:23:31 +0000</pubDate>
-				<category><![CDATA[NFT]]></category>
-		<guid isPermaLink="false">https://johnhenrique.on.fleek.co/?p=9505</guid>
-
-					<description><![CDATA[<p>Cryptocars, Crypto Planes e Crypto Guards fazem parte da Crypto City e esta semana foram declarados encerrados por Rug Pull. O Jogo CryptoCars Quando começou o jogo atraiu muitas pessoas que investiram pouco mais de R$ 500 em cada carrinho dentro do jogo, basicamente você apostava corrida contra outros carros e ganhava tokens, o CCAR&#8230; <a class="more-link" href="https://johnhenrique.on.fleek.co/nft/cryptocars-scam-e-rug-pull-encerra-projeto.html">Continuar lendo <span class="screen-reader-text">Cryptocars SCAM e Rug Pull encerra projeto</span></a></p>
-<p>The post <a href="https://johnhenrique.on.fleek.co/nft/cryptocars-scam-e-rug-pull-encerra-projeto.html">Cryptocars SCAM e Rug Pull encerra projeto</a> first appeared on <a href="https://johnhenrique.on.fleek.co/">JOHN-HENRIQUE</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Cryptocars, Crypto Planes e Crypto Guards fazem parte da Crypto City e esta semana foram declarados encerrados por <a title="O que é rug pull? Saiba como se prevenir" href="https://johnhenrique.on.fleek.co/nft/o-que-e-rug-pull-como-prevenir.html">Rug Pull</a>.<span id="more-9505"></span></p>
-<h3>O Jogo CryptoCars</h3>
-<p>Quando começou o jogo atraiu muitas pessoas que investiram pouco mais de R$ 500 em cada carrinho dentro do jogo, basicamente você apostava corrida contra outros carros e ganhava tokens, o CCAR de acordo com a posição que seu carro terminava a corrida.</p>
-<figure id="attachment_9506" aria-describedby="caption-attachment-9506" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" class="size-full wp-image-9506" src="https://johnhenrique.on.fleek.co/wp-content/uploads/2022/01/cryptocars-quantidade-de-jogadores.jpg" alt="" width="600" height="327" srcset="https://johnhenrique.on.fleek.co/wp-content/uploads/2022/01/cryptocars-quantidade-de-jogadores.jpg 600w, https://johnhenrique.on.fleek.co/wp-content/uploads/2022/01/cryptocars-quantidade-de-jogadores-300x164.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-9506" class="wp-caption-text">Cryptocars alcançou 721 mil jogadores em 5 meses</figcaption></figure>
-<p>A facilidade de jogar e a rentabilidade atraiu mais de 721 mil jogadores, o token chegou a valer R$ 9,77 em seu melhor momento no mês de Novembro de 2021, de lá pra cá o token foi se desvalorizando até chegar a incríveis R$ 0,08 na data de hoje (<a href="https://coinmarketcap.com/pt-br/currencies/cryptocars/" target="_blank" rel="nofollow noopener">cotação CCAR</a> hoje).</p>
-<h3>Desvalorização da token CCAR</h3>
-<p>No mês de Dezembro é normal que a maioria dos investidores liquidem seus tokens para por dinheiro no bolso, viajar e festejar o fim de ano, por isso, neste período o mercado de cryptomoedas costuma sempre ficar vermelho.</p>
-<p>Em Dezembro de 2021, a desvalorização ocorreu novamente e todos os games NFT sofreram esta desvalorização, incluindo BombCrypto, Axie Infinity, Crypto Guards, Crypto Planes e com Crypto Cars não foi diferente.</p>
-<p>2022 começou com o token CCAR em R$ 2,80 e após algumas mudanças no jogo para tentar mantê-lo rentável a longo prazo os jogadores começaram a migrar para outros jogos que estavam sendo lançados.</p>
-<p>A migração de jogadores é normal e infelizmente no mundo dos Crypto Games isso é ruim porque cada jogador é essencialmente um investidor, se ele sai, quase sempre, leva junto seu investimento, causando a desvalorização da moeda.</p>
-<h3>Cryptocars declarado como SCAM</h3>
-<p>Em Janeiro deste ano os desenvolvedores anunciaram que todos os jogadores só poderiam fazer saque se possuíssem tokens do CCAR, CGAR e CPAN na carteira mesmo que não estivessem jogando os 3 jogos.</p>
-<p>Este requisito para saque já deixou as coisas estranhas já que todo jogador precisaria investir (mesmo que minimamente) em outros 2 jogos obrigatoriamente para poder continuar jogando Crypto Cars.</p>
-<p>Estranhamente alguns jogadores notaram que as fotos e nomes dos desenvolvedores foram removidos da página oficial do jogo, sem nenhuma informação ou justificativa sobre essa simples mudança.</p>
-<p>Em 25 de Janeiro, novas regras foram aplicadas no jogo e como não é possível alterar o contrato do CCAR os desenvolvedores lançaram um novo token o CCAR2, um dos objetivos era tentar manter a estabilidade no valor da moeda.</p>
-<p>No dia 27 de Janeiro, ainda pela manhã, um moderador do servidor oficial CryptoCars no discord fez um post informando que os desenvolvedores não estavam respondendo nenhuma das tentativas de contato a alguns dias.</p>
-<p>Depois disso, um post no Twitter oficial da Certik, alertava sobre um golpe do tipo rug pull em todos os jogos da crypto city (CCAR, CGAR e CPAN), foi informado que os desenvolvedores estavam vendendo milhares de tokens silenciosamente.</p>
-<p>A venda de volumes grandes de tokens acaba causando a queda do valor das moedas porque a quantidade de venda é maior que quantidade de compras.</p>
-<p>Os moderadores do servidor CryptoCars haviam questionado os desenvolvedores sobre essas vendas de tokens e foram ignorados.</p>
-<p>Um dos desenvolvedores entrou no Discord e anunciou que estariam de férias, que o canal do discord seria fechado do dia 27 de Janeiro ao dia 7 de Fevereiro e que novas melhorias estão chegando.</p>
-<figure id="attachment_9507" aria-describedby="caption-attachment-9507" style="width: 798px" class="wp-caption aligncenter"><img loading="lazy" class="size-full wp-image-9507" src="https://johnhenrique.on.fleek.co/wp-content/uploads/2022/01/cryptocars-dev-anuncia-fecha-discord.jpg" alt="cryptocars dev anuncia fecha discord" width="798" height="400" srcset="https://johnhenrique.on.fleek.co/wp-content/uploads/2022/01/cryptocars-dev-anuncia-fecha-discord.jpg 798w, https://johnhenrique.on.fleek.co/wp-content/uploads/2022/01/cryptocars-dev-anuncia-fecha-discord-300x150.jpg 300w, https://johnhenrique.on.fleek.co/wp-content/uploads/2022/01/cryptocars-dev-anuncia-fecha-discord-768x385.jpg 768w" sizes="(max-width: 798px) 100vw, 798px" /><figcaption id="caption-attachment-9507" class="wp-caption-text">Cryptocars, desenvolvedor anuncia fechamento do Discord</figcaption></figure>
-<h3>É o fim do Cryptocars?</h3>
-<p>Após o ocorrido vários YouTubers e TikTokers começaram a publicar conteúdo informando sobre a confirmação do SCAM dos jogos CryptoCars, Crypto Guars e Crypto Planes, no final da tarde a Certik havia deletado o post que alertava sobre o SCAM!</p>
-<p>Muitas dúvidas surgiram e do nada um dos desenvolvedores informou que eles estavam de férias por conta do ano novo Chinês que ocorre sempre no final de Janeiro, tradição por lá&#8230;</p>
-<p>Acontece que após tantos acontecimentos estranhos os jogadores perderam a confiança nos projetos e começaram a vender seus tokens na esperança de retirar algum investimento do projeto.</p>
-<h3>Você conseguiu tirar seu investimento?</h3>
-<p>Particularmente havia investido R$ 3.200,00 no Crypto Cars e retirei apenas R$ 760,00 sem dúvidas levei um prejuízo enorme e existem pessoas que tiveram prejuízos muito maiores.</p>
-<p>Para aqueles que conseguiram tirar o investimento, um alívio, para aqueles que como eu perderam parte do investimento, uma decepção.</p>
-<p>Ainda existem aqueles que investiram mais de R$ 10.000,00 ou que compraram o token na alta e que vão amargar o prejuízo para sempre, para todos estes, lamento o ocorrido e espero que nos próximos investimentos tenhamos mais sorte.</p>
-<p>Para saber mais sobre crypto games veja <a href="https://johnhenrique.on.fleek.co/categoria/nft">todos os posts sobre NFT</a>.</p>
-<p>&nbsp;</p><p>The post <a href="https://johnhenrique.on.fleek.co/nft/cryptocars-scam-e-rug-pull-encerra-projeto.html">Cryptocars SCAM e Rug Pull encerra projeto</a> first appeared on <a href="https://johnhenrique.on.fleek.co/">JOHN-HENRIQUE</a>.</p>]]></content:encoded>
-					
-					<wfw:commentRss>https://johnhenrique.on.fleek.co/nft/cryptocars-scam-e-rug-pull-encerra-projeto.html/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>5 Jogos NFT baratos para começar em 2022</title>
-		<link>https://johnhenrique.on.fleek.co/financas/5-jogos-nft-baratos-para-comecar-em-2022.html</link>
-					<comments>https://johnhenrique.on.fleek.co/financas/5-jogos-nft-baratos-para-comecar-em-2022.html#respond</comments>
-		
-		<dc:creator><![CDATA[John]]></dc:creator>
-		<pubDate>Fri, 14 Jan 2022 14:48:48 +0000</pubDate>
-				<category><![CDATA[Finanças]]></category>
-		<category><![CDATA[NFT]]></category>
-		<category><![CDATA[Bombcrypto]]></category>
-		<category><![CDATA[Crypto]]></category>
-		<category><![CDATA[CryptoShips]]></category>
-		<category><![CDATA[Jogos NFT]]></category>
-		<guid isPermaLink="false">https://johnhenrique.on.fleek.co/?p=9487</guid>
-
-					<description><![CDATA[<p>Conheça 5 jogos NFT baratos para começar com baixo investimento de no máximo R$ 500 Jogos NFT baratos? O termo barato é muito relativo, cada pessoa tem uma percepção diferente do que é barato ou caro, no mundo dos jogos NFTs, consideramos um NFT barato quando ele está valendo no máximo R$ 1.000,00 mas, neste&#8230; <a class="more-link" href="https://johnhenrique.on.fleek.co/financas/5-jogos-nft-baratos-para-comecar-em-2022.html">Continuar lendo <span class="screen-reader-text">5 Jogos NFT baratos para começar em 2022</span></a></p>
-<p>The post <a href="https://johnhenrique.on.fleek.co/financas/5-jogos-nft-baratos-para-comecar-em-2022.html">5 Jogos NFT baratos para começar em 2022</a> first appeared on <a href="https://johnhenrique.on.fleek.co/">JOHN-HENRIQUE</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Conheça 5 jogos NFT baratos para começar com baixo investimento de no máximo R$ 500<span id="more-9487"></span></p>
-<h3>Jogos NFT baratos?</h3>
-<p>O termo barato é muito relativo, cada pessoa tem uma percepção diferente do que é barato ou caro, no mundo dos jogos NFTs, consideramos um NFT barato quando ele está valendo no máximo R$ 1.000,00 mas, neste post vou me limitar a jogos com investimento de até R$ 500, pode ser que algum deles seja interessante para você.</p>
-<h4>Bombcrypto</h4>
-<p>Bomberman foi um clássico dos games nos anos 80 e 90, atualmente no mundo dos NFTs temos o Bomb Crypto, um game NFT barato baseado no Bomberman, a diferença é que os heróis jogam sozinhos.</p>
-<p><img loading="lazy" class="aligncenter wp-image-9436 size-full" src="https://johnhenrique.on.fleek.co/wp-content/uploads/2021/10/bombcrypto-jogo-nft.jpg" alt="jogos NFT baratos Bombcrypto 2022" width="600" height="303" srcset="https://johnhenrique.on.fleek.co/wp-content/uploads/2021/10/bombcrypto-jogo-nft.jpg 600w, https://johnhenrique.on.fleek.co/wp-content/uploads/2021/10/bombcrypto-jogo-nft-300x152.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p>
-<p>Aqui você precisa de 10 BCOIN para comprar um herói aleatório, isto quer dizer que você pode tirar um herói, comum, raro, lendário, super lendário ou épico, quanto maior a raridade mais força o herói tem.</p>
-<p>Atualmente o BCOIN está valendo R$ 21, o que faz um NFT custar R$ 210, dá pra jogar apenas com 1 herói mas, não vale a pena, porque você demoraria muitos dias para conseguir acumular 40 BCOINs, o mínimo para fazer o saque e trocar por dinheiro, na cotação atual seriam R$ 837.</p>
-<p>Particularmente fiz um teste com uma conta bombcrypto com apenas 3 heróis comuns e outra com 10 comuns (o pior cenário), veja <a title="Bombcrypto, quanto rende um time de 10 comuns?" href="https://johnhenrique.on.fleek.co/financas/quanto-rende-um-time-de-10-herois-comuns-no-bombcrypto.html">Bombcrypto, quanto rende um time de 10 comuns?</a></p>
-<p>No dia 18/01/2022 está previsto o lançamento do novo modo de jogo (Aventura) e do marketplace, é muito provável que você consiga comprar heróis raros e comuns no mercado por preços aceitáveis mas, não espere pagar menos que 10 BCOINs.</p>
-<p>Tempo de jogo: No mínimo 30 minutos mas, quanto mais jogar, mais ganha.<br />
-Site oficial do jogo <a href="https://bombcrypto.io/" target="_blank" rel="nofollow noopener">https://bombcrypto.io/</a></p>
-<h4>Cryptoships</h4>
-<p>Corrida é o tipo de jogo queridinho no mundo dos NFTs, Cryptoships é um jogo de corrida com barcos no mesmo estilo de CryptoCars e CryptoPlanes.</p>
-<figure id="attachment_9497" aria-describedby="caption-attachment-9497" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-9497 size-full" src="https://johnhenrique.on.fleek.co/wp-content/uploads/2022/01/cryptoships-corrida-de-barcos-NFT.jpg" alt="jogos NFT baratos Cryptoships corrida de barcos NFT" width="600" height="338" srcset="https://johnhenrique.on.fleek.co/wp-content/uploads/2022/01/cryptoships-corrida-de-barcos-NFT.jpg 600w, https://johnhenrique.on.fleek.co/wp-content/uploads/2022/01/cryptoships-corrida-de-barcos-NFT-300x169.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-9497" class="wp-caption-text">Cryptoships corrida de barcos NFT</figcaption></figure>
-<p>Pra começar no jogo você precisa de um barco que custa 500 CSHIP, na cotação de hoje cada moeda vale R$ 0,80 o que faz o preço do NFT custar R$ 400.</p>
-<p>Você só precisa iniciar a corrida e o barco navega sozinho, de acordo com o resultado você recebe uma quantidade de tokens, algo em torno de 15 CSHIP (R$ 20 hoje). Cada barco faz 4 corridas por dia.</p>
-<p>Você precisa reabastecer o barco todo dia então, na primeira semana você precisará ter 10 CSHIPs para fazer o reabastecimento, na semana seguinte você poderá usar os tokens que recebeu das corridas anteriores.</p>
-<p>Tempo de jogo: 10 minutos por barco.<br />
-Site oficial do jogo <a href="https://cryptoships.club/" target="_blank" rel="nofollow noopener">https://cryptoships.club/</a></p>
-<h4>Pegaxy</h4>
-<p>Pegaxy é um jogo de corrida de cavalos mas, não é só isso, são pegasus mecânicos ou MecaPegasu. A jogabilidade é simples, você se inscreve numa corrida e seu pegaxy corre sozinho, você receberá tokens de acordo com o resultado da corrida.</p>
-<figure id="attachment_9496" aria-describedby="caption-attachment-9496" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-9496 size-full" src="https://johnhenrique.on.fleek.co/wp-content/uploads/2022/01/pegaxy-nft-jogo-corrida-de-cavalos-polygon-matic.jpg" alt="pegaxy jogos NFT baratos jogo corrida de cavalos polygon matic" width="600" height="333" srcset="https://johnhenrique.on.fleek.co/wp-content/uploads/2022/01/pegaxy-nft-jogo-corrida-de-cavalos-polygon-matic.jpg 600w, https://johnhenrique.on.fleek.co/wp-content/uploads/2022/01/pegaxy-nft-jogo-corrida-de-cavalos-polygon-matic-300x167.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-9496" class="wp-caption-text">pegaxy nft jogo corrida de cavalos polygon matic</figcaption></figure>
-<p>A moeda do jogo é a PGX, na cotação de hoje vale R$ 1,99, ela serve pra você comprar pegas mas, nas recompensas das corridas você recebe a moeda VIS (Vigorus) que atualmente vale R$ 0,25.</p>
-<p>Você pode trocar suas VIS por dólares a cada 15 dias, sem valor mínimo para saque. É importante informar que este jogo funciona na rede Polygon, então, você precisa configurar sua carteira metamask para utilizar esta rede, veja <a title="Como comprar MATIC: Passo a passo" href="https://johnhenrique.on.fleek.co/financas/como-comprar-matic-passo-a-passo.html">como configurar Polygon na metamask</a>.</p>
-<p>Cada pegas vale hoje 560 dólares, algo em torno de R$ 3.090, mas calma, você não precisa comprar um pegas porque no Pegaxy existe o modelo de aluguel então, você pode alugar um pegas.</p>
-<p>Existem 2 formas de aluguel:</p>
-<h5>Pagamento de aluguel</h5>
-<p>Neste modelo você paga um valor fixo por 1 dia de uso do pegas, ou seja, no dia da locação todas as recompensas são suas mas, ganhando ou perdendo você terá que pagar em média 40 PGX, cerca de R$ 80.</p>
-<h5>Divisão de ganhos</h5>
-<p>Este modelo é o mais interessante porém, o mais concorrido, você precisa ficar tentando várias vezes para conseguir alugar um pegas, tentei por 3 horas e consegui alugar 2.</p>
-<p>Outro ponto importante é que você precisa verificar qual o percentual que será repassado para você, qualquer oferta por menos de 10% não valerá seu tempo, cada pegas pode fazer até 25 corridas consecutivas e a cada hora de descanso poderá fazer mais uma.</p>
-<p>Nas 50 corridas que fiz, ganhei 26 VIS, porém, um dos pegas que aluguei repassava apenas 2% dos ganhos. Em no máximo 30 minutos você consegue fazer as 25 corridas, no meu caso rendeu algo em torno de R$ 6.</p>
-<h5>Observações</h5>
-<ol>
-<li>Seja rápido na hora de escolher o pegas que deseja alugar para evitar que outra pessoa alugue antes.</li>
-<li>Sempre alugue pegas em que você vá receber mais de 10% dos ganhos.</li>
-<li>Você precisa ter ao menos 1 MATIC na sua carteira metamask para pagar as taxas de corrida. 1 MATIC vale hoje cerca de R$ 12 e com isso dá pra fazer umas 500 transações.</li>
-</ol>
-<p>Tempo de jogo: 30 minutos por pegas<br />
-Site oficial do jogo <a href="https://pegaxy.io/" target="_blank" rel="nofollow noopener">https://pegaxy.io/</a></p>
-<h4>Crypto Motorcycle</h4>
-<p>Neste jogo você precisa de um NFT que é na verdade uma moto de corrida e sim, o jogo é exatamente isso, um jogo de corrida de motos, a jogabilidade é a mesma do Crypto Cars, você clica pra fazer a corrida e ele corre sozinho.</p>
-<figure id="attachment_9495" aria-describedby="caption-attachment-9495" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-9495 size-full" src="https://johnhenrique.on.fleek.co/wp-content/uploads/2022/01/cryptomotorcycle-corrida-de-moto-nft-1.png" alt="cryptomotorcycle corrida de moto nft jogos NFT baratos" width="600" height="414" srcset="https://johnhenrique.on.fleek.co/wp-content/uploads/2022/01/cryptomotorcycle-corrida-de-moto-nft-1.png 600w, https://johnhenrique.on.fleek.co/wp-content/uploads/2022/01/cryptomotorcycle-corrida-de-moto-nft-1-300x207.png 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-9495" class="wp-caption-text">cryptomotorcycle corrida de moto nft</figcaption></figure>
-<p>Existem 2 formas de você conseguir uma moto:</p>
-<ol>
-<li>Comprar uma blind box</li>
-<li>Comprar no marketplace</li>
-</ol>
-<p>A moda do jogo é a CMC, na cotação de hoje ela vale R$ 0,23 e você precisa comprar 150 tokens CMC para comprar a Blind Box econômica, ela permite comprar a moto mais barata de todas, algo em torno de R$ 40.</p>
-<p>É importante lembrar que a moto mais barata, também é a mais ruim então, se você quiser ter a chance de pegar uma moto melhor, prefira comprar a blind box de 600 CMC, com ela você tem a oportunidade de aleatoriamente pegar uma moto comum, clássica, rara ou super rara.</p>
-<p>Em todo caso, se você quiser garantir a compra de motos melhores, você pode ir no marketplace e comprar uma moto clássica por 500 CMC ou uma moto rara por 750 CMC.</p>
-<p>Cada moto pode correr 4 vezes por dia e de acordo com a posição que sua moto ficar no final da corrida, você recebe uma quantidade de tokens CMC.</p>
-<p>Tempo de jogo: 10 minutos por moto<br />
-Site oficial do jogo <a href="https://cryptomotorcycle.me/" target="_blank" rel="nofollow noopener">https://cryptomotorcycle.me/</a></p>
-<h4>Green Belli</h4>
-<p>Você só precisa de um NFT, atualmente você pode comprar um no marketplace e o valor mínimo é de R$ 180. Atualmente você pode jogar no modo PVE, o modo de jogo é estilo Axie Infinity onde seus heróis lutam entre sí.</p>
-<figure id="attachment_9494" aria-describedby="caption-attachment-9494" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-9494 size-full" title="Green Belli, jogos NFT baratos" src="https://johnhenrique.on.fleek.co/wp-content/uploads/2022/01/green-beli-jogo-nft-barato-ate-500-reais.jpg" alt="green beli jogos NFT baratos ate 500 reais" width="600" height="300" srcset="https://johnhenrique.on.fleek.co/wp-content/uploads/2022/01/green-beli-jogo-nft-barato-ate-500-reais.jpg 600w, https://johnhenrique.on.fleek.co/wp-content/uploads/2022/01/green-beli-jogo-nft-barato-ate-500-reais-300x150.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-9494" class="wp-caption-text">Green Beli jogo nft barato ate 500 reais</figcaption></figure>
-<p>A moeda do jogo é a GRBE, na cotação de hoje cada moeda vale R$ 0,19.</p>
-<p>Cada NFT dentro do jogo é um herói que possui uma quantidade limitada de energia, cada herói pode batalhar 8 vezes por dia.</p>
-<p>A cada 100.000 GRBE moedas acumuladas, você pode trocar por algo em torno de 70 dólares, cerca de R$ 380 Reais. Em média cada jogador demora cerca de 30 dias para acumular as 100.000 GRBE.</p>
-<p>Tempo de jogo: 10 minutos por herói<br />
-Site oficial do jogo <a href="https://greenbeli.io/" target="_blank" rel="nofollow noopener">https://greenbeli.io/</a></p>
-<h4>Conclusão</h4>
-<p>Você já conhecia estes jogos? Qual sua opinião sobe jogos NFTs?</p><p>The post <a href="https://johnhenrique.on.fleek.co/financas/5-jogos-nft-baratos-para-comecar-em-2022.html">5 Jogos NFT baratos para começar em 2022</a> first appeared on <a href="https://johnhenrique.on.fleek.co/">JOHN-HENRIQUE</a>.</p>]]></content:encoded>
-					
-					<wfw:commentRss>https://johnhenrique.on.fleek.co/financas/5-jogos-nft-baratos-para-comecar-em-2022.html/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Como comprar MATIC: Passo a passo</title>
-		<link>https://johnhenrique.on.fleek.co/financas/como-comprar-matic-passo-a-passo.html</link>
-					<comments>https://johnhenrique.on.fleek.co/financas/como-comprar-matic-passo-a-passo.html#comments</comments>
-		
-		<dc:creator><![CDATA[John]]></dc:creator>
-		<pubDate>Fri, 07 Jan 2022 07:06:55 +0000</pubDate>
-				<category><![CDATA[Finanças]]></category>
-		<category><![CDATA[Bridge]]></category>
-		<category><![CDATA[Crypto]]></category>
-		<category><![CDATA[Swap]]></category>
-		<guid isPermaLink="false">https://johnhenrique.on.fleek.co/?p=9474</guid>
-
-					<description><![CDATA[<p>Conheça 6 métodos para conseguir MATIC na sua carteira Metamask, além de descobrir como transferir MATIC da rede BSC Binance Smart Chain para a rede Polygon. Pré-requisito: Adicionar a rede Polygon na MetaMask Partindo do ponto que você já tem a metamask (https://metamask.io/) instalada e configurada no seu computador. Depois de instalar a MetaMask, configure&#8230; <a class="more-link" href="https://johnhenrique.on.fleek.co/financas/como-comprar-matic-passo-a-passo.html">Continuar lendo <span class="screen-reader-text">Como comprar MATIC: Passo a passo</span></a></p>
-<p>The post <a href="https://johnhenrique.on.fleek.co/financas/como-comprar-matic-passo-a-passo.html">Como comprar MATIC: Passo a passo</a> first appeared on <a href="https://johnhenrique.on.fleek.co/">JOHN-HENRIQUE</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Conheça 6 métodos para conseguir MATIC na sua carteira Metamask, além de descobrir como transferir MATIC da rede BSC Binance Smart Chain para a rede Polygon.<span id="more-9474"></span></p>
-<h3>Pré-requisito: Adicionar a rede Polygon na MetaMask</h3>
-<p>Partindo do ponto que você já tem a metamask (<a href="http://https://metamask.io/" target="_blank" rel="nofollow noopener">https://metamask.io/</a>) instalada e configurada no seu computador. Depois de instalar a MetaMask, configure uma nova conta seguindo os prompts do MetaMask.</p>
-<p>Em seguida, adicione a rede Polygon na MetaMask seguindo estas etapas:</p>
-<p>1. Abra a MetaMask e clique no botão suspenso no topo que diz “Ethereum Mainnet”</p>
-<figure id="attachment_9477" aria-describedby="caption-attachment-9477" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" class="size-full wp-image-9477" src="https://johnhenrique.on.fleek.co/wp-content/uploads/2022/01/metamask-adicionar-rede-MATIC-Polygon.png" alt="metamask adicionar rede MATIC Polygon" width="600" height="113" srcset="https://johnhenrique.on.fleek.co/wp-content/uploads/2022/01/metamask-adicionar-rede-MATIC-Polygon.png 600w, https://johnhenrique.on.fleek.co/wp-content/uploads/2022/01/metamask-adicionar-rede-MATIC-Polygon-300x57.png 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-9477" class="wp-caption-text">Selecionar rede Ethereum mainnet</figcaption></figure>
-<p>2. Role até o final da lista e clique em &#8220;<strong>RPC personalizado</strong>&#8221;</p>
-<p>3. Preencha os campos da seguinte forma:</p>
-<p>&#8211; <strong>Nome da rede</strong>: Polygon<br />
-&#8211; <strong>Novo URL RPC</strong>: https://polygon-rpc.com/<br />
-&#8211; <strong>ID da chain</strong>: 137<br />
-&#8211; <strong>Símbolo da moeda</strong>: MATIC<br />
-&#8211; <strong>URL do block explorer</strong>: https://polygonscan.com/</p>
-<p>4. Clique em &#8220;Salvar&#8221;</p>
-<h3>Como conseguir MATIC na Polygon</h3>
-<p>Dentro da rede Polygon você precisa ter a moeda MATIC para pagar as taxas das transações que você realizar. As taxas são realmente baratas, normalmente você paga algo entre 0,02 MATIC por transação, deste modo, com 1 ou 2 MATICs você consegue fazer entre 50 a 100 transações.</p>
-<h3>Porque preciso ter MATIC na rede Polygon?</h3>
-<p>Se você quiser comprar tokens dentro da blockchain da Polygon, você obrigatoriamente precisará de tokens MATIC para pagar as taxas, você pode usá-los para fazer staking e até mesmo para comprar NFTs, outros tokens e jogar. Conheça alguns <a title="O que são jogos NFTs, criptomoedas e blockchain?" href="https://johnhenrique.on.fleek.co/tecnologia/jogos-nfts-criptomoedas.html">jogos NFT</a>.</p>
-<h4>Método 1: Comprar MATIC na Exchange</h4>
-<p>É possível comprar MATIC diretamente na sua carteira Polygon de uma corretora compatível (Ascendex, MEXC, Okcoin, OKEx, BitForex), aqui no Brasil poucas pessoas utilizam estas corretoras e particularmente é trabalhoso fazer todo o cadastro, enviar documentos e aguardar a aprovação só para comprar alguns tokens.</p>
-<h4>Método 2: Transak</h4>
-<p>Você pode comprar MATIC no usando seu cartão de crédito no site da Transak, acesse https://global.transak.com/ e siga as instruções abaixo:</p>
-<ol>
-<li>Certifique-se de selecionar <strong>USDC</strong> na <strong>rede Polygon</strong> na caixa &#8220;Você recebe&#8221;</li>
-<li>Converta seu USDC em MATIC usando o “Método 6: Trocar por gás” abaixo</li>
-</ol>
-<p>Nota: Atualmente, a Transak limita o tamanho máximo da transação a USD $500, no momento deste post, a compra usando Real Brasileiro está desativada.</p>
-<h4>Método 3: MoonPay</h4>
-<p>Se você tem Ethereum (ETH) na rede Ethereum, você pode convertê-las usando a MoonPay, acesse para https://www.moonpay.com/ e siga as instruções:</p>
-<ol>
-<li>Selecione &#8220;MATIC &#8211; Polygon (Polygon)&#8221; no campo &#8220;Moeda&#8221;</li>
-<li>No campo &#8220;Valor&#8221; informe quantos Reais você quer comprar, o mínimo é R$ 200</li>
-<li>Clique no botão continuar</li>
-<li>Sua carteira metamask será aberta e você precisará assinar e autorizar</li>
-<li>Você verá que o endereço da sua carteira foi adicionado ao campo &#8220;Endereço da carteira&#8221;, clique em &#8220;Continuar&#8221;</li>
-<li>Informe seu email e clique em &#8220;Continuar&#8221;</li>
-<li>Siga as instruções da tela</li>
-</ol>
-<h4>Método 4: Ponte de Ethereum (Ponte Polygon)</h4>
-<ol>
-<li>Mude para a rede “Ethereum Mainnet” clicando no botão suspenso no topo da MetaMask</li>
-<li>Acesse https://wallet.polygon.technology/bridge</li>
-<li>Conecte sua carteira MetaMask e assine a mensagem na MetaMask que confirma a propriedade de sua carteira</li>
-<li>Em “Da rede Ethereum”, selecione qualquer token com valor em sua carteira e um valor de sua escolha</li>
-<li>Clique em &#8216;Transferir&#8217; e siga as instruções</li>
-<li>Confirme a transação na MetaMask (isso vai custar ETH adicional para pagar as taxas de gás/transação, que podem ser bastante caras)</li>
-<li>Aguarde cerca de 8 minutos para que o saldo MATIC da rede Polygon seja atualizado</li>
-<li>Converta qualquer token que você transferiu para MATIC usando o &#8220;Método 6: Trocar por gás&#8221; abaixo</li>
-</ol>
-<h4>Método 5: Transferência entre redes (bridge)</h4>
-<p>Existem vários aplicativos de &#8220;ponte&#8221; que permitem a transferência de tokens de uma rede para outra, neste caso, vamos <strong>transferir MATIC da rede BSC para a rede Polygon</strong>, este processo é chamado de ponte porque os tokens podem atravessar de uma rede para outra.</p>
-<p>O <a href="https://www.xpollinate.io/" target="_blank" rel="nofollow noopener">xPollinate</a> permite transferir tokens da BSC para a Polygon, além de outras blockchains como:</p>
+					<description><![CDATA[<p>Se você vende algum produto ou serviço, você já deve ter se perguntado como vender todos os dias, estou certo? Essa árdua tarefa pode ser um desafio, principalmente para as pessoas que acabaram de entrar no mundo do empreendedorismo digital. Não estou aqui para iludir ninguém. A tarefa é complicada, mas não é impossível. Apesar de [&#8230;]</p>
+<p>The post <a href="/conteudo/como-vender-todo-dia-na-internet/">Como vender todo dia na internet</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Se você vende algum produto ou serviço, você já deve ter se perguntado <strong>como vender todos os dias</strong>, estou certo?</p>
+<p>Essa árdua tarefa pode ser um desafio, principalmente para as pessoas que acabaram de entrar no mundo do empreendedorismo digital.</p>
+<p>Não estou aqui para iludir ninguém. A tarefa é complicada, mas não é impossível.</p>
+<p>Apesar de encontrarmos pessoas a nossa volta dizendo o quanto a situação econômica do país está prejudicando seus respectivos negócios, ainda assim encontramos casos de empreendedores que encontraram uma forma de “surfar nas violentas ondas da crise”.</p>
+<p>Para você ter uma ideia, apenas na área de e-commerce, o Brasil arrecadou mais de R$ 60 bilhões em 2017. Os números expressivos mostram o quanto o mercado digital tende a crescer ainda mais em nosso país.</p>
+<p>Para entrar na estatística positiva citada na reportagem, é fundamental que você saiba como vender todos os dias em seu empreendimento.</p>
+<p>Depois de ler este artigo, você saberá os passos práticos para aumentar o faturamento da sua empresa.</p>
+<p>Confira agora 6 dicas que vão te ajudar como vender todos os dias.<span id="more-13928"></span></p>
+<h3>1 &#8211; Tenha um canal de comunicação</h3>
+<p>Por conta da popularização das redes sociais, é natural que surja diferentes mídias, cada uma focada em seus próprios objetivos.</p>
+<p>Para entender como vender todos os dias, você deve saber quais dos canais disponíveis mais se encaixam em sua estratégia.</p>
+<p>Nos dias de hoje, essa prática é fundamental para que o público tenha interesse em seu produto. Afinal, dificilmente você compraria um produto sem entender o funcionamento ou a loja a ser contactada, correto?</p>
+<p>Por outro lado, ao desenvolver conteúdos próprios, as pessoas naturalmente terão interesse em acompanhar o seu trabalho.</p>
+<p>Além disso, o desenvolvimento de um canal de comunicação permite que você construa uma autoridade e assim, passar maior confiança para o público no momento de uma compra.</p>
+<p>Para isso, você pode escolher os seguintes canais:</p>
 <ul>
-<li>Binance Smart Chain (BSC)</li>
-<li>Fantom</li>
-<li>Arbitrum</li>
-<li>Avalanche</li>
-<li>xDai</li>
+<li><strong>Instagram:</strong> plataforma focada em fotos e vídeos;</li>
+<li><strong>Facebook:</strong> mídia social mais conhecida no momento, onde é possível utilizar fotos, vídeos e textos para divulgar seu conteúdo;</li>
+<li><strong>Linkedin:</strong> rede social focada em contatos profissionais;</li>
+<li><strong>Twitter:</strong> ferramenta focada em textos e mensagens curtas;</li>
+<li><strong>Youtube:</strong> para vídeos em geral;</li>
+<li><strong>Blogs:</strong> canal próprio onde é possível usar tanto formato de áudio, vídeo, foto ou texto, principalmente.</li>
 </ul>
-<p>Desta forma você pode transferir tokens de sua rede escolhida para o Polygon usando xPollinate.</p>
-<p>É possível transferir USDT da rede BSC para MATIC usando o xPollinate, você pagará uma pequena taxa de 10% e a transação é realizada em poucos minutos. Siga as instruções:</p>
-<figure id="attachment_9478" aria-describedby="caption-attachment-9478" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" class="size-full wp-image-9478" src="https://johnhenrique.on.fleek.co/wp-content/uploads/2022/01/polygon-transferir-USDT-da-BSC-para-Polygon.jpg" alt="polygon transferir USDT da BSC para Polygon" width="600" height="349" srcset="https://johnhenrique.on.fleek.co/wp-content/uploads/2022/01/polygon-transferir-USDT-da-BSC-para-Polygon.jpg 600w, https://johnhenrique.on.fleek.co/wp-content/uploads/2022/01/polygon-transferir-USDT-da-BSC-para-Polygon-300x175.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-9478" class="wp-caption-text">Você pode transferir tokens da rede BSC para Polygon usando a xPollinate</figcaption></figure>
-<ol>
-<li>Acesse o site xpollinate.io</li>
-<li>No campo &#8220;From&#8221;, selecione &#8220;BSC&#8221; e no campo logo abaixo, escolha a moeda que deseja transferir (eu escolhi USDT)</li>
-<li>Em &#8220;To&#8221;, escolha a rede &#8220;Polygon&#8221;</li>
-<li>No campo &#8220;Amount&#8221;, informe quantos tokens deseja transferir</li>
-<li>Por fim basta clicar em &#8220;Swap USDT&#8221; e seguir as instruções.</li>
-</ol>
-<p>Depois de fazer a transferência, você precisa acessar sua metamask e trocar a rede para &#8220;Polygon&#8221;, se você não conseguir ver o saldo USDT, você precisará adicionar o token na metamask. Resta agora comprar MATIC, certo? Veja como fazer no &#8220;Método 6&#8221;.</p>
-<h4>Método 6: Swap for gas token</h4>
-<p>Requisito: Você precisa ter um token com valor em sua carteira na rede Polygon. Se você seguiu o &#8220;Método 5: Transferência entre redes (bridge)&#8221;, você tem USDT na rede Polygon então, basta seguir os passos abaixo.</p>
-<p>Se esta é a sua primeira vez na rede Polygon, você provavelmente não tem MATIC na carteira para pagar taxas das transações, sendo assim, este método é o mais indicado pra você <strong>comprar MATIC na rede Polygon</strong>.</p>
-<ol>
-<li>Mude para a rede “Polygon” na MetaMask (se ainda não o fez)</li>
-<li>Acesse https://wallet.polygon.technology/gas-swap</li>
-<li>Escolha a quantidade de MATIC que deseja comprar (clique em uma quantidade predefinida ou digite sua própria quantidade personalizada), por exemplo, 1 ou 2 MATICs</li>
-<li>Em &#8220;Swap from&#8221;, escolha o token USDT, é ele que vamos converter parcialmente em MATIC.</li>
-<li>Clique em &#8220;Approve&#8221; e assine a transação sem gás na MetaMask</li>
-<li>Clique em &#8220;Swap&#8221; e assine a transação sem gás na MetaMask</li>
-</ol>
-<p>Aguarde o processo finalizar e pronto, sua metamask já vai mostrar seu saldo em MATIC e você já poderá realizar transações dentro da rede Polygon. Você poderá inclusive comprar mais MATICs se desejar.</p><p>The post <a href="https://johnhenrique.on.fleek.co/financas/como-comprar-matic-passo-a-passo.html">Como comprar MATIC: Passo a passo</a> first appeared on <a href="https://johnhenrique.on.fleek.co/">JOHN-HENRIQUE</a>.</p>]]></content:encoded>
+<p>Não há uma regra a ser seguida, a única dica que recomendamos é que você foque apenas em uma mídia, antes de começar a usar outra.</p>
+<p>Isso se deve ao fato de demorar um certo tempo até que o seu perfil “engrene” e consiga trazer resultados. Além do fato de permitir que você conheça por completo as suas funcionalidades.</p>
+<p>Outro ponto importante a se observar é priorizar as redes que o seu público alvo mais utiliza, para obter mais resultados em vendas.</p>
+<p>Quando produzimos um conteúdo para as plataformas, podemos inserir, de forma estratégica, ofertas que estejam relacionadas ao material postado.</p>
+<p>Assim, sem que o cliente perceba, ele poderá se interessar e fará questão de fechar uma compra com a sua empresa, como forma de agradecimento pelo conhecimento oferecido.</p>
+<h3><span id="2_8211_Tenha_contato_proximo_de_clientes">2 &#8211; Tenha contato próximo de clientes</span></h3>
+<p>Como dito no item anterior, a produção de conteúdo permite realizar o que chamamos de “vendas invisíveis”.</p>
+<p>Ou seja, gerar ofertas sem a necessidade de apelar para propagandas invasivas, que demonstre algum desespero pela compra do usuário.</p>
+<p>Por esse motivo é importante que você desenvolva uma boa comunicação com o seu público. Seja tirando dúvidas, respondendo comentários, interagindo com os visitantes, as pessoas vão notar a importância que você dá ao contato humano.</p>
+<p>Assim, no momento de realizar a oferta, os visitantes terão menos objeções em comprar o seu produto.</p>
+<p>Mas fique atento, não é porque a venda foi concretizada que você pode esquecer do seu cliente.</p>
+<p>De acordo com Joe Girard, considerado o maior vendedor de carros do mundo, o processo de venda inicia apenas após o cliente assinar o contrato de compra.</p>
+<p>A mensagem nos traz uma valiosa lição para quem deseja saber como vender todos os dias: o pós-venda é o segredo para fidelizar os clientes, e conseguir mais indicações de potenciais clientes.</p>
+<p>Para comprovar o fato, há uma pesquisa feita pela companhia <em>White House Office of Consumer Affair</em> que diz que os consumidores satisfeitos com o pós venda tendem a indicar a empresa para até 6 conhecidos.</p>
+<h3><span id="3_8211_Seja_pro-ativo">3 &#8211; Seja pró-ativo</span></h3>
+<p>Seguindo as mensagens deixadas por Joe Girard, para ser um vendedor bem-sucedido é preciso demonstrar proatividade, mesmo que o seu negócio seja feito pela internet.</p>
+<p>Em sua época, diferente dos vendedores comuns, o maior vendedor de carros fazia questão de ligar para os seus clientes, pedir indicações e oferecer benefícios para aqueles que ajudaram a fechar suas vendas.</p>
+<p>Trazendo para os tempos de hoje, você deve seguir o mesmo pensamento: produza conteúdos com qualidade, que façam os visitantes ficarem de boca aberta por ter a possibilidade de encontrar um material tão valioso de graça na internet.</p>
+<p>Além disso, mostre quem você é, vá a eventos, venda a sua ideia ao vivo, faça networking.</p>
+<p>Ao manter um contato próximo das pessoas, mesmo que não sejam a sua persona, você poderá receber indicações caso encontre uma boa oportunidade.</p>
+<h3>4 &#8211; Aproveite os recursos do marketing</h3>
+<p>Para complementar a experiência de vendas, nada melhor do que entender um pouco sobre marketing, correto?</p>
+<p>Apesar de parecer básico, muitos empreendedores negligenciam a prática de marketing acreditando ser algo demorado.</p>
+<p>O problema é que os resultados levam mesmo algum tempo para aparecer, com o marketing. Sem ele, os resultados simplesmente não aparecerão.</p>
+<p>Por outro lado, depois de entender o seu funcionamento, o marketing deixará de ser um simples custo para se tornar um verdadeiro aliado, um grande investimento para acelerar o seu negócio, se tornando uma verdadeira prática de como vender todos os dias.</p>
+<p>Por meio do impulsionamento de posts, por exemplo, os produtos da companhia passam a receber um número maior de visualizações e consequentemente, um número maior de usuários interessados.</p>
+<p>Para iniciar com suas campanhas de marketing, invista pouco no início, utilize a prática de teste A/B para entender quais ações trazem melhores resultados e, procure investir nas campanhas que já deram certo.</p>
+<h3><span id="5_8211_Veja_o_que_esta_em_alta_no_momento">5 &#8211; Veja o que está em alta no momento</span></h3>
+<p>Você já deve estar farto de escutar o quanto os empreendedores devem inovar para se manter no mercado, certo?</p>
+<p>Mas fique tranquilo, aqui abordaremos outro ponto de vista.</p>
+<p>Em nosso dia a dia, por conta da interação nas redes sociais, contamos com a criatividade de inúmeros artistas anônimos, que são capazes de literalmente virar celebridades do dia para a noite.</p>
+<p>Afinal, você já deve ter visto vídeos, fotos, notícias e principalmente memes que tomaram conta da internet, não é mesmo?</p>
+<p>E se você pudesse aproveitar a onda para divulgar os seus produtos?</p>
+<p>Essa estratégia tem sido utilizada (e bem recebida) pelo público. Além de mostrar que você está antenado às “novidades memeísticas”, as brincadeiras saudáveis permitem que as pessoas se conectem mais com você, tornando o contato mais humano entre cliente e empresa.</p>
+<p>Dessa forma, naturalmente as pessoas passarão a acompanhar e divulgar o seu trabalho, tornando a prática de como vender todos os dias um sucesso para o seu negócio.</p>
+<p>Porém, fique atento! Antes de sair fazendo piadas, é preciso analisar muito bem qual o assunto do momento.</p>
+<p>Apesar de a prática de marketing polêmico funcionar muito bem, dependendo do seu posicionamento, o simples fato de mostrar a sua opinião pode colocar toda a estratégia por água abaixo.</p>
+<p>Por isso, em caso de dúvida, fique longe!</p>
+<h3>6 &#8211; Saiba como vender todos os dias usando a venda recorrente</h3>
+<p>Não há como negar, o plano de recorrência é uma das melhores formas utilizadas por empreendedores de sucesso que sabem como vender todos os dias na internet.</p>
+<p>E um fato interessante é que o formato está no mercado há muitos anos! Afinal, você já deve ter se deparado com assinaturas de jornais, revistas ou mensalidades de escolas, certo?</p>
+<p>Com o avanço da tecnologia, empresários, seja do ramo físico, seja do ramo digital, viram a oportunidade de programar as suas vendas para o resto do ano.</p>
+<p>Dessa forma, ao captar alguns clientes, você terá maior tranquilidade para encontrar novos prospectos, eliminando a necessidade de “matar um leão por dia” para cumprir as metas da semana.</p>
+<p>Caso esteja com dúvidas onde os modelos de assinatura podem ser utilizados, basta olhar a sua volta: Netflix, Spotify, Amazon, clube de livros…</p>
+<p>Até mesmo empresas de vinhos passaram a usar as vendas recorrentes. É possível desafiar a sua própria criatividade para saber como vender todos os dias!</p>
+<p>A venda no modelo de recorrência é uma excelente maneira de vender todos os dias.</p>
+<h2><span id="Descubra_mais_informacoes_sobre_como_vender_todos_os_dias">Descubra mais informações sobre como vender todos os dias!</span></h2>
+<p>Depois de analisar os tópicos acima, podemos destacar o quanto o contato humano se tornou essencial para a negociação com o cliente numa era tão digitalizada.</p>
+<p>Diferente dos anos quarenta e setenta, a comunicação passou por grandes transformações, se compararmos ao nosso dia a dia.</p>
+<p>Enquanto naquela época bastava inserir uma oferta entre os programas de TV, rádio ou jornal para atrair a atenção do público, hoje as coisas não são bem assim.</p>
+<p>Hoje as pessoas se tornaram mais seletivas, desconfiadas com o que vão consumir. Por esse motivo, cabe a você desenvolver o relacionamento com os seus clientes para entender como vender todos os dias.</p><p>The post <a href="/conteudo/como-vender-todo-dia-na-internet/">Como vender todo dia na internet</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></content:encoded>
 					
-					<wfw:commentRss>https://johnhenrique.on.fleek.co/financas/como-comprar-matic-passo-a-passo.html/feed</wfw:commentRss>
+					<wfw:commentRss>/conteudo/como-vender-todo-dia-na-internet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>10 razões para você começar sua loja virtual</title>
+		<link>/noticias/10-razoes-para-voce-comecar-sua-loja-virtual/</link>
+					<comments>/noticias/10-razoes-para-voce-comecar-sua-loja-virtual/#comments</comments>
+		
+		<dc:creator><![CDATA[John-Henrique]]></dc:creator>
+		<pubDate>Sat, 11 Jan 2020 03:22:00 +0000</pubDate>
+				<category><![CDATA[Notícias]]></category>
+		<guid isPermaLink="false">/?p=13925</guid>
+
+					<description><![CDATA[<p>Antes esse desejo ficava apenas naquela lista de intenções guardadas no fundo de uma gaveta, e raramente saía do papel, porém, atualmente, é cada vez mais fácil abrir o seu próprio negócio através do comércio eletrônico, além de ser mais vantajoso. Aliás, você sabia que, atualmente, muitas lojas físicas estão fechando e apostando somente nas [&#8230;]</p>
+<p>The post <a href="/noticias/10-razoes-para-voce-comecar-sua-loja-virtual/">10 razões para você começar sua loja virtual</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Antes esse desejo ficava apenas naquela lista de intenções guardadas no fundo de uma gaveta, e raramente saía do papel, porém, atualmente, é cada vez mais fácil abrir o seu próprio negócio através do comércio eletrônico, além de ser mais vantajoso.</p>
+<p>Aliás, você sabia que, atualmente, muitas lojas físicas estão fechando e apostando somente nas lojas online? Essa tendência já é uma realidade bem nítida em mercados gigantescos como o norte-americano, onde lojas físicas de renome fecharam suas portas para trabalhar somente com o e-commerce, como é o caso da Macy’s e a The Limited.</p>
+<p>É claro que o comércio de varejo continuará existindo ainda por muitos e muitos anos, mas para que ele sobreviva, precisará se reinventar cada vez mais, enquanto as lojas virtuais crescem e continuarão crescendo em uma proporção cada vez maior.</p>
+<p>E não é para menos! São inúmeros os motivos para apostar em um e-commerce e aqui iremos listar para você apenas 10, acompanhe:<span id="more-13925"></span></p>
+<h3>1. Aproveite a oportunidade</h3>
+<p>O mercado do e-commerce é bastante promissor e você pode perceber isso quando verifica a quantidade de lojas online abrindo em relação às lojas físicas. De acordo com o WebShoppers 35, divulgado pelo Ebit, O e-commerce brasileiro fechou 2016 com faturamento de R$ 44,4 bilhões, crescimento nominal de 7,4% ante os R$ 41,3 bilhões registrados em 2015. Sim, o e-commerce é um dos mercados mais promissores no Brasil, então, aproveite esta grande oportunidade!</p>
+<h3>2.Tenha um custo mais baixo</h3>
+<p>Primeiramente, no comércio online não é preciso gastar para abrir uma loja linda e… cara! Atuar através de uma loja virtual dispensa uma grande estrutura física, equipe de funcionários, treinamentos, gastos com energia elétrica, aluguel, ponto, encargos altíssimos, etc. Os custos que você vai ter estarão mais relacionados à elaboração da sua loja online, compra de um estoque inicial (se for o caso) e muito investimento em marketing digital, para já começar vendendo muito!</p>
+<h3>3. Ofereça conveniência e conforto</h3>
+<p>O e-commerce possui a vantagem de oferecer ao cliente a conveniência e o conforto de não precisar sair de casa para comprar, conseguindo assim, gerar vendas tão logo o desejo do cliente pela compra aconteça. Os consumidores conseguem fazer uma compra de qualquer lugar onde estiverem, inclusive estando fora do país. Mas atenção, a experiência de compra online precisa ser rica, pois aqui está um dos meios de se diferenciar dos seus concorrentes!</p>
+<h3>4. Esteja aberto a qualquer hora do dia (ou da noite!)</h3>
+<p>O fato de poder funcionar 24 horas por dia, todos os dias da semana, certamente é um dos fatores mais vantajosos para investir no comércio eletrônico. Imagine só, enquanto você dorme, sua loja pode estar aberta e vendendo! \o/\o/\o/</p>
+<h3>5. Comercialize sem fronteiras</h3>
+<p>No e-commerce o seu espaço é a internet, ou seja, não há fronteiras, dessa forma, sua gama de clientes fica muito mais ampla, aumentando consideravelmente o tamanho da sua praça.</p>
+<p>Você poderá vender para clientes de outros estados ou até países, mesmo que eles estejam a quilômetros de distância de você. Além disso, sua loja online poderá aproveitar as nuances e particularidades de um mercado gigantesco, explorando cada nicho de forma otimizada.</p>
+<h3>6. Tenha seu estoque do tamanho que quiser e onde quiser!</h3>
+<p>As formas de trabalhar através do comércio eletrônico são inúmeras e dessa forma o seu estoque físico, muitas vezes, pode nem estar à mão. Você pode, por exemplo, divulgar produtos que estão no estoque do seu fornecedor, e adquiri-los somente depois que o seu cliente realizar a compra, ou então, você pode trabalhar com um estoque reduzido, verificando a demanda do mercado para ir se ajustando ao que está sendo mais solicitado no momento. Muito mais prático, não é mesmo?</p>
+<h3>7. Tenha acesso às melhores ferramentas de marketing digital</h3>
+<p>Para divulgar o seu e-commerce, você terá acesso a ferramentas de marketing digital muito mais refinadas do que no comércio convencional, onde é preciso gastar muito dinheiro com propagandas e publicidade para que haja um resultado satisfatório.</p>
+<p>No comércio eletrônico, explore os recursos oferecidos dentro da própria internet, tais como anúncios pagos (os quais são bem mais baratos do que um anúncio em outdoor, por exemplo!), redes sociais, Blogs, SEO, Adwords, dentre outros.</p>
+<p>Além de terem um custo menor, as ferramentas de marketing digital oferecem formas muito mais precisas de mensuração de resultados, facilitando a mudança de estratégias sempre que necessário, favorecendo também que você conheça melhor o seu público e estabeleça um relacionamento com ele, gerando assim mais vendas e aumentando seu faturamento.</p>
+<h3>8. Brigue com os grandes</h3>
+<p>Na internet, empresas de diferentes tamanhos estão convivendo e disputando o mesmo ambiente virtual, o que favorece uma concorrência mais saudável, beneficiando tanto os clientes quanto as próprias empresas. É importante que você conheça bem seu produto, divulgue-o de modo estratégico e aproveite da melhor forma as chances que o ambiente online dispõe, sem se preocupar tanto se a concorrência está te sufocando, na internet ainda há mais espaço para respirar!</p>
+<div class="rock-convert-banner"><a href="/gestao-loja-virtual?utm_medium=rock-convert&utm_source=banner&utm_campaign=textos" target="_blank" class="rock-convert-cta-link" data-cta-id="24842" data-cta-title="Curso WooCommerce"><img width="600" height="200" src="/wp-content/uploads/2022/08/crie-sua-propria-loja-virtual-woocommerce.jpg" class="attachment-full size-full" alt="crie sua própria loja virtual woocommerce" loading="lazy" title="Curso WooCommerce" srcset="/wp-content/uploads/2022/08/crie-sua-propria-loja-virtual-woocommerce.jpg 600w, /wp-content/uploads/2022/08/crie-sua-propria-loja-virtual-woocommerce-300x100.jpg 300w, /wp-content/uploads/2022/08/crie-sua-propria-loja-virtual-woocommerce-416x139.jpg 416w" sizes="(max-width: 600px) 100vw, 600px" /></a></div>
+<h3>9. Concilie mais atividades em sua vida profissional</h3>
+<p>Trabalhar através do comércio eletrônico é muito vantajoso para pessoas que gostam de estar em lugares diferentes de tempos em tempos, ou que precisam realizar outras atividades profissionais. É possível conciliar uma loja virtual com uma atividade paralela, pelo menos até que você queira se dedicar integralmente ao seu e-commerce!</p>
+<p>Quer mais um bom motivo para apostar em um e-commerce?</p>
+<p>Então te daremos mais uma excelente razão para explorar este novo segmento de mercado:</p>
+<h3>10. Você tem a possibilidade de contar com profissionais experientes e gabaritados para te dar todo o suporte necessário neste novo negócio!</h3>
+<p>Sim, imagine numa loja física qual seria o gasto que você teria com uma equipe multidisciplinar para te dar todo o suporte em manutenção, marketing, consultoria de mercado, etc? Ao abrir um e-commerce, é possível contar com todo o apoio de uma agência, recebendo todo o suporte de profissionais que já estão bastante familiarizados com todo este universo, passando muito mais segurança e assertividade para todas as suas ações!</p>
+<p>Agora sim você já sabe que existem pelo menos 10 bons argumentos para colocar o seu sonho de abrir o seu próprio negócio em prática! E não se esqueça, se precisar de uma ajudinha, conte com a gente!</p><p>The post <a href="/noticias/10-razoes-para-voce-comecar-sua-loja-virtual/">10 razões para você começar sua loja virtual</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>/noticias/10-razoes-para-voce-comecar-sua-loja-virtual/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
@@ -641,7 +552,6 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Page is feed) 
 Minified using disk
-Database Caching 19/84 queries in 0.068 seconds using disk
 
-Served from: johnhenrique.com.br @ 2022-08-22 03:13:50 by W3 Total Cache
+Served from: woocommerce.com.br @ 2022-08-23 14:29:34 by W3 Total Cache
 -->

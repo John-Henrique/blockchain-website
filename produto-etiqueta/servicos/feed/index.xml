@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Serviços | WooCommerce no Brasil</title>
+	<atom:link href="/produto-etiqueta/servicos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Crie sua loja virtual com a gente</description>
+	<lastBuildDate>Mon, 15 Oct 2018 20:51:49 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2020/05/cropped-Woocommerce-32x32.png</url>
+	<title>Serviços | WooCommerce no Brasil</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Instalar certificado SSL</title>
+		<link>/loja/instalar-certificado-ssl/</link>
+					<comments>/loja/instalar-certificado-ssl/#respond</comments>
+		
+		<dc:creator><![CDATA[John-Henrique]]></dc:creator>
+		<pubDate>Sat, 11 Aug 2018 16:23:17 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=1860</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/loja/instalar-certificado-ssl/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tradução de tema</title>
+		<link>/loja/traducao-de-tema/</link>
+					<comments>/loja/traducao-de-tema/#respond</comments>
+		
+		<dc:creator><![CDATA[John-Henrique]]></dc:creator>
+		<pubDate>Tue, 19 Jun 2012 21:59:47 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=451</guid>
+
+					<description><![CDATA[<p>Quando você compra um tema normalmente ele vem apenas no idioma Inglês, isto de certa forma prejudica sua loja virtual porque seu cliente pode não achar muito confiável comprar numa loja escrita apenas em Inglês ou parte em Inglês e outra parte em Português. A loja perde credibilidade e não oferece profissionalismo. A tradução do [&#8230;]</p>
+<p>The post <a href="/loja/traducao-de-tema/">Tradução de tema</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Quando você compra um tema normalmente ele vem apenas no idioma Inglês, isto de certa forma prejudica sua loja virtual porque seu cliente pode não achar muito confiável comprar numa loja escrita apenas em Inglês ou parte em Inglês e outra parte em Português. A loja perde credibilidade e não oferece profissionalismo.</p>
+<p>A tradução do tema é a solução para este problema. Este serviço oferece a tradução total do tema para sua loja virtual. Apenas Inglês para Português do Brasil.</p>
+<p><strong>Prazo de entrega</strong><br />
+Entrega do tema traduzido em até 3 dias úteis após o recebimento do material (tema em Inglês).</p>
+<p>[alert]Antes de comprar temas verifique se ele é compatível com o WooCommerce.[/alert]</p>
+<p><strong>O que seria o material?</strong></p>
+<p>Para realizar a tradução do seu tema precisamos receber uma cópia de todo o tema, da mesma forma que você o recebeu (em arquivo .zip). Basta envia-lo como anexo em um email. Quando terminarmos a tradução responderemos seu email com uma cópia do tema traduzido, você precisará apenas instala-lo.</p><p>The post <a href="/loja/traducao-de-tema/">Tradução de tema</a> first appeared on <a href="/">WooCommerce no Brasil</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>/loja/traducao-de-tema/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced (Page is feed) 
+Minified using disk
+
+Served from: woocommerce.com.br @ 2022-08-23 14:37:37 by W3 Total Cache
+-->
